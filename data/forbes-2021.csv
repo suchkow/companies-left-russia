@@ -1,0 +1,2101 @@
+﻿Name;Country;Sales;Profit;Assets;Market Value
+ICBC;China;$190.5 B;$45.8 B;$4,914.7 B;$249.5 B
+JPMorgan Chase;United States;$136.2 B;$40.4 B;$3,689.3 B;$464.8 B
+Berkshire Hathaway;United States;$245.5 B;$42.5 B;$873.7 B;$624.4 B
+China Construction Bank;China;$173.5 B;$39.3 B;$4,301.7 B;$210.4 B
+Saudi Arabian Oil Company (Saudi Aramco);Saudi Arabia;$229.7 B;$49.3 B;$510.3 B;$1,897.2 B
+Apple;United States;$294 B;$63.9 B;$354.1 B;$2,252.3 B
+Bank of America;United States;$98.8 B;$17.9 B;$2,832.2 B;$336.3 B
+Ping An Insurance Group;China;$169.1 B;$20.8 B;$1,453.8 B;$211.2 B
+Agricultural Bank of China;China;$153.9 B;$31.3 B;$4,159.9 B;$140.1 B
+Amazon;United States;$386.1 B;$21.3 B;$321.2 B;$1,711.8 B
+Samsung Electronics;South Korea;$200.7 B;$22.1 B;$348.2 B;$510.5 B
+Toyota Motor;Japan;$249.4 B;$14.3 B;$561.9 B;$219.2 B
+Alphabet;United States;$182.4 B;$40.3 B;$319.6 B;$1,538.9 B
+Bank of China;China;$134 B;$27.9 B;$3,731.4 B;$116.7 B
+Microsoft;United States;$153.3 B;$51.3 B;$304.1 B;$1,966.6 B
+Citigroup;United States;$84.4 B;$17.1 B;$2,314.3 B;$151.2 B
+Volkswagen Group;Germany;$254.1 B;$9.5 B;$646.4 B;$147.2 B
+Walmart;United States;$559.2 B;$13.5 B;$252.5 B;$396.1 B
+Wells Fargo;United States;$85.9 B;$7.4 B;$1,959.5 B;$181.5 B
+Verizon Communications;United States;$128.3 B;$17.8 B;$316.5 B;$241.3 B
+UnitedHealth Group;United States;$262.9 B;$16.9 B;$205.2 B;$369.6 B
+China Merchants Bank;China;$60.4 B;$14.1 B;$1,278.5 B;$192.8 B
+Alibaba Group;China;$93.8 B;$23.3 B;$250.1 B;$657.5 B
+Allianz;Germany;$129.9 B;$7.8 B;$1,357.5 B;$108 B
+Comcast;United States;$103.6 B;$10.5 B;$273.9 B;$252.4 B
+Goldman Sachs Group;United States;$61.8 B;$15.1 B;$1,302 B;$116.5 B
+Softbank;Japan;$70.3 B;$14.9 B;$366.7 B;$163.1 B
+Postal Savings Bank Of China (PSBC);China;$67.2 B;$9.3 B;$1,736.2 B;$112.4 B
+Tencent Holdings;China;$70 B;$23.3 B;$203.9 B;$773.8 B
+BNP Paribas;France;$102.7 B;$7.6 B;$3,044.8 B;$79.1 B
+Morgan Stanley;United States;$56.7 B;$13.4 B;$1,158.8 B;$123.9 B
+China Mobile;Hong Kong;$111.3 B;$15.6 B;$264.2 B;$134.9 B
+Facebook;United States;$86 B;$29.1 B;$159.3 B;$870.5 B
+Johnson & Johnson;United States;$82.6 B;$14.7 B;$174.9 B;$427.1 B
+Sony;Japan;$79.9 B;$10.1 B;$250.7 B;$137.3 B
+Intel;United States;$77.9 B;$20.9 B;$153.1 B;$263.7 B
+CVS Health;United States;$268.7 B;$7.2 B;$238.5 B;$99.6 B
+RBC;Canada;$42.9 B;$8.8 B;$1,308.2 B;$135 B
+Nestlé;Switzerland;$89.9 B;$13 B;$140.3 B;$333.2 B
+HSBC Holdings;United Kingdom;$60.6 B;$4 B;$2,984.2 B;$120.3 B
+Daimler;Germany;$175.9 B;$4.1 B;$349.6 B;$99.2 B
+TD Bank Group;Canada;$38.8 B;$9.1 B;$1,358.6 B;$120.6 B
+Nippon Telegraph & Tel;Japan;$110.3 B;$8.3 B;$231.1 B;$96.7 B
+Deutsche Telekom;Germany;$115.1 B;$4.7 B;$345.4 B;$91.6 B
+General Electric;United States;$79.9 B;$5.6 B;$255.1 B;$117.6 B
+Procter & Gamble;United States;$74 B;$13.8 B;$120.1 B;$338 B
+General Motors;United States;$122.5 B;$6.4 B;$235.2 B;$84.6 B
+Sinopec;China;$271.1 B;$4.8 B;$265.1 B;$82.6 B
+China Life Insurance;China;$113.8 B;$7.3 B;$651.9 B;$57.3 B
+Industrial Bank;China;$53.8 B;$9.7 B;$1,207.2 B;$66.5 B
+Sberbank;Russia;$47.3 B;$10.4 B;$486.9 B;$85.7 B
+Mitsubishi UFJ Financial;Japan;$56 B;$5.2 B;$3,406.5 B;$69.7 B
+Cigna;United States;$160.6 B;$8.5 B;$151.5 B;$87.7 B
+AXA Group;France;$129.5 B;$3.4 B;$951.5 B;$67.8 B
+AIA Group;Hong Kong;$42.6 B;$5.8 B;$321.6 B;$153.7 B
+Reliance Industries;India;$61.2 B;$5.7 B;$166.3 B;$164.9 B
+Bank of Communications;China;$67.6 B;$11.1 B;$1,635.8 B;$47.9 B
+Pfizer;United States;$47.6 B;$9.6 B;$154.2 B;$215.2 B
+IBM;United States;$73.6 B;$5.6 B;$156 B;$119.4 B
+Roche Holding;Switzerland;$62.1 B;$15.2 B;$97.4 B;$287.1 B
+BMW Group;Germany;$112.8 B;$4.3 B;$282 B;$69.8 B
+MetLife;United States;$67.8 B;$5.4 B;$795.1 B;$55.8 B
+PetroChina;China;$280.7 B;$2.9 B;$380.5 B;$66.7 B
+LVMH Moët Hennessy Louis Vuitton;France;$50.9 B;$5.4 B;$133 B;$380.3 B
+Novartis;Switzerland;$48.6 B;$8.1 B;$132.2 B;$198.6 B
+Taiwan Semiconductor;Taiwan;$48.1 B;$18.7 B;$98.3 B;$558.1 B
+Home Depot;United States;$132.1 B;$12.9 B;$70.6 B;$352.8 B
+Shanghai Pudong Development;China;$52.3 B;$8.5 B;$1,215.7 B;$47.4 B
+Siemens;Germany;$58 B;$4.9 B;$148.6 B;$139.8 B
+PepsiCo;United States;$71.3 B;$7.5 B;$91.2 B;$199.2 B
+Oracle;United States;$39.7 B;$12.8 B;$118.1 B;$227.7 B
+Sanofi;France;$41.1 B;$14 B;$140.1 B;$127.4 B
+Enel;Italy;$71.4 B;$3 B;$200 B;$105.4 B
+AbbVie;United States;$45.8 B;$4.6 B;$150.6 B;$190.4 B
+Cisco Systems;United States;$48 B;$10.1 B;$95.6 B;$222.9 B
+Zurich Insurance Group;Switzerland;$58.4 B;$3.8 B;$413.8 B;$61.7 B
+Bank of Nova Scotia;Canada;$30.7 B;$5.1 B;$911.2 B;$75.3 B
+Commonwealth Bank;Australia;$22.4 B;$5.7 B;$816.2 B;$120.7 B
+BHP Group;Australia;$46.1 B;$6.9 B;$103.2 B;$186.1 B
+UBS;Switzerland;$32.2 B;$6.5 B;$1,125.8 B;$57.3 B
+British American Tobacco;United States;$33.1 B;$8.2 B;$188.2 B;$91.6 B
+Honda Motor;Japan;$121.8 B;$3.9 B;$201.3 B;$52.8 B
+Intesa Sanpaolo;Italy;$45.8 B;$3.7 B;$1,226.7 B;$53.3 B
+Merck & Co.;United States;$47.8 B;$7.1 B;$91.6 B;$196 B
+Sumitomo Mitsui Financial;Japan;$38.6 B;$4.9 B;$2,256.8 B;$48.9 B
+Rio Tinto;Luxembourg;$44.5 B;$9.7 B;$97.4 B;$135.3 B
+Japan Post Holdings;Japan;$106.6 B;$4.2 B;$2,879 B;$34.8 B
+US Bancorp;United States;$23.1 B;$6.1 B;$553.4 B;$86.9 B
+Anthem;United States;$121.9 B;$4.6 B;$88.3 B;$92 B
+Charter Communications;United States;$48.1 B;$3.2 B;$146.1 B;$124.8 B
+Unilever;United Kingdom;$57.8 B;$6.3 B;$82.8 B;$151.1 B
+Dell Technologies;United States;$94.3 B;$3.3 B;$123.4 B;$77.4 B
+Manulife;Canada;$57.2 B;$4.4 B;$655 B;$41.9 B
+Hon Hai Precision;Taiwan;$182 B;$3.5 B;$130.8 B;$60.4 B
+American Express;United States;$38.2 B;$3.1 B;$191.4 B;$120.5 B
+China Vanke;China;$62.6 B;$6.1 B;$285.8 B;$42.2 B
+GlaxoSmithKline;United Kingdom;$43.7 B;$7.4 B;$109.9 B;$92.9 B
+Truist Financial;United States;$24.3 B;$4.9 B;$517.5 B;$77.8 B
+Rosneft;Russia;$70.8 B;$2 B;$207.5 B;$77.7 B
+China State Construction Engineering;China;$215.3 B;$6.1 B;$323 B;$33 B
+JD.com;China;$108.3 B;$7.2 B;$64.6 B;$119.4 B
+Coca-Cola;United States;$33 B;$7.7 B;$87.3 B;$231.3 B
+Iberdrola;Spain;$37.8 B;$4.1 B;$149.9 B;$86.4 B
+CITIC;Hong Kong;$71.3 B;$7.3 B;$1,256.3 B;$29.5 B
+Prudential;United Kingdom;$54.8 B;$2.1 B;$469.5 B;$55.7 B
+KDDI;Japan;$49.3 B;$6.2 B;$98.4 B;$72.1 B
+Bank of Montreal;Canada;$24.5 B;$4.1 B;$761.8 B;$59.4 B
+Costco Wholesale;United States;$178.6 B;$4.3 B;$54.9 B;$164.1 B
+Itaú Unibanco Holding;Brazil;$37.2 B;$3.7 B;$389.7 B;$48.5 B
+State Bank of India;India;$50.6 B;$3.1 B;$638.1 B;$40.8 B
+Chubb;Switzerland;$36.1 B;$3.5 B;$172.2 B;$73.3 B
+Mitsubishi;Japan;$116.7 B;$3.1 B;$179.7 B;$41.6 B
+Vale;Brazil;$40.4 B;$5.2 B;$92.1 B;$99.2 B
+Capital One;United States;$31.6 B;$2.7 B;$421.6 B;$62.4 B
+PNC Financial Services;United States;$17.4 B;$8.4 B;$474.4 B;$75.8 B
+HDFC Bank;India;$20.7 B;$4.1 B;$233.6 B;$105.9 B
+Credit Agricole;France;$43.5 B;$2.6 B;$2,399.5 B;$41 B
+Itochu;Japan;$96.6 B;$4.1 B;$107.8 B;$47.6 B
+FedEx;United States;$78.7 B;$3 B;$82.8 B;$76.3 B
+Vodafone;United Kingdom;$49.7 B;$2.8 B;$183.9 B;$52.6 B
+Abbott Laboratories;United States;$34.6 B;$4.5 B;$72.5 B;$220.3 B
+Visa;United States;$21.5 B;$10.4 B;$80.4 B;$483.9 B
+SAP;Germany;$31.7 B;$6.3 B;$71.5 B;$164.2 B
+Thermo Fisher Scientific;United States;$32.2 B;$6.4 B;$69.1 B;$193.7 B
+China Pacific Insurance;China;$61.2 B;$3.6 B;$266.6 B;$36.3 B
+Lowe's;United States;$89.6 B;$5.8 B;$48.3 B;$149.4 B
+BlackRock;United States;$18.1 B;$5.3 B;$177 B;$123.9 B
+China Citic Bank;China;$50.4 B;$7.1 B;$1,148.5 B;$26.5 B
+Mizuho Financial;Japan;$30.3 B;$3.7 B;$2,110.5 B;$36.3 B
+Deutsche Post;Germany;$76.2 B;$3.4 B;$70.5 B;$72.1 B
+Medtronic;Ireland;$27.9 B;$2.9 B;$97.3 B;$169.7 B
+Caterpillar;United States;$41.7 B;$3 B;$78.3 B;$127.3 B
+Hitachi;Japan;$78.7 B;$3.2 B;$106 B;$45.9 B
+Lockheed Martin;United States;$65.4 B;$6.8 B;$50.7 B;$109.2 B
+Generali Group;Italy;$90 B;$2 B;$668 B;$32.3 B
+Target;United States;$93.6 B;$4.4 B;$51.2 B;$104 B
+Deere & Company;United States;$37 B;$3.5 B;$75.5 B;$120.1 B
+Honeywell International;United States;$32.6 B;$4.8 B;$64.6 B;$161.2 B
+SAIC Motor;China;$106.7 B;$3 B;$140.6 B;$36.4 B
+Country Garden Holdings;China;$67.3 B;$5.1 B;$308.2 B;$27.2 B
+ANZ;Australia;$20.3 B;$2.4 B;$747.1 B;$63.4 B
+Charles Schwab;United States;$13.8 B;$4 B;$563.5 B;$116.9 B
+Barclays;United Kingdom;$27.9 B;$2 B;$1,844.7 B;$44.9 B
+Broadcom;United States;$24.7 B;$4 B;$77 B;$195.5 B
+Munich Re;Germany;$73.9 B;$1.4 B;$368.7 B;$43.5 B
+Enbridge;Canada;$28.2 B;$2.5 B;$125.8 B;$75.6 B
+ING Group;Netherlands;$20.1 B;$2.8 B;$1,146.8 B;$49.3 B
+China Minsheng Bank;China;$49 B;$4.9 B;$1,062.8 B;$24.5 B
+Linde;United Kingdom;$27.2 B;$2.5 B;$88.2 B;$151.6 B
+Amgen;United States;$25.2 B;$7.3 B;$62.9 B;$147.2 B
+Allstate;United States;$44.8 B;$5.6 B;$117.9 B;$36.7 B
+PayPal;United States;$21.4 B;$4.2 B;$70.4 B;$316.9 B
+Orange;France;$48.2 B;$5.5 B;$135.8 B;$33 B
+Banco Bradesco;Brazil;$26.7 B;$3.2 B;$306.3 B;$40.9 B
+Hyundai Motor;South Korea;$88.1 B;$1.2 B;$192.7 B;$54 B
+Danaher;United States;$22.3 B;$3.6 B;$76.2 B;$173.3 B
+Westpac Banking Group;Australia;$21.9 B;$1.5 B;$654.6 B;$71.8 B
+L'Oréal;France;$31.9 B;$4.1 B;$53.4 B;$225.7 B
+Petrobras;Brazil;$52.7 B;$1.4 B;$190.1 B;$53.3 B
+NextEra Energy;United States;$17.2 B;$2.9 B;$127.7 B;$158.8 B
+AstraZeneca;United Kingdom;$27.7 B;$3.2 B;$66.7 B;$133.9 B
+China Everbright Bank;China;$37.1 B;$5.5 B;$820.8 B;$23.9 B
+Salesforce.com;United States;$21.3 B;$4.1 B;$66.3 B;$213.6 B
+Oversea-Chinese Banking;Singapore;$24.5 B;$2.6 B;$394.5 B;$40.1 B
+Aviva;Venezuela;$59 B;$3.6 B;$637.7 B;$22.3 B
+United Parcel Service;United States;$84.4 B;$1.4 B;$62.4 B;$156 B
+Progressive;United States;$42.6 B;$5.7 B;$60.8 B;$57.8 B
+NAB - National Australia Bank;Australia;$18.4 B;$1.7 B;$621.3 B;$68.1 B
+Accenture;Ireland;$45.7 B;$5.5 B;$40 B;$190.9 B
+Southern Company;United States;$20.2 B;$3.1 B;$122.9 B;$68.7 B
+Canadian Imperial Bank;Canada;$17.6 B;$3.1 B;$612.9 B;$44.7 B
+China Shenhua Energy;China;$33.9 B;$5.2 B;$86.1 B;$42.4 B
+SK Hynix;South Korea;$27 B;$4 B;$65.5 B;$84.2 B
+Philip Morris International;United States;$28.7 B;$8 B;$44.8 B;$144.8 B
+VINCI;France;$50.1 B;$1.4 B;$111.5 B;$61.4 B
+Mondelez International;United States;$26.6 B;$3.6 B;$67.8 B;$82.6 B
+Lloyds Banking Group;United Kingdom;$43.4 B;$1.1 B;$1,191 B;$42.5 B
+Mitsui;Japan;$59.9 B;$2.4 B;$114.7 B;$35 B
+Union Pacific;United States;$19.5 B;$5.3 B;$63.5 B;$148.5 B
+3M;United States;$32.2 B;$5.4 B;$47.3 B;$115.1 B
+CK Hutchison;Hong Kong;$34.3 B;$3.8 B;$161.8 B;$31.6 B
+ICICI Bank;India;$21.3 B;$2 B;$207.9 B;$52.7 B
+Midea Group;China;$39.1 B;$3.6 B;$51.5 B;$85.5 B
+Exelon;United States;$33.4 B;$2 B;$129.3 B;$45.1 B
+Credit Suisse Group;Switzerland;$32.6 B;$2.8 B;$911.6 B;$25.9 B
+Eli Lilly;United States;$24.5 B;$6.2 B;$46.6 B;$181.4 B
+CNOOC;Hong Kong;$22.5 B;$3.6 B;$110.3 B;$48.4 B
+Legal & General Group;United Kingdom;$64.4 B;$2.1 B;$770.4 B;$22.9 B
+Aflac;United States;$22.1 B;$4.8 B;$164.1 B;$36.8 B
+China Resources Land;Hong Kong;$27.1 B;$4.3 B;$132.9 B;$34.5 B
+BBVA-Banco Bilbao Vizcaya;Spain;$32.9 B;$1.5 B;$900.7 B;$34.8 B
+HCA Healthcare;United States;$51.5 B;$3.8 B;$47.5 B;$66.4 B
+Duke Energy;United States;$23.9 B;$1.4 B;$167.3 B;$77.4 B
+América Móvil;Mexico;$47.3 B;$2.2 B;$75.6 B;$48.3 B
+Takeda Pharmaceutical;Japan;$30 B;$1.7 B;$119 B;$53.3 B
+DBS;Singapore;$13.2 B;$3.4 B;$491.9 B;$55.4 B
+Bank of New York Mellon;United States;$15.9 B;$3.6 B;$469.6 B;$40.4 B
+Longfor Group Holdings;China;$27 B;$2.9 B;$117 B;$39.4 B
+Schneider Electric;France;$28.7 B;$2.4 B;$60.5 B;$91.3 B
+Travelers;United States;$32 B;$2.7 B;$109.1 B;$39.2 B
+McDonald's;United States;$19.2 B;$4.7 B;$52.6 B;$173.8 B
+Poly Developments & Holdings Group;China;$34.3 B;$3.4 B;$189.4 B;$26.6 B
+Tokio Marine Holdings;Japan;$49.7 B;$1.4 B;$247.6 B;$34.7 B
+China Telecom;China;$57 B;$3 B;$109.3 B;$27.7 B
+Nike;United States;$38.5 B;$3.4 B;$36.2 B;$212.2 B
+Qualcomm;United States;$26.7 B;$6.7 B;$37.5 B;$157 B
+Centene;United States;$111.1 B;$1.8 B;$69.8 B;$37.8 B
+Micron Technology;United States;$23.5 B;$3.2 B;$54.1 B;$101.7 B
+Cathay Financial;Taiwan;$37.9 B;$2.5 B;$389.4 B;$23.2 B
+EDF;France;$78.7 B;$741 M;$374.3 B;$44.4 B
+Fubon Financial;Taiwan;$35.2 B;$3.1 B;$328.4 B;$21.7 B
+Sun Life Financial;Canada;$27 B;$1.9 B;$250.5 B;$30.6 B
+General Dynamics;United States;$37.9 B;$3.2 B;$51.3 B;$52.3 B
+Møller-Maersk;Denmark;$39.6 B;$2.8 B;$56.1 B;$47.8 B
+Volvo Group;Sweden;$36.8 B;$2.1 B;$62.2 B;$52.2 B
+Altria Group;United States;$20.8 B;$4.5 B;$47.4 B;$96.9 B
+Humana;United States;$77.1 B;$3.4 B;$35.1 B;$56.2 B
+Anglo American;United Kingdom;$30.8 B;$2.1 B;$62.5 B;$54.6 B
+Netflix;United States;$25 B;$2.8 B;$39.3 B;$242.1 B
+HDFC;India;$16.2 B;$2.4 B;$105 B;$62.4 B
+Qatar National Bank;Qatar;$13.1 B;$3 B;$286.3 B;$45.4 B
+Xiaomi;China;$35.7 B;$3 B;$38.8 B;$84.5 B
+Air Liquide;France;$23.4 B;$2.8 B;$51.4 B;$79.9 B
+Nordea Bank;Finland;$12.7 B;$2.5 B;$676.1 B;$42 B
+Northrop Grumman;United States;$36.8 B;$3.2 B;$44.5 B;$55.8 B
+ABB;Switzerland;$26 B;$5.1 B;$41.1 B;$67.8 B
+China Evergrande Group;China;$74 B;$1.2 B;$351.9 B;$23.9 B
+Seven & I Holdings;Japan;$54.4 B;$1.7 B;$65.2 B;$36.9 B
+KB Financial Group;South Korea;$30.8 B;$2.9 B;$564.4 B;$18.4 B
+Sunac China Holdings;China;$34.1 B;$5.2 B;$169.5 B;$18.6 B
+Kroger;United States;$132.5 B;$2.6 B;$51.6 B;$28.3 B
+EMD Group;Germany;$20 B;$2.3 B;$51.6 B;$77.6 B
+E.ON;Germany;$69.5 B;$1 B;$123.3 B;$30.7 B
+PTT;Thailand;$51.6 B;$1.2 B;$84.9 B;$36.4 B
+Telefónica;Spain;$49.1 B;$1.5 B;$128.5 B;$24.4 B
+National Grid;United Kingdom;$18.8 B;$1.9 B;$85 B;$44.3 B
+HP;United States;$57.7 B;$3.2 B;$34.7 B;$42.6 B
+Danone;France;$26.9 B;$2.2 B;$52.3 B;$46.4 B
+Panasonic;Japan;$61.9 B;$1.7 B;$64.6 B;$30.1 B
+Power Corp of Canada;Canada;$43.9 B;$1.5 B;$476.4 B;$18.7 B
+Mastercard;United States;$15.3 B;$6.4 B;$33.6 B;$383.6 B
+Baidu;China;$15.5 B;$3.3 B;$50.9 B;$75.4 B
+PICC;China;$82.4 B;$2.9 B;$192 B;$14.5 B
+Fortum;Finland;$55.9 B;$2.1 B;$70.7 B;$24 B
+Fresenius;Germany;$41.4 B;$1.9 B;$81.5 B;$25.4 B
+Dow;United States;$38.5 B;$1.2 B;$61.5 B;$48.2 B
+Archer Daniels Midland;United States;$64.4 B;$1.8 B;$49.7 B;$33.2 B
+Shinhan Financial Group;South Korea;$22.9 B;$2.8 B;$557.2 B;$17.6 B
+ASML Holding;Netherlands;$15.9 B;$4.1 B;$33.4 B;$267.6 B
+American Electric;United States;$14.9 B;$2.2 B;$84 B;$44 B
+Becton Dickinson;United States;$18.2 B;$1.6 B;$54.7 B;$75.8 B
+Gree Electric Appliances;China;$24.3 B;$2.3 B;$40.3 B;$55.3 B
+LafargeHolcim;Switzerland;$24.7 B;$1.8 B;$60.2 B;$38.9 B
+China Railway Group;China;$141.6 B;$3.4 B;$183.5 B;$12.5 B
+Automatic Data Processing;United States;$14.6 B;$2.5 B;$49.3 B;$82.6 B
+NVIDIA;United States;$16.7 B;$4.3 B;$28.8 B;$396.1 B
+KBC Group;Belgium;$13.6 B;$1.6 B;$392.4 B;$31.3 B
+Royal Ahold Delhaize N.V.;Netherlands;$85.2 B;$1.6 B;$49.8 B;$28.6 B
+Sun Hung Kai Properties;Hong Kong;$11.7 B;$2.8 B;$100.5 B;$44.5 B
+Novo Nordisk;Denmark;$19.4 B;$6.4 B;$23.8 B;$167.3 B
+Investor AB;Sweden;$9.6 B;$5.7 B;$69.5 B;$66.3 B
+Tesla;United States;$31.5 B;$690 M;$52.1 B;$710.1 B
+Huaxia Bank;China;$22.9 B;$3 B;$489.2 B;$14.8 B
+Kweichow Moutai;China;$12.2 B;$6.8 B;$32.6 B;$395.8 B
+Citic Securities;China;$12.4 B;$2.2 B;$161 B;$32.1 B
+KIA;South Korea;$50.1 B;$1.3 B;$55.7 B;$31.2 B
+Japan Tobacco;Japan;$19.6 B;$2.9 B;$52.1 B;$34.1 B
+Dollar General;United States;$33.7 B;$2.7 B;$28.5 B;$51.9 B
+Posco;South Korea;$49 B;$1.4 B;$72.8 B;$23.4 B
+State Street;United States;$11.4 B;$2.3 B;$316.9 B;$28 B
+Tesco;United Kingdom;$74.8 B;$1.1 B;$64 B;$24.6 B
+Banco do Brasil;Brazil;$24 B;$2.3 B;$314 B;$15.1 B
+Baoshan Iron & Steel;China;$39.1 B;$1.6 B;$52.3 B;$28 B
+Orix;Japan;$21.2 B;$1.9 B;$129.1 B;$20 B
+Fiserv;United States;$14.9 B;$958 M;$74.6 B;$83.4 B
+China Unicom;Hong Kong;$44 B;$1.8 B;$90.5 B;$17.6 B
+Wilmar International;Singapore;$50.5 B;$1.5 B;$51 B;$25.9 B
+Sempra Energy;United States;$11.4 B;$3.9 B;$66.6 B;$41.8 B
+LG Electronics;South Korea;$53.6 B;$1.7 B;$44.4 B;$27.2 B
+NN Group;Netherlands;$21.1 B;$2.1 B;$321.4 B;$15.8 B
+Mitsubishi Electric;Japan;$38.9 B;$1.6 B;$43.1 B;$33.1 B
+Kering;France;$14.9 B;$2.5 B;$34.3 B;$95 B
+Diageo;United Kingdom;$14.7 B;$1.4 B;$44.8 B;$104.4 B
+Reckitt Benckiser Group;United Kingdom;$17.9 B;$1.5 B;$42.8 B;$65.7 B
+Bank of Beijing;China;$17.9 B;$2.8 B;$421.2 B;$15.4 B
+Poste Italiane;Italy;$27.6 B;$1.3 B;$333.2 B;$16.8 B
+ViacomCBS;United States;$25.9 B;$2.4 B;$52.7 B;$25.4 B
+Nomura;Japan;$16.5 B;$2.6 B;$431.9 B;$16.4 B
+BT Group;United Kingdom;$28.1 B;$1.9 B;$69.2 B;$21.1 B
+Henkel;Germany;$21.9 B;$1.6 B;$37.7 B;$51.5 B
+Dai-ichi Life Insurance;Japan;$57.9 B;$657.6 M;$615.6 B;$20.7 B
+Korea Electric Power;South Korea;$49.6 B;$1.7 B;$187 B;$13.8 B
+Ericsson;Sweden;$25.2 B;$1.9 B;$33.1 B;$46.9 B
+United Overseas Bank;Singapore;$9.5 B;$2 B;$326.7 B;$32.8 B
+TC Energy;Canada;$9.6 B;$3.4 B;$78.7 B;$46.6 B
+Bank Of Shanghai;China;$14 B;$2.7 B;$358.8 B;$18.1 B
+Adobe;United States;$13.7 B;$5.6 B;$25 B;$251 B
+Fannie Mae;United States;$109.6 B;$11.8 B;$3,986.1 B;$2.8 B
+CNP Assurances;France;$37.5 B;$1.5 B;$515.7 B;$13.6 B
+Inditex;Spain;$23.4 B;$1.3 B;$32.1 B;$106.1 B
+Applied Materials;United States;$18.2 B;$3.9 B;$23.3 B;$122.7 B
+BCE;Canada;$17.1 B;$1.8 B;$47.6 B;$42.1 B
+Couche Tard;Canada;$43.1 B;$2.7 B;$27.5 B;$35.9 B
+Saudi Telecom;Saudi Arabia;$15.7 B;$3 B;$32.5 B;$64.3 B
+Bank of Ningbo;China;$9.3 B;$2 B;$226.4 B;$34.8 B
+CaixaBank;Spain;$11.6 B;$1.6 B;$552.5 B;$24.7 B
+Macquarie Group;Australia;$9.8 B;$1.5 B;$165.4 B;$41.8 B
+IntercontinentalExchange;United States;$7.6 B;$2.1 B;$126.2 B;$67.9 B
+Surgutneftegas;Russia;$18.8 B;$8.4 B;$79.4 B;$16.7 B
+Deutsche Bank;Germany;$35.4 B;$566.6 M;$1,621.5 B;$25.8 B
+AT&T;United States;$171.8 B;$-5.2 B;$525.8 B;$213.8 B
+Tyson Foods;United States;$42.8 B;$2 B;$35.5 B;$28.2 B
+Marsh & McLennan;United States;$17.2 B;$2 B;$33 B;$64.9 B
+Ameriprise Financial;United States;$12.1 B;$1.5 B;$165.9 B;$29 B
+First Abu Dhabi Bank;United Arab Emirates;$7.4 B;$2.8 B;$250.2 B;$43.3 B
+Hartford Financial Services;United States;$20.5 B;$1.7 B;$69.2 B;$23.7 B
+ExxonMobil;United States;$178.2 B;$-22.4 B;$332.8 B;$239.9 B
+Freddie Mac;United States;$68.7 B;$7.3 B;$2,627.4 B;$1.5 B
+Vivendi;France;$18.3 B;$1.6 B;$46.6 B;$37.3 B
+The Saudi National Bank;Saudi Arabia;$6.6 B;$3 B;$159.8 B;$65.3 B
+CRH;United States;$27.5 B;$1.1 B;$44.9 B;$38.2 B
+Tata Consultancy Services;India;$22.1 B;$4.4 B;$17.9 B;$158.9 B
+Philips;Netherlands;$22.3 B;$1.4 B;$34.2 B;$54.8 B
+Royal Dutch Shell;Netherlands;$170.2 B;$-22.2 B;$379.3 B;$152 B
+Stryker;United States;$14.4 B;$1.6 B;$34.3 B;$96.8 B
+Etisalat;United Arab Emirates;$14.1 B;$2.5 B;$36.2 B;$51.9 B
+Mitsui Fudosan;Japan;$19.5 B;$1.7 B;$73.6 B;$22.2 B
+Daiwa House Industry;Japan;$39.5 B;$1.8 B;$48.3 B;$20.6 B
+Shin-Etsu Chemical;Japan;$13.7 B;$2.6 B;$31.5 B;$72.5 B
+Daikin Industries;Japan;$22.9 B;$1.4 B;$29.5 B;$61 B
+CSX;United States;$10.6 B;$2.8 B;$40.3 B;$74.9 B
+Lennar;United States;$23.3 B;$3 B;$30.6 B;$33.2 B
+LyondellBasell Industries;United Kingdom;$27.7 B;$1.4 B;$35.4 B;$36 B
+Swiss Life Holding;Switzerland;$23.9 B;$1.1 B;$269 B;$16.4 B
+Chevron;United States;$94.4 B;$-5.5 B;$239.8 B;$198.5 B
+General Mills;United States;$18.6 B;$2.5 B;$32.6 B;$37.4 B
+Newmont Mining;United States;$11.4 B;$2.8 B;$41.4 B;$52.4 B
+Barrick Gold;Canada;$12.5 B;$2.3 B;$46.5 B;$39.5 B
+China Railway Construction;China;$131.9 B;$3.3 B;$190 B;$8.9 B
+Haier Smart Home;China;$30.3 B;$1.3 B;$31.1 B;$41.8 B
+Anhui Conch Cement;China;$22.7 B;$4.9 B;$25.9 B;$33 B
+Discover Financial Services;United States;$13 B;$1.1 B;$113.3 B;$31.3 B
+Texas Instruments;United States;$14.5 B;$5.6 B;$19.4 B;$177.2 B
+DNB;Norway;$7.5 B;$2 B;$340.9 B;$34.5 B
+Total;France;$119.7 B;$-7.6 B;$266.1 B;$118.4 B
+Nintendo;Japan;$15.8 B;$4.1 B;$22.5 B;$71.2 B
+Fortescue Metals Group;Australia;$15.5 B;$6.3 B;$24.5 B;$49.6 B
+China Yangtze Power;China;$8.3 B;$3.8 B;$50 B;$71.4 B
+Cardinal Health;United States;$156.5 B;$1.4 B;$44.7 B;$18 B
+Canadian National Railway;Canada;$10.3 B;$2.7 B;$35.6 B;$84.5 B
+BP;United Kingdom;$180 B;$-20.9 B;$267.7 B;$84.5 B
+Walt Disney;United States;$60.4 B;$-5 B;$201.9 B;$339.9 B
+Hyundai Mobis;South Korea;$31 B;$1.3 B;$44.6 B;$25.3 B
+Eaton;Ireland;$17.9 B;$1.4 B;$31.8 B;$56.2 B
+Principal Financial Group;United States;$14.7 B;$1.4 B;$296.6 B;$17.2 B
+New China Life Insurance;China;$29.9 B;$2.1 B;$153.1 B;$11.9 B
+Johnson Controls International;Ireland;$22.1 B;$923 M;$41.4 B;$45 B
+Woolworths;Australia;$46.2 B;$972.8 M;$30.5 B;$41.2 B
+RWE Group;Germany;$15.6 B;$1.1 B;$81 B;$27.7 B
+Bank Of Jiangsu;China;$14.9 B;$2.1 B;$332.7 B;$14 B
+Santander;Spain;$73.6 B;$-10 B;$1,845.4 B;$59.6 B
+Bank Rakyat Indonesia (BRI);Indonesia;$10 B;$1.3 B;$107.6 B;$36.5 B
+Fujitsu;Japan;$34 B;$1.6 B;$29.4 B;$30.3 B
+Maybank;Malaysia;$10.5 B;$1.5 B;$213 B;$22.9 B
+Toyota Industries;Japan;$19.4 B;$1.2 B;$58.2 B;$27.2 B
+Larsen & Toubro;India;$17.8 B;$2.1 B;$42 B;$25.7 B
+Gazprom;Russia;$90.5 B;$-921.2 M;$294.9 B;$73.5 B
+Norfolk Southern;United States;$9.8 B;$2 B;$38.4 B;$73.5 B
+Synchrony Financial;United States;$12.8 B;$1.4 B;$95.9 B;$24.1 B
+Keurig Dr Pepper;United States;$11.6 B;$1.3 B;$49.8 B;$50.7 B
+L3Harris Technologies;United States;$18.2 B;$1.1 B;$37 B;$43.3 B
+Greenland Holdings Group;China;$68.7 B;$1.3 B;$206.3 B;$10.4 B
+BAE Systems;United States;$24.7 B;$1.7 B;$38.2 B;$23.2 B
+Waste Management;United States;$15.2 B;$1.5 B;$29.7 B;$57 B
+Brookfield Asset Management;Canada;$63.4 B;$-175.9 M;$343.7 B;$69.7 B
+Xcel Energy;United States;$11.5 B;$1.5 B;$56.3 B;$37.9 B
+Anheuser-Busch InBev;Belgium;$46.8 B;$-742 M;$230 B;$134.1 B
+Raytheon Technologies;United States;$63.5 B;$-3.5 B;$162.2 B;$118.6 B
+Emerson Electric;United States;$16.8 B;$2.1 B;$23.7 B;$55.3 B
+Al Rajhi Bank;Saudi Arabia;$5.6 B;$2.8 B;$125 B;$62.8 B
+Boeing;United States;$58.2 B;$-11.9 B;$152.1 B;$144.8 B
+Sherwin-Williams;United States;$18.4 B;$2 B;$20.4 B;$71.4 B
+VMware;United States;$11.8 B;$2.1 B;$29 B;$68.8 B
+Ally Financial;United States;$10.5 B;$2.2 B;$181.9 B;$17.8 B
+China Merchants Shekou Industrial Zone Holdings;China;$17.5 B;$1.8 B;$112.7 B;$14.5 B
+Imperial Brands;United Kingdom;$21.2 B;$1.9 B;$41.8 B;$20.7 B
+American Tower;United States;$8 B;$1.7 B;$47.2 B;$110.6 B
+Norilsk Nickel;Russia;$15.7 B;$3.5 B;$20.7 B;$53.2 B
+China National Building;China;$37 B;$1.8 B;$69.8 B;$12.9 B
+Samsung Life Insurance;South Korea;$24.3 B;$1.1 B;$309.7 B;$13 B
+Emirates NBD;United Arab Emirates;$9.7 B;$1.7 B;$190.1 B;$20.6 B
+Ford Motor;United States;$127.1 B;$-1.3 B;$267.3 B;$48.8 B
+Starbucks;United States;$23.2 B;$664.8 M;$30 B;$139.3 B
+China Communications Construction;China;$90.8 B;$2.3 B;$199.4 B;$7.8 B
+CTBC Financial;Taiwan;$13.4 B;$1.5 B;$235.5 B;$15.3 B
+AIRBUS;Netherlands;$56.9 B;$-1.3 B;$134.7 B;$97.6 B
+Telecom Italia;Italy;$18 B;$8.2 B;$89.6 B;$11.3 B
+Zijin Mining Group;China;$26.6 B;$1.2 B;$29 B;$34.9 B
+National Bank of Canada;Canada;$8.1 B;$1.6 B;$269 B;$23.7 B
+SEB AB;Sweden;$7 B;$1.7 B;$370.2 B;$27.7 B
+Sompo;Japan;$34.4 B;$931.9 M;$123.3 B;$13.7 B
+Aon;Ireland;$11.1 B;$2 B;$32.1 B;$54 B
+Weichai Power;China;$28.5 B;$1.3 B;$41.4 B;$20.1 B
+Carrier Global;United States;$17.5 B;$2 B;$25.1 B;$38.1 B
+Saint-Gobain;France;$43.5 B;$519.8 M;$59.5 B;$33.8 B
+Murata Manufacturing;Japan;$14.8 B;$2 B;$23.3 B;$52.9 B
+Hengli Petrochemical;China;$17.8 B;$1.9 B;$28.4 B;$31.5 B
+Recruit Holdings;Japan;$21 B;$1.2 B;$20.4 B;$77.3 B
+Cosco Shipping;China;$24.9 B;$1.5 B;$41.6 B;$19.1 B
+Bristol Myers Squibb;United States;$42.5 B;$-9 B;$118.5 B;$146.2 B
+Danske Bank;Denmark;$20.9 B;$617.5 M;$675.5 B;$17 B
+Cummins;United States;$19.8 B;$1.8 B;$22.6 B;$38.7 B
+OMV Group;Austria;$18.9 B;$1.4 B;$63.4 B;$16.8 B
+Saudi Electricity;Saudi Arabia;$18.3 B;$559.2 M;$129.4 B;$27.2 B
+Glencore International;Switzerland;$142.4 B;$-2 B;$118 B;$55.2 B
+D.R. Horton;United States;$22.2 B;$2.7 B;$19.8 B;$35.1 B
+Best Buy;United States;$47.3 B;$1.8 B;$19.1 B;$30 B
+Prudential Financial;United States;$57 B;$-408 M;$940.7 B;$39.1 B
+Stellantis;Netherlands;$98.8 B;$33.1 M;$122 B;$57 B
+Suzuki Motor;Japan;$28.5 B;$1.2 B;$37.1 B;$21 B
+BASF;Germany;$67.4 B;$-1.2 B;$100.9 B;$79.7 B
+Canon;Japan;$29.6 B;$780.4 M;$44.8 B;$24.9 B
+Fast Retailing;Japan;$18.9 B;$903.8 M;$23.5 B;$84.7 B
+Fifth Third Bank;United States;$7.4 B;$1.4 B;$204.7 B;$27.2 B
+CME Group;United States;$4.9 B;$2.1 B;$124.7 B;$74.5 B
+EnBW-Energie Baden;Germany;$22.5 B;$679.5 M;$60 B;$26.5 B
+Samsung C&T;South Korea;$25.6 B;$907.8 M;$50 B;$20.5 B
+CRRC;China;$32.9 B;$1.7 B;$60 B;$12.5 B
+Bayer;Germany;$47.2 B;$-12 B;$150.3 B;$63.6 B
+Toyota Tsusho;Japan;$57 B;$1 B;$47 B;$15.5 B
+Public Service Enterprise Group;United States;$9.3 B;$1.9 B;$50.1 B;$32 B
+Phoenix Group Holdings;United Kingdom;$27.9 B;$993.8 M;$443.6 B;$10.5 B
+Consolidated Edison;United States;$12.2 B;$1.1 B;$62.9 B;$26.8 B
+Kimberly-Clark;United States;$19.1 B;$2.4 B;$17.5 B;$47.1 B
+Wesfarmers;Australia;$22.9 B;$1.3 B;$19.7 B;$48.8 B
+Bank Central Asia;Indonesia;$6 B;$1.9 B;$76.6 B;$53.1 B
+Kraft Heinz Company;United States;$26.2 B;$356 M;$99.8 B;$50.1 B
+Paccar;United States;$18.7 B;$1.3 B;$28.3 B;$33 B
+American International Group;United States;$43.7 B;$-5.9 B;$512.9 B;$40.6 B
+Mitsubishi Estate;Japan;$11.7 B;$1.4 B;$59.8 B;$23.4 B
+Equinor;Norway;$45.4 B;$-5.4 B;$122 B;$63.7 B
+DTE Energy;United States;$12.3 B;$1.4 B;$45.5 B;$27.3 B
+Lenovo Group;Hong Kong;$55.7 B;$960.6 M;$38.6 B;$16.8 B
+Fujifilm Holdings;Japan;$20.2 B;$1.2 B;$32.6 B;$25.2 B
+Colgate-Palmolive;United States;$16.5 B;$2.7 B;$15.9 B;$68.5 B
+Hana Financial Group;South Korea;$12.6 B;$2.2 B;$423.7 B;$10.7 B
+Kotak Mahindra Bank;India;$7.5 B;$1.3 B;$65.3 B;$47.1 B
+Telstra;Australia;$15 B;$1.2 B;$33.5 B;$31.5 B
+Biogen;United States;$10.6 B;$4 B;$24.6 B;$40.7 B
+Talanx;Germany;$45.7 B;$767.2 M;$216.4 B;$11 B
+Carrefour;France;$82.2 B;$730.7 M;$58.2 B;$14.7 B
+Standard Chartered;United Kingdom;$21 B;$425.8 M;$789.1 B;$21.3 B
+Svenska Handelsbanken;Sweden;$6.5 B;$1.7 B;$381.8 B;$22.8 B
+Sumitomo Mitsui Trust;Japan;$12.1 B;$1.3 B;$587.9 B;$13 B
+DISH Network;United States;$15.5 B;$1.8 B;$38.4 B;$20 B
+Meituan;China;$16.7 B;$659.6 M;$25.5 B;$218.6 B
+Walgreens;United States;$138.5 B;$-616 M;$90.9 B;$46.1 B
+BYD;China;$22.3 B;$584.7 M;$30.9 B;$64.9 B
+Fosun International;China;$19.8 B;$1.2 B;$117.4 B;$12.1 B
+ENGIE;France;$63.6 B;$-1.8 B;$187.4 B;$35.9 B
+Eni;Italy;$50.1 B;$-9.8 B;$137.9 B;$44.3 B
+Kubota;Japan;$17.4 B;$1.2 B;$30.9 B;$28.6 B
+Shimao Property Holdings;Hong Kong;$19.8 B;$1.8 B;$90.2 B;$10.7 B
+CK Asset Holdings;Hong Kong;$8.4 B;$2.1 B;$67.2 B;$22.9 B
+Bank of Nanjing;China;$9.5 B;$1.8 B;$219.5 B;$14.2 B
+Edp-energias De Portugal;Portugal;$14.4 B;$913.5 M;$52.5 B;$23.8 B
+LukOil;Russia;$71.8 B;$209.7 M;$81.5 B;$52.3 B
+Sany Heavy Industry;China;$14.4 B;$2.2 B;$19.3 B;$41.2 B
+Grupo Mexico;Mexico;$10.3 B;$1.9 B;$28.4 B;$40.5 B
+Michelin Group;France;$23.3 B;$715.9 M;$38.7 B;$26.6 B
+Komatsu;Japan;$19.9 B;$791.3 M;$34.8 B;$29.3 B
+NetEase;China;$10.7 B;$1.7 B;$21.7 B;$73.4 B
+Asahi Group Holdings;Japan;$19 B;$869.4 M;$43 B;$22.2 B
+SK Telecom;South Korea;$15.8 B;$1.3 B;$44.1 B;$19.3 B
+Air Products & Chemicals;United States;$9 B;$1.9 B;$26.1 B;$63.6 B
+Athene Holding;Bermuda;$14.8 B;$1.5 B;$197.9 B;$10.6 B
+eBay;United States;$10.7 B;$5.7 B;$19.3 B;$44.2 B
+Freeport-McMoRan;United States;$13.9 B;$590 M;$42.1 B;$55.6 B
+Power Construction Corporation of China;China;$53.3 B;$1 B;$132.9 B;$9.1 B
+LG Chem;South Korea;$25.8 B;$434.5 M;$38.1 B;$62.5 B
+Saudi Basic Industries;Saudi Arabia;$31.3 B;$37 M;$80 B;$93.3 B
+Bouygues;France;$39.6 B;$793.4 M;$49.7 B;$15.9 B
+Citizens Bank (Rhode IsIand);United States;$7.4 B;$1.6 B;$187.2 B;$19.1 B
+Capgemini;France;$18.1 B;$1.1 B;$26.9 B;$30.6 B
+Edison International;United States;$13.6 B;$739 M;$69.4 B;$23.3 B
+Magna International;Canada;$32.5 B;$712.7 M;$28.6 B;$28.8 B
+Dollar Tree;United States;$25.5 B;$1.3 B;$20.7 B;$27.4 B
+Telenor;Norway;$13 B;$1.7 B;$30 B;$25.7 B
+China Zheshang Bank;China;$14.2 B;$1.8 B;$313.2 B;$9.6 B
+Entergy;United States;$10 B;$1.4 B;$58.2 B;$21.4 B
+Lam Research;United States;$11.9 B;$3 B;$15.4 B;$92 B
+Infosys;India;$13.5 B;$2.6 B;$14.8 B;$77.5 B
+The Estée Lauder Companies;United States;$14.2 B;$928 M;$19.6 B;$113.3 B
+China Tower Corp.;China;$11.8 B;$932.7 M;$51.6 B;$25.9 B
+Corteva;United States;$14.2 B;$681 M;$42.6 B;$35.2 B
+CSL;Australia;$9.9 B;$2.6 B;$17.7 B;$94.7 B
+Safran;France;$19 B;$401.3 M;$48.4 B;$66.8 B
+Banorte;Mexico;$9.4 B;$1.4 B;$89.7 B;$17.6 B
+KeyCorp;United States;$7.3 B;$1.3 B;$170.3 B;$20 B
+Lufax Holding;China;$8.3 B;$1.8 B;$38.1 B;$34 B
+Swedbank;Sweden;$6.4 B;$1.4 B;$315.9 B;$21.1 B
+Constellation Brands;United States;$8.6 B;$2 B;$27.1 B;$45.8 B
+Nidec;Japan;$14.6 B;$876.9 M;$20.5 B;$75.1 B
+Naspers;South Africa;$4.8 B;$3.1 B;$45.7 B;$106.1 B
+Vonovia;Germany;$4.8 B;$3.7 B;$76.4 B;$39.8 B
+Activision Blizzard;United States;$8.1 B;$2.2 B;$23.1 B;$74.7 B
+Bank Mandiri;Indonesia;$8.6 B;$1.2 B;$101.7 B;$20.2 B
+Marathon Petroleum;United States;$75 B;$-9.9 B;$85.2 B;$35.4 B
+Illinois Tool Works;United States;$12.6 B;$2.1 B;$15.6 B;$70.9 B
+Eversource Energy;United States;$8.9 B;$1.2 B;$46.1 B;$30.8 B
+Parker-Hannifin;United States;$13.5 B;$1.4 B;$19.8 B;$41.4 B
+S.F. Holding;China;$22.3 B;$1.1 B;$17 B;$44.4 B
+NTPC;India;$15.1 B;$1.6 B;$53.8 B;$13.4 B
+Transneft;Russia;$14.3 B;$2.1 B;$44.1 B;$13.9 B
+Stanley Black & Decker;United States;$14.5 B;$1.2 B;$23.6 B;$33.1 B
+Rongsheng Petrochemical;China;$14 B;$858.1 M;$34.1 B;$28.5 B
+Denso;Japan;$44.6 B;$-233.6 M;$66.1 B;$51.2 B
+Gilead Sciences;United States;$24.6 B;$123 M;$68.4 B;$84 B
+Swiss Re;Switzerland;$42.7 B;$-918.3 M;$183 B;$28.5 B
+Swisscom;Switzerland;$11.8 B;$1.6 B;$27.4 B;$27 B
+Nutrien;Canada;$21 B;$478.9 M;$47.2 B;$32 B
+M&G;United Kingdom;$19 B;$1.5 B;$296.6 B;$7.9 B
+Cognizant;United States;$16.7 B;$1.4 B;$16.9 B;$42.8 B
+Vestas Wind Systems;Denmark;$16.9 B;$870.5 M;$22.2 B;$40.1 B
+JBS;Brazil;$52.4 B;$891.5 M;$31.5 B;$14.8 B
+Société Générale;France;$41.4 B;$-990.6 M;$1,788.8 B;$20.9 B
+Ageas;Belgium;$12.5 B;$1.3 B;$135.4 B;$11.4 B
+NEC;Japan;$27.8 B;$986.3 M;$32.4 B;$16.3 B
+Adidas;Germany;$22.6 B;$493.6 M;$25.8 B;$64.9 B
+Novatek;Russia;$9.6 B;$937.5 M;$27.9 B;$58.4 B
+PPG;United States;$14.3 B;$1.2 B;$20.1 B;$39.7 B
+NatWest Group;United Kingdom;$18.1 B;$-477 M;$1,092.9 B;$33.4 B
+Wanhua Chemical Group;China;$10.5 B;$1.5 B;$20.5 B;$49.8 B
+FirstRand;South Africa;$7.8 B;$923 M;$132.7 B;$20.5 B
+Aptiv;Ireland;$13.1 B;$1.8 B;$17.5 B;$38.1 B
+Subaru;Japan;$27.5 B;$1.1 B;$32 B;$15.2 B
+Erste Group Bank;Austria;$10.6 B;$762.1 M;$340.4 B;$14.3 B
+Aeon;Japan;$81.2 B;$-670.3 M;$107.8 B;$24.7 B
+T&D Holdings;Japan;$18.9 B;$1.5 B;$169.1 B;$7.4 B
+ArcelorMittal;Luxembourg;$53.2 B;$-838 M;$82.1 B;$31.8 B
+Northern Trust;United States;$6.1 B;$1.2 B;$170 B;$22.2 B
+Metallurgical Corp of China;China;$57.9 B;$1.1 B;$77.4 B;$5.5 B
+MediaTek;Taiwan;$10.9 B;$1.4 B;$19 B;$54.4 B
+Orsted;Denmark;$5.7 B;$2.3 B;$32.3 B;$66.8 B
+Toshiba;Japan;$28.4 B;$698.8 M;$32.6 B;$19.2 B
+McKesson;United States;$237.6 B;$-4.2 B;$61.8 B;$30.7 B
+Willis Towers Watson;United Kingdom;$9.4 B;$996 M;$38.5 B;$31 B
+UniCredit;Italy;$26.6 B;$-3.3 B;$1,139.7 B;$22.9 B
+SingTel;Singapore;$12.1 B;$783.3 M;$34.4 B;$31.5 B
+Shenzhen Overseas;China;$10.7 B;$1.8 B;$69.8 B;$12.6 B
+Nissan Motor;Japan;$72 B;$-10.1 B;$155.3 B;$20.7 B
+CLP Holdings;Hong Kong;$10.3 B;$1.5 B;$30.2 B;$24.8 B
+TELUS;Canada;$11.4 B;$899.9 M;$34 B;$28.1 B
+Chubu Electric Power;Japan;$27.1 B;$1.6 B;$54.3 B;$9.2 B
+Prologis;United States;$4.4 B;$1.5 B;$56.1 B;$84.2 B
+Regeneron Pharmaceuticals;United States;$8.5 B;$3.5 B;$17.2 B;$53.8 B
+M&T Bank;United States;$6.1 B;$1.3 B;$142.6 B;$19.8 B
+Dominion Energy;United States;$15.2 B;$-401 M;$95.9 B;$66.2 B
+LabCorp;United States;$14 B;$1.6 B;$20.1 B;$25.6 B
+China Taiping Insurance;Hong Kong;$35.7 B;$844.4 M;$148.7 B;$6.9 B
+Standard Bank Group;South Africa;$10.5 B;$799.4 M;$172.4 B;$13.7 B
+Otsuka Holding;Japan;$13.3 B;$1.4 B;$25.5 B;$21.6 B
+Baxter International;United States;$11.7 B;$1.1 B;$20 B;$43.8 B
+Regions Financial;United States;$6.4 B;$1.1 B;$147.4 B;$20.4 B
+Crown Castle International;United States;$5.8 B;$1.1 B;$38.8 B;$77.6 B
+Phillips 66;United States;$63.7 B;$-4 B;$54.7 B;$34.5 B
+George Weston;Canada;$40.8 B;$718 M;$37.7 B;$13.8 B
+PPL;United States;$7.6 B;$1.5 B;$48.1 B;$22.4 B
+RELX;United Kingdom;$9.1 B;$1.6 B;$19.3 B;$51.5 B
+Deutsche Boerse;Germany;$4.3 B;$1.2 B;$187 B;$32.5 B
+FirstEnergy;United States;$10.8 B;$1 B;$44.5 B;$19.4 B
+Seazen Group;China;$21.5 B;$1.5 B;$83.3 B;$7.6 B
+Hong Kong Exchanges;Hong Kong;$2.5 B;$1.5 B;$51.5 B;$76.1 B
+ConocoPhillips;United States;$18.8 B;$-2.7 B;$62.6 B;$69.1 B
+Kansai Electric Power;Japan;$28.2 B;$1 B;$75.7 B;$8.9 B
+Lincoln National;United States;$17.4 B;$499 M;$352.4 B;$12.5 B
+Thales;France;$19.4 B;$551.1 M;$38.9 B;$21.9 B
+Sumitomo Realty;Japan;$8.9 B;$1.5 B;$53.5 B;$16.4 B
+Fox;United States;$12.7 B;$1.5 B;$22.8 B;$22.4 B
+Sinopharm Group;China;$66.3 B;$1 B;$47.6 B;$8.9 B
+Rogers Communications;Canada;$10.4 B;$1.2 B;$30.5 B;$24.5 B
+Atlas Copco;Sweden;$10.8 B;$1.6 B;$14.2 B;$80.4 B
+Tokyo Electron;Japan;$12 B;$2 B;$12.3 B;$70.2 B
+EssilorLuxottica;France;$16.4 B;$96.9 M;$64 B;$72.8 B
+Astellas Pharma;Japan;$11.7 B;$1.3 B;$22.2 B;$28.1 B
+Axis Bank;India;$10.9 B;$403.6 M;$130.1 B;$27.6 B
+Fidelity National Information;United States;$12.6 B;$157 M;$83.8 B;$94.9 B
+First Republic Bank;United States;$4.6 B;$1.2 B;$155.8 B;$31.6 B
+Koç Holding;Turkey;$20.5 B;$1.3 B;$84.8 B;$5.7 B
+DuPont de Nemours;United States;$20.4 B;$-3 B;$70.9 B;$41.2 B
+Valero Energy;United States;$64.9 B;$-1.4 B;$52.4 B;$29.6 B
+WEC Energy Group;United States;$7.2 B;$1.2 B;$37.9 B;$30.6 B
+Great Wall Motor;China;$14.6 B;$786.6 M;$23.6 B;$28.8 B
+Advanced Micro Devices;United States;$9.8 B;$2.5 B;$9 B;$99.8 B
+Aluminum Corp of China;China;$27 B;$15.1 B;$29.8 B;$8.3 B
+Sekisui House;Japan;$23 B;$1.2 B;$25.1 B;$14.6 B
+VTB Bank;Russia;$17.1 B;$901.1 M;$245.3 B;$8.1 B
+Global Payments;United States;$7.4 B;$584.5 M;$44.2 B;$64.3 B
+Indian Oil;India;$48.9 B;$651.5 M;$44.8 B;$11.4 B
+CBRE Group;United States;$23.8 B;$752 M;$18 B;$27.5 B
+Discovery;United States;$10.6 B;$1.2 B;$34.1 B;$18.2 B
+MS&AD Insurance;Japan;$42.8 B;$216.9 M;$232.5 B;$16.8 B
+Kyocera;Japan;$14.1 B;$659.2 M;$31.3 B;$23.9 B
+Fidelity National Financial;United States;$10.8 B;$1.4 B;$48.4 B;$13 B
+AutoZone;United States;$13.4 B;$1.9 B;$14.2 B;$33 B
+Porsche Automobil Holding;Germany;$122 M;$3 B;$44.5 B;$36.2 B
+Republic Services;United States;$10.2 B;$967.3 M;$23.4 B;$33.3 B
+TJX Cos;United States;$32.1 B;$90.5 M;$30.8 B;$84.4 B
+Hikvision;China;$9.1 B;$1.9 B;$13.6 B;$81.7 B
+AmerisourceBergen;United States;$194.5 B;$-3.2 B;$45.8 B;$24.5 B
+London Stock Exchange;United Kingdom;$3.1 B;$539.9 M;$1,160.7 B;$49.3 B
+Trane Technologies;Ireland;$12.5 B;$854.9 M;$18.2 B;$41 B
+Wuliangye Yibin;China;$6.8 B;$2.8 B;$14.7 B;$155.8 B
+SVB Financial Group;United States;$4 B;$1.2 B;$115.5 B;$28 B
+Nan Ya Plastics;Taiwan;$10.3 B;$1.5 B;$20.8 B;$25.2 B
+Shaanxi Coal Industry;China;$13.3 B;$1.6 B;$22.8 B;$16.9 B
+CGN Power;China;$10.2 B;$1.4 B;$59.9 B;$11.8 B
+Huatai Securities;China;$6.7 B;$1.6 B;$109.6 B;$13.1 B
+Nucor;United States;$20.1 B;$716.7 M;$20.1 B;$23.7 B
+Xiamen C&D;China;$55.6 B;$808.4 M;$57.1 B;$3.8 B
+Bunge;United States;$41.4 B;$1.2 B;$23.7 B;$11.8 B
+Intuit;United States;$7.7 B;$1.7 B;$14.6 B;$113.9 B
+Continental;Germany;$42.9 B;$-1.1 B;$50.9 B;$28.2 B
+CarMax;United States;$19 B;$746.9 M;$21.5 B;$21.1 B
+Asahi Kasei;Japan;$19.7 B;$750.1 M;$27.8 B;$16 B
+DSV Panalpina;Denmark;$17.7 B;$649.9 M;$15.8 B;$47.7 B
+Ferguson;United Kingdom;$21.2 B;$1.3 B;$12.5 B;$28.9 B
+China Cinda Asset Management;China;$10.5 B;$1.4 B;$232.1 B;$7.8 B
+Legend Holding;China;$60.6 B;$567.3 M;$99.7 B;$4.1 B
+Kao;Japan;$12.9 B;$1.2 B;$16.1 B;$32 B
+International Paper;United States;$20.6 B;$482 M;$31.7 B;$22.5 B
+Quanta Computer;Taiwan;$37 B;$860.2 M;$23.6 B;$13.3 B
+Ecopetrol;Colombia;$13.8 B;$456.7 M;$40.8 B;$26.3 B
+SSE;United Kingdom;$8.4 B;$1.7 B;$26.3 B;$21.3 B
+Muyuan Foodstuff;China;$6.8 B;$3.7 B;$15.2 B;$57.6 B
+Omnicom Group;United States;$13.2 B;$945.3 M;$27.6 B;$17.1 B
+Raymond James Financial;United States;$8.4 B;$861 M;$53.7 B;$17.9 B
+China Fortune Land Development;China;$13 B;$1.7 B;$74.4 B;$3.9 B
+Essity Ab;Sweden;$13.2 B;$1.1 B;$18.8 B;$23.3 B
+Jardine Matheson;Bermuda;$32.6 B;$-394 M;$93.5 B;$19 B
+Natixis;France;$23.2 B;$-21.7 M;$606 B;$15.3 B
+Resona Holdings;Japan;$7.4 B;$1.3 B;$682.5 B;$9.5 B
+Kellogg;United States;$13.8 B;$1.3 B;$18 B;$21.6 B
+Rocket Companies;United States;$16.3 B;$3.8 B;$37.5 B;$3 B
+Bank Of Hangzhou;China;$6.8 B;$980.9 M;$163.1 B;$13.7 B
+China Hongqiao Group;China;$12.5 B;$1.5 B;$27.8 B;$13.8 B
+Suncor Energy;Canada;$18.4 B;$-3.2 B;$66.4 B;$31.9 B
+East Japan Railway;Japan;$18.6 B;$-3.3 B;$86.3 B;$26.2 B
+China Energy Engineering;China;$39.3 B;$685.7 M;$72.8 B;$3 B
+PG&E;United States;$18.5 B;$-1.3 B;$106.9 B;$23 B
+Albertsons;United States;$69.4 B;$1.1 B;$26.3 B;$9.3 B
+Arch Capital Group;Bermuda;$8.3 B;$1.4 B;$37.5 B;$16.2 B
+Kuehne & Nagel International;Switzerland;$21.7 B;$839.5 M;$11.1 B;$36.9 B
+Siemens Energy;Germany;$30.7 B;$-1.8 B;$52.6 B;$25.7 B
+Schlumberger;United States;$23.6 B;$-10.5 B;$42.4 B;$36.8 B
+Corning;United States;$11.3 B;$512 M;$30.8 B;$35.2 B
+China Reinsurance Group;China;$24 B;$829.5 M;$66.3 B;$4.5 B
+CNPC Capital;China;$4.4 B;$21.9 B;$135.2 B;$12.2 B
+SK Holdings;South Korea;$69.4 B;$160.5 M;$126.7 B;$13.4 B
+Associated British Foods;Australia;$17.7 B;$579.8 M;$21.6 B;$26.5 B
+TCL;China;$11.1 B;$635.8 M;$39.4 B;$19.3 B
+Woori Financial Group;South Korea;$10.1 B;$1.1 B;$367.4 B;$6.6 B
+Sumitomo;Japan;$43.6 B;$-1.4 B;$75.3 B;$17.8 B
+Analog Devices;United States;$5.9 B;$1.4 B;$21.4 B;$58.8 B
+Oil & Natural Gas;India;$47.3 B;$122.6 M;$68.8 B;$18.2 B
+Whirlpool;United States;$19.4 B;$1.1 B;$20.4 B;$14.7 B
+Grupo ACS;Spain;$39.8 B;$654.3 M;$45.7 B;$9.6 B
+O'Reilly Automotive;United States;$11.6 B;$1.8 B;$12.3 B;$37.2 B
+Infineon Technologies;Germany;$10.6 B;$473.1 M;$26.2 B;$55.3 B
+Occidental Petroleum;United States;$19.7 B;$-14.8 B;$84.4 B;$22.8 B
+ASE Technology Holding;Taiwan;$16.2 B;$937.1 M;$20.8 B;$17.1 B
+Industrial Bank of Korea;South Korea;$9 B;$1.3 B;$332.9 B;$6.1 B
+Isbank;Turkey;$13.7 B;$1 B;$94 B;$2.7 B
+S&P Global;United States;$7.4 B;$2.3 B;$12.5 B;$91.1 B
+Siam Cement;Thailand;$12.8 B;$1.1 B;$25 B;$15.8 B
+Heineken;Netherlands;$22.5 B;$-116.3 M;$54.3 B;$27.3 B
+Dongfeng Motor Group;China;$15.7 B;$1.6 B;$48.4 B;$8.1 B
+Hermès International;France;$7.3 B;$1.6 B;$13.5 B;$128.6 B
+Tenaga Nasional;Malaysia;$10.5 B;$855 M;$45.1 B;$13.9 B
+Banco Btg Pactual;Brazil;$3.1 B;$1 B;$44.9 B;$46.1 B
+Conagra Brands;United States;$11.7 B;$1.2 B;$22.1 B;$18 B
+Nippon Steel;Japan;$45.9 B;$-1.9 B;$70.4 B;$16.6 B
+Repsol;Spain;$37.9 B;$-3.7 B;$60.3 B;$19.2 B
+Publicis Groupe;France;$12.3 B;$656.6 M;$36.9 B;$16.3 B
+Bridgestone;Japan;$28 B;$-218.2 M;$40.6 B;$28.7 B
+ENEOS Holdings;Japan;$72.8 B;$-2.3 B;$77.7 B;$14.2 B
+Formosa Petrochemical;Taiwan;$14.1 B;$955.6 M;$13.6 B;$34.3 B
+Fortis (Canada);Canada;$6.7 B;$949.8 M;$44.6 B;$20.6 B
+Guotai Junan Securities;China;$5.8 B;$1.5 B;$107.5 B;$12.5 B
+Unipol Gruppo;Italy;$15.2 B;$806.4 M;$96.1 B;$4.1 B
+Renault;France;$49.6 B;$-9.1 B;$141.6 B;$12.6 B
+Canadian Pacific Railway;Canada;$5.7 B;$1.8 B;$18.7 B;$49.2 B
+China Bohai Bank;China;$9.6 B;$1.1 B;$213.2 B;$7.7 B
+Public Bank;Malaysia;$4.5 B;$1.2 B;$112.2 B;$19.8 B
+Geely Automobile Holdings;Hong Kong;$13.4 B;$794.6 M;$16.9 B;$27.6 B
+HCL Technologies;India;$10 B;$1.8 B;$10.6 B;$37 B
+BOE Technology Group;China;$18.7 B;$363.8 M;$53.3 B;$17.7 B
+Guangzhou R&F;China;$12.5 B;$1.3 B;$67.6 B;$4.8 B
+Richemont;Switzerland;$13.8 B;$248.9 M;$38.4 B;$59.2 B
+Daiichi Sankyo;Japan;$9 B;$661.2 M;$19.9 B;$48.4 B
+Kinder Morgan;United States;$11.5 B;$106 M;$73.5 B;$37.5 B
+Inner Mongolia Yili;China;$13.5 B;$1 B;$11.2 B;$36.3 B
+Haitong Securities;China;$6.5 B;$1.3 B;$96.3 B;$11.7 B
+Markel;United States;$9.7 B;$787.3 M;$34.9 B;$16.7 B
+Kasikornbank;Thailand;$8.2 B;$916.9 M;$122.1 B;$10.3 B
+Riyad Bank;Saudi Arabia;$3.6 B;$1.3 B;$82.7 B;$20 B
+China International Capital;China;$5.3 B;$1 B;$79.8 B;$18 B
+Huishang Bank;China;$8.4 B;$1.3 B;$194.5 B;$4.6 B
+Hewlett Packard Enterprise;United States;$26.9 B;$-432 M;$53.5 B;$20.8 B
+Daqin Railway;China;$10.3 B;$1.5 B;$21.9 B;$15.7 B
+Keyence;Japan;$4.8 B;$1.7 B;$18.5 B;$115.5 B
+Nokia;Finland;$24.9 B;$-2.8 B;$46.5 B;$23.7 B
+Canadian Natural Resources;Canada;$12.6 B;$-324.3 M;$59.1 B;$36.6 B
+Kone;Finland;$11.3 B;$1.1 B;$10.8 B;$44.6 B
+Delta Air Lines;United States;$12.7 B;$-13 B;$73.1 B;$29.8 B
+Neste;Finland;$13.4 B;$812.8 M;$12 B;$45.7 B
+STMicroelectronics;Switzerland;$10.2 B;$1.1 B;$14.5 B;$35.4 B
+CNH Industrial;United Kingdom;$26 B;$-493 M;$48.7 B;$21.6 B
+Simon Property Group;United States;$4.6 B;$1.2 B;$34.8 B;$38.4 B
+Kirin Holdings;Japan;$17.3 B;$673.7 M;$23.8 B;$15.9 B
+Marubeni;Japan;$58 B;$-1.7 B;$62.8 B;$14.6 B
+Uber;United States;$12.1 B;$-6.8 B;$33.3 B;$112.7 B
+Sysco;United States;$45.9 B;$-337.5 M;$22.5 B;$41.1 B
+Zoetis;United States;$6.7 B;$1.6 B;$13.6 B;$79.6 B
+Bharti Airtel;India;$13.5 B;$-2.8 B;$45.8 B;$39.9 B
+Henderson Land;Hong Kong;$3.3 B;$1.3 B;$59.5 B;$21.9 B
+Coca-Cola European Partners;United Kingdom;$12.1 B;$577.9 M;$23.5 B;$25 B
+Samsung Fire & Marine;South Korea;$18 B;$639.9 M;$84.4 B;$7.3 B
+Mapfre;Spain;$21 B;$600.3 M;$78 B;$6.5 B
+Power Finance;India;$9.1 B;$1.3 B;$103.6 B;$3.9 B
+Femsa;Mexico;$23 B;$-89.6 M;$34.4 B;$28.7 B
+Coles Group;Australia;$27.1 B;$722.2 M;$16.5 B;$16.1 B
+WH Group;Hong Kong;$25.6 B;$827.9 M;$18.7 B;$12.8 B
+Intact Financial;Canada;$9.3 B;$806.7 M;$26.4 B;$18.7 B
+Carlsberg;Denmark;$9 B;$922.1 M;$19.8 B;$24.2 B
+Huntington Bank;United States;$5 B;$817 M;$123 B;$16.5 B
+Roper Technologies;United States;$5.5 B;$949.7 M;$24 B;$44.4 B
+Luxshare Precision Industry;China;$12 B;$928.5 M;$9.7 B;$35.7 B
+Contemporary Amperex Technology;China;$6.3 B;$635.5 M;$20.2 B;$117.7 B
+Veolia Environnement;France;$29.7 B;$101.2 M;$55.5 B;$16.5 B
+Naturgy Energy Group;Spain;$17.5 B;$-395.6 M;$48.4 B;$24.1 B
+CDW;United States;$18.5 B;$788.5 M;$9.3 B;$25.9 B
+Cincinnati Financial;United States;$7.5 B;$1.2 B;$27.2 B;$17.1 B
+Vertex Pharmaceuticals;United States;$6.2 B;$2.7 B;$11.8 B;$56.8 B
+Sandvik;Sweden;$9.4 B;$949 M;$14.5 B;$36.2 B
+Evonik;Germany;$13.9 B;$547.2 M;$27.1 B;$17.1 B
+Agile Group Holdings;China;$11.9 B;$1.4 B;$48 B;$6.2 B
+Logan Property Holdings;China;$10.4 B;$1.9 B;$37.2 B;$8.9 B
+Jinke Property Group;China;$12.3 B;$1 B;$58.3 B;$5.9 B
+Ball;United States;$11.8 B;$585 M;$18.3 B;$29.9 B
+Tatneft;Russia;$10.2 B;$1.4 B;$17.1 B;$17.3 B
+China Coal Energy;China;$20.5 B;$775.1 M;$43.1 B;$6.8 B
+Assa Abloy;Sweden;$9.5 B;$996.2 M;$14.3 B;$33.6 B
+Otis Worldwide;United States;$12.8 B;$906 M;$10.7 B;$30.3 B
+Rakuten;Japan;$13.6 B;$-1.1 B;$121.3 B;$17 B
+Thomson Reuters;Canada;$6 B;$1.1 B;$17.9 B;$45.9 B
+China National Nuclear Power;China;$6.9 B;$832.9 M;$52.8 B;$14.3 B
+Chunghwa Telecom;Taiwan;$7.1 B;$1.1 B;$18 B;$31.2 B
+Central Japan Railway;Japan;$9.4 B;$-952.8 M;$91.9 B;$28.8 B
+SK Innovation;South Korea;$29 B;$-1.8 B;$35.4 B;$20.7 B
+Chongqing Rural Bank;China;$7.2 B;$1.2 B;$173.8 B;$4.9 B
+Telkom Indonesia;Indonesia;$9.2 B;$1.3 B;$15.8 B;$22.9 B
+Pernod Ricard;France;$9.1 B;$299.8 M;$38.9 B;$53.4 B
+Sampo;Finland;$11 B;$43.3 M;$66.9 B;$27.1 B
+Amphenol;United States;$8.6 B;$1.2 B;$12.3 B;$41 B
+CIFI Holdings Group;China;$10.5 B;$1.2 B;$58 B;$7.5 B
+Unum;United States;$13.2 B;$793 M;$60.7 B;$5.9 B
+Raiffeisen Bank International;Austria;$8.3 B;$830.7 M;$203.1 B;$7.1 B
+Wipro;India;$8.3 B;$1.5 B;$11.4 B;$35.9 B
+Coal India;India;$12.3 B;$1.7 B;$21 B;$10.7 B
+Shin Kong Financial;Taiwan;$17.1 B;$455.9 M;$155.1 B;$4.4 B
+Aegon;Netherlands;$26.4 B;$-166.4 M;$519.9 B;$9.6 B
+Samsung SDI;South Korea;$9.6 B;$487.1 M;$19.8 B;$41.6 B
+Altice USA;United States;$9.9 B;$436.2 M;$34 B;$22.7 B
+Equitable Holdings;United States;$12.4 B;$-635 M;$275.4 B;$14.4 B
+National Bank of Kuwait;Kuwait;$3.8 B;$718.6 M;$97.7 B;$19.8 B
+Mega Financial Holding;Taiwan;$2.8 B;$849.7 M;$137.2 B;$15.4 B
+United Rentals;United States;$8.5 B;$890 M;$18.4 B;$23.7 B
+United Airlines Holdings;United States;$15.4 B;$-7.1 B;$66 B;$18.1 B
+Beijing-Shanghai High-Speed Railway;China;$3.6 B;$608.8 M;$45.2 B;$43.7 B
+Deutsche Wohnen;Germany;$3.2 B;$1.7 B;$38.1 B;$18.6 B
+Gallagher;United States;$6.9 B;$818.8 M;$22.3 B;$26.7 B
+Ameren;United States;$5.8 B;$871 M;$32 B;$21.5 B
+Amcor;United Kingdom;$12.5 B;$777.6 M;$16.7 B;$18.7 B
+Tata Motors;India;$30.2 B;$-2.1 B;$41.8 B;$16.1 B
+T Rowe Price;United States;$6.2 B;$2.3 B;$10.9 B;$40.5 B
+HeidelbergCement;Germany;$20.1 B;$-2.4 B;$40.7 B;$19.1 B
+Formosa Plastics;Taiwan;$7.1 B;$1.2 B;$17.1 B;$24.5 B
+Schindler Holding;Switzerland;$11.3 B;$769.2 M;$12.3 B;$33.4 B
+DSM;Netherlands;$9.8 B;$578 M;$17.6 B;$30.9 B
+Siam Commercial Bank;Thailand;$5.6 B;$869.7 M;$109.4 B;$11.4 B
+Bharat Petroleum;India;$30 B;$541.8 M;$20.6 B;$12.1 B
+Compass Group;United Kingdom;$25.4 B;$169.5 M;$19 B;$39.2 B
+Uni-President;Taiwan;$15.2 B;$731.6 M;$17.6 B;$14.7 B
+Hershey;United States;$8.2 B;$1.3 B;$9.1 B;$33.3 B
+Power Grid of India;India;$5.3 B;$1.6 B;$35 B;$14.8 B
+Oneok;United States;$8.6 B;$612.8 M;$23.1 B;$23 B
+Zhongsheng Group Holdings;China;$21.6 B;$805.2 M;$10.5 B;$16.6 B
+TDK;Japan;$13 B;$528.7 M;$21.4 B;$18.1 B
+Jiangsu Zhangjiagang Rural Commercial Bank;China;$5.5 B;$1.5 B;$219.9 B;$1.5 B
+Boston Scientific;United States;$9.9 B;$-139 M;$30.8 B;$58.1 B
+MTN Group;South Africa;$10.9 B;$1 B;$23.8 B;$11.7 B
+Bajaj Finserv;India;$7.8 B;$497.3 M;$35.4 B;$21 B
+VakifBank;Turkey;$7.9 B;$1.1 B;$80.4 B;$1.7 B
+Fortive;United States;$6.5 B;$1.6 B;$16.1 B;$24.5 B
+Lumen Technologies;United States;$20.7 B;$-1.2 B;$59.4 B;$14.1 B
+Sika;Switzerland;$8.4 B;$878.4 M;$11.4 B;$41.8 B
+Gemdale;China;$8.2 B;$1.4 B;$55.8 B;$8.3 B
+RiseSun Real Estate Development;China;$10.5 B;$1.2 B;$40.3 B;$4.3 B
+Tohoku Electric Power;Japan;$20.1 B;$601.9 M;$42.6 B;$4.7 B
+EOG Resources;United States;$9.9 B;$-604.6 M;$35.8 B;$41.2 B
+H&M - Hennes & Mauritz;Sweden;$19.1 B;$-194.9 M;$20.2 B;$40.9 B
+Pegatron;Taiwan;$47.5 B;$686.3 M;$24.4 B;$6.9 B
+Moody's;United States;$5.4 B;$1.8 B;$12.4 B;$60.3 B
+Grupo Aval;Colombia;$10.3 B;$635.7 M;$94.4 B;$7.3 B
+CMS Energy;United States;$6.7 B;$755 M;$29.7 B;$18.5 B
+China Gas Holdings;Hong Kong;$7.6 B;$1.2 B;$16.1 B;$22.2 B
+Abu Dhabi Commercial Bank;United Arab Emirates;$4.8 B;$960.7 M;$111.9 B;$11.9 B
+American Financial Group;United States;$7.8 B;$732 M;$63.9 B;$10.2 B
+KLA;United States;$6.1 B;$1.4 B;$9.8 B;$51.3 B
+TAQA;United Arab Emirates;$7.7 B;$98.8 M;$50.9 B;$41.9 B
+Techtronic Industries;Hong Kong;$9.8 B;$800.7 M;$9.4 B;$32.4 B
+Jefferies Financial;United States;$8.1 B;$1.2 B;$56.9 B;$8 B
+Akzo Nobel;Netherlands;$9.7 B;$718.2 M;$16.1 B;$23.2 B
+Fairfax Financial;Canada;$19.3 B;$202.4 M;$74.1 B;$12.3 B
+Reinsurance Group of America;United States;$14.6 B;$415 M;$83.7 B;$9 B
+Yango Group;China;$11.7 B;$724 M;$52.9 B;$4 B
+Weyerhaeuser;United States;$7.5 B;$797 M;$16.3 B;$29.4 B
+Shanghai Construction;China;$33.4 B;$445.5 M;$45.4 B;$4 B
+Julius Baer Group;Switzerland;$4.3 B;$743.7 M;$123.5 B;$14.1 B
+Eiffage;France;$19 B;$427.5 M;$41.3 B;$10.2 B
+Hanwha;South Korea;$43.2 B;$181.2 M;$176 B;$2 B
+ITC;India;$6.3 B;$1.8 B;$9.9 B;$34.4 B
+GF Securities;China;$4.7 B;$1.5 B;$70 B;$11.4 B
+American Airlines Group;United States;$17.3 B;$-8.9 B;$62 B;$14.1 B
+Stora Enso;Finland;$9.8 B;$714.8 M;$21.3 B;$15.8 B
+UPM-Kymmene;Finland;$9.8 B;$638.4 M;$18.2 B;$20.6 B
+China Merchants Securities;China;$4.5 B;$1.3 B;$76.4 B;$12.1 B
+Longi Green Energy Technology;China;$6.3 B;$1.2 B;$12 B;$50.6 B
+Asr Nederland;Netherlands;$8.9 B;$693.1 M;$93.8 B;$6.5 B
+CP All;Thailand;$16.8 B;$482.5 M;$17.5 B;$18.4 B
+Jiangsu Zhongnan Construction Group;China;$10.7 B;$796.8 M;$50 B;$4.2 B
+Quest Diagnostics;United States;$9.4 B;$1.4 B;$14 B;$17.1 B
+Suncorp Group;Australia;$8.9 B;$529.4 M;$73.2 B;$10.4 B
+Kyushu Electric Power;Japan;$19.3 B;$501.4 M;$49.6 B;$4.4 B
+Skanska;Sweden;$17.4 B;$1.1 B;$15.3 B;$11.3 B
+Tokyo Electric Power;Japan;$53.5 B;$-2.4 B;$115.9 B;$4.7 B
+WPP;United Kingdom;$15.4 B;$-3.8 B;$49.5 B;$16.3 B
+China Aoyuan Group;China;$9.9 B;$858.8 M;$49.8 B;$2.9 B
+Secom;Japan;$9.8 B;$706.2 M;$17.8 B;$18.5 B
+Delta Electronics;Taiwan;$9.6 B;$865.5 M;$12 B;$27.2 B
+China Life Insurance (Taiwan);Taiwan;$12.1 B;$528 M;$79 B;$4.3 B
+St. James's Place;United Kingdom;$12.2 B;$336 M;$177.4 B;$9.9 B
+China Gezhouba;China;$16.1 B;$620.4 M;$39.7 B;$5.2 B
+Hormel Foods;United States;$9.7 B;$887.5 M;$10 B;$25.3 B
+Loews;United States;$12.6 B;$-931 M;$75.8 B;$14.5 B
+Baker Hughes Company;United States;$20.7 B;$-9.9 B;$38 B;$15.4 B
+Southwest Airlines;United States;$9 B;$-3.1 B;$36.6 B;$36.9 B
+Charoen Pokphand Foods;Thailand;$18.8 B;$812.3 M;$25.4 B;$7.9 B
+ENN Energy Holdings;China;$10.4 B;$912 M;$13.8 B;$19.3 B
+Novolipetsk Steel;Russia;$9.2 B;$1.3 B;$9.9 B;$20.9 B
+ZTE;China;$14.7 B;$618.7 M;$23 B;$11.6 B
+Naver;South Korea;$5.5 B;$849.3 M;$15.7 B;$51.7 B
+Pinduoduo;China;$8.7 B;$-1 B;$24.3 B;$116.5 B
+Yanzhou Coal Mining;China;$10 B;$908.2 M;$41.7 B;$6.7 B
+China Development Financial;Taiwan;$12.4 B;$429.8 M;$122.2 B;$5.9 B
+Guosen Securities;China;$3.1 B;$958.5 M;$46.3 B;$16.3 B
+Marriott International;United States;$10.6 B;$-267 M;$24.7 B;$48.4 B
+Shanghai Electric Group;China;$18.4 B;$536.3 M;$40.4 B;$5.5 B
+Snam;Italy;$3.1 B;$1.3 B;$32.5 B;$18.3 B
+Garanti Bank;Turkey;$7.2 B;$947 M;$72.9 B;$3.8 B
+OTP Bank;Hungary;$5 B;$841.7 M;$78.7 B;$12.1 B
+IQVIA;United States;$11.4 B;$279 M;$24.6 B;$41.3 B
+Viatris;United States;$11.9 B;$-669.9 M;$61.6 B;$16.2 B
+Cintas;United States;$6.9 B;$980.5 M;$8.3 B;$36.8 B
+Kajima;Japan;$18.4 B;$1 B;$20.3 B;$7.2 B
+SM Investments;Philippines;$7.6 B;$471.6 M;$25.5 B;$24.3 B
+Formosa Chemicals;Taiwan;$8.6 B;$663.8 M;$18.9 B;$19 B
+Mitsubishi Chemical;Japan;$30 B;$-655.9 M;$49.6 B;$11 B
+Pgnig Group;Poland;$9.8 B;$1.9 B;$16.9 B;$10.6 B
+PKN Orlen;Poland;$22.1 B;$754.5 M;$22.6 B;$7.6 B
+Ecolab;United States;$12.4 B;$-1.2 B;$18.1 B;$63.8 B
+L Brands;United States;$11.8 B;$845.3 M;$11.6 B;$18.6 B
+Motorola Solutions;United States;$7.4 B;$949 M;$10.9 B;$31.9 B
+Atlantia;Italy;$9 B;$-1.3 B;$107.5 B;$16.1 B
+Joint Stock Commercial Bank for Foreign Trade of Vietnam;Vietnam;$3.7 B;$793.9 M;$57.5 B;$15.5 B
+Grasim Industries;India;$9.8 B;$546.4 M;$33.9 B;$12 B
+Equinix;United States;$6 B;$369.8 M;$27 B;$63.4 B
+TE Connectivity;Switzerland;$12.5 B;$114 M;$20.3 B;$44.1 B
+Seagate Technology;Ireland;$10.2 B;$989 M;$9 B;$19 B
+Sabanci Holding;Turkey;$8.8 B;$678.3 M;$67.4 B;$2.1 B
+NASDAQ;United States;$5.6 B;$932 M;$18 B;$26.4 B
+Clorox;United States;$7.5 B;$1.2 B;$6.9 B;$24 B
+Lonza Group;Switzerland;$4.8 B;$925.8 M;$16.5 B;$45.1 B
+Liberty Global;United Kingdom;$12 B;$-1.6 B;$59.1 B;$15.3 B
+Mitsubishi Heavy Industries;Japan;$35.5 B;$-102.9 M;$48.1 B;$10.4 B
+PulteGroup;United States;$11 B;$1.4 B;$12.2 B;$14.3 B
+WW Grainger;United States;$11.8 B;$695 M;$6.3 B;$21.3 B
+KT;South Korea;$20.3 B;$557.7 M;$31 B;$6.2 B
+Japan Exchange Group;Japan;$1.3 B;$483.8 M;$575.3 B;$13.7 B
+Legrand;France;$7 B;$776.6 M;$15.8 B;$26.7 B
+Rockwell Automation;United States;$6.2 B;$1.3 B;$8.2 B;$30.9 B
+Zoomlion Heavy Industry;China;$9.5 B;$1.1 B;$17.8 B;$12.4 B
+Obayashi;Japan;$17.3 B;$866.3 M;$21.5 B;$6.9 B
+Western Digital;United States;$16.3 B;$167 M;$25.6 B;$21.1 B
+Alexion Pharmaceuticals;United States;$6.1 B;$603.4 M;$18.1 B;$36.2 B
+Grupa PZU;Poland;$9.8 B;$490.5 M;$96.2 B;$7.4 B
+Severstal;Russia;$7.3 B;$1.7 B;$7.5 B;$19.6 B
+Bank of Baroda;India;$11.9 B;$370.7 M;$167.4 B;$4.7 B
+Tractor Supply;United States;$10.6 B;$749 M;$7 B;$21 B
+Db Insurance;South Korea;$13.9 B;$473.6 M;$54.6 B;$2.4 B
+Molina Healthcare;United States;$19.3 B;$673 M;$9.6 B;$14.6 B
+CGI;Canada;$9 B;$873 M;$12 B;$22 B
+DaVita;United States;$11.6 B;$783.3 M;$17.8 B;$12.4 B
+Electronic Arts;United States;$5.7 B;$1.2 B;$12.4 B;$40.6 B
+Williams;United States;$7.7 B;$211 M;$46.2 B;$28.7 B
+New Hope Liuhe;China;$15.9 B;$635.6 M;$16.8 B;$12 B
+Yuanta Financial Holding;Taiwan;$4.7 B;$818.6 M;$98.2 B;$10.6 B
+Align Technology;United States;$2.5 B;$1.8 B;$4.8 B;$48 B
+Kuwait Finance House;Kuwait;$3.5 B;$483.8 M;$70.7 B;$20 B
+Guangzhou Rural Commercial Bank;China;$5.9 B;$733.4 M;$157.3 B;$4.4 B
+Tokyo Century;Japan;$11.5 B;$525.4 M;$53.9 B;$8.3 B
+Towngas;Hong Kong;$5.3 B;$774.5 M;$19.4 B;$28.3 B
+American Water Works;United States;$3.8 B;$709 M;$25.8 B;$29.1 B
+Hydro One;Canada;$5.4 B;$1.3 B;$23.8 B;$14.6 B
+Givaudan;Switzerland;$6.7 B;$791.6 M;$12.1 B;$38.7 B
+Invesco;United States;$6.2 B;$761.6 M;$36.5 B;$12.3 B
+iA Financial Corporation;Canada;$11.6 B;$471.9 M;$66.3 B;$5.9 B
+JSW Steel;India;$9.5 B;$532.1 M;$17.4 B;$20.1 B
+Kingfisher;United Kingdom;$15.9 B;$761.4 M;$16.8 B;$10.3 B
+Yara International;Norway;$11.6 B;$683.5 M;$16.6 B;$13.9 B
+Wens Foodstuff Group;China;$10.8 B;$1.1 B;$12.3 B;$15.2 B
+Tokyo Gas;Japan;$16.8 B;$516.3 M;$26.5 B;$9.4 B
+Industrivarden;Sweden;$3.3 B;$5.1 B;$17 B;$17.7 B
+Semiconductor Manufacturing International;China;$3.9 B;$634 M;$31.3 B;$26.2 B
+Teva Pharmaceutical;Israel;$16.6 B;$-4 B;$50.6 B;$11.9 B
+China Resources Power;Hong Kong;$9 B;$977.7 M;$33.5 B;$6.3 B
+Intuitive Surgical;United States;$4.4 B;$1.1 B;$11.2 B;$96.2 B
+Tata Steel;India;$18.2 B;$-85.7 M;$33.1 B;$14.3 B
+Yum China Holdings;China;$8.3 B;$784 M;$10.9 B;$25.3 B
+Monster Beverage;United States;$4.6 B;$1.4 B;$6.3 B;$51.8 B
+Kaisa Group Holdings;China;$8.1 B;$789 M;$47.4 B;$3.4 B
+Autodesk;United States;$3.8 B;$1.2 B;$7.3 B;$65.9 B
+Rosseti;Russia;$13.8 B;$546.5 M;$35.2 B;$3.8 B
+JM Smucker;United States;$8.2 B;$951.3 M;$16.4 B;$14.4 B
+WR Berkley;United States;$8 B;$530.7 M;$28 B;$14.2 B
+Bâloise Group;Switzerland;$9.2 B;$462.7 M;$99.2 B;$7.9 B
+Bank Hapoalim;Israel;$4.7 B;$597.8 M;$168.1 B;$10.8 B
+Everest Re Group;Bermuda;$9.6 B;$507.8 M;$30.4 B;$11.8 B
+Equity Residential;United States;$2.5 B;$879.4 M;$20.3 B;$27.1 B
+Commerzbank;Germany;$13 B;$-3.3 B;$620.2 B;$7.5 B
+Crown Holdings;United States;$11.6 B;$579 M;$16.7 B;$14.7 B
+Sumitomo Electric;Japan;$26.7 B;$216.4 M;$31.2 B;$12.1 B
+CJ Cheiljedang;South Korea;$20.5 B;$581.1 M;$23.6 B;$6 B
+Sibanye Stillwater;South Africa;$7.7 B;$1.8 B;$9.1 B;$15 B
+SMC;Japan;$4.9 B;$986.5 M;$14.2 B;$40.3 B
+China International Travel Service;China;$6.7 B;$513.4 M;$5.7 B;$85.6 B
+Hoya;Japan;$5 B;$1.1 B;$7.9 B;$46.5 B
+Eletrobrás;Brazil;$5.6 B;$1.2 B;$34.5 B;$10.1 B
+Public Storage;United States;$2.9 B;$1.4 B;$11.8 B;$46.6 B
+Toppan Printing;Japan;$13.7 B;$814 M;$21.9 B;$6.1 B
+China International Marine;China;$13.6 B;$801.3 M;$22.4 B;$6.5 B
+Daiwa Securities;Japan;$5.4 B;$646.7 M;$254.1 B;$8.2 B
+Shanghai Pharmaceuticals;China;$27 B;$592.3 M;$19.7 B;$5.9 B
+E.Sun Financial;Taiwan;$2.3 B;$612.2 M;$105.8 B;$12 B
+Qurate Retail Group;United States;$14.2 B;$1.2 B;$17 B;$5.1 B
+Foshan Haitian Flavouring and Food;China;$3.3 B;$927.7 M;$4.5 B;$83 B
+Bank Leumi;Israel;$4.7 B;$611.2 M;$173.2 B;$10.1 B
+Csc Financial;China;$4.5 B;$1.3 B;$56.8 B;$9.7 B
+PKO Bank Polski;Poland;$4.4 B;$678.6 M;$102.5 B;$10.9 B
+Halkbank;Turkey;$7.7 B;$524.2 M;$93.7 B;$1.4 B
+Aisin Seiki;Japan;$32 B;$154.4 M;$37.4 B;$10 B
+Expeditors International;United States;$10.1 B;$696.1 M;$4.9 B;$18.8 B
+NXP Semiconductors;Netherlands;$8.6 B;$52 M;$19.8 B;$55 B
+Universal Health Services;United States;$11.6 B;$941 M;$13.5 B;$12.4 B
+HAL Trust;Monaco;$6.1 B;$716.5 M;$24.8 B;$15.1 B
+WestRock;United States;$17.6 B;$-677.5 M;$28.8 B;$14.4 B
+China Jinmao;Hong Kong;$8.8 B;$552.7 M;$59.3 B;$4.9 B
+BBMG;China;$15.4 B;$406.7 M;$44.6 B;$2.2 B
+LG;South Korea;$4.6 B;$1.2 B;$22.4 B;$17.3 B
+Shenzhen Mindray Bio-Medical Electronics;China;$2.9 B;$909.4 M;$4.5 B;$75 B
+Arrow Electronics;United States;$28.7 B;$584.4 M;$17.1 B;$8.7 B
+Cheniere Energy;United States;$9.4 B;$-85 M;$38.7 B;$18.8 B
+Yum! Brands;United States;$5.7 B;$904 M;$5.9 B;$35.3 B
+Huaneng Power International;China;$24.3 B;$64.8 M;$68.8 B;$5.5 B
+Alexandria Real Estate Equities;United States;$1.9 B;$758.7 M;$22.8 B;$24 B
+Booking Holdings;United States;$6.8 B;$59 M;$21.9 B;$101.7 B
+First Horizon;United States;$3.4 B;$845 M;$84.7 B;$9.7 B
+Taisei;Japan;$14.5 B;$1 B;$17 B;$8 B
+Financiere de l'Odet;France;$27.5 B;$244 M;$62.3 B;$5.2 B
+Shanghai International Port;China;$3.7 B;$1.2 B;$23.8 B;$16.4 B
+Dassault Systemes;France;$5.1 B;$559.7 M;$15.9 B;$59.7 B
+Metro Group;Germany;$27.8 B;$676 M;$16.5 B;$3.9 B
+Rolls-Royce Holdings;United Kingdom;$15.1 B;$-4.1 B;$40.3 B;$12.1 B
+Agilent Technologies;United States;$5.5 B;$810 M;$9.7 B;$41 B
+Norsk Hydro;Norway;$14.6 B;$397.8 M;$19.2 B;$13.9 B
+AES;United States;$9.7 B;$43 M;$34.6 B;$19.1 B
+Mosaic;United States;$8.7 B;$666.1 M;$19.8 B;$12.7 B
+Asustek Computer;Taiwan;$14 B;$902 M;$14.1 B;$10.2 B
+United Microelectronics;Taiwan;$6 B;$991.3 M;$13.4 B;$23.7 B
+Polyus;Russia;$5 B;$1.6 B;$7.3 B;$26.7 B
+Qatar Islamic Bank;Qatar;$1.8 B;$859 M;$49.5 B;$11.8 B
+AvalonBay Communities;United States;$2.3 B;$825.7 M;$19.2 B;$26.5 B
+EN+ Group International;Russia;$10.4 B;$1 B;$22.1 B;$5.9 B
+Suning.com;China;$37.4 B;$-476.7 M;$32.6 B;$10 B
+Akbank;Turkey;$5.7 B;$870.3 M;$64.4 B;$3.2 B
+Grifols;Spain;$6.1 B;$705.1 M;$18.7 B;$18.8 B
+Guangzhou Automobile Group;China;$9.2 B;$867.7 M;$21.8 B;$9.6 B
+Sinotruk Hong Kong;China;$14.3 B;$995.2 M;$17 B;$7.6 B
+Shenwan Hongyuan Group;China;$4.9 B;$1.1 B;$75.1 B;$7 B
+China Mengniu Dairy;Hong Kong;$11 B;$513.7 M;$12.3 B;$22.8 B
+Mitsubishi UFJ Lease;Japan;$8.4 B;$506.8 M;$58.4 B;$8.6 B
+China Huarong Asset Management;China;$12.4 B;$-126.7 M;$244.8 B;$5.1 B
+UCB;Belgium;$6.1 B;$834.5 M;$16.3 B;$18.6 B
+Beiersdorf;Germany;$8 B;$638.4 M;$12.6 B;$24.9 B
+Ashtead Group;United Kingdom;$6.3 B;$788.2 M;$12.6 B;$28.9 B
+Digital Realty Trust;United States;$3.9 B;$356.4 M;$36.1 B;$41 B
+Anta Sports Products;China;$5.2 B;$752.8 M;$7.9 B;$48.7 B
+New World Development;Hong Kong;$8 B;$140.8 M;$79.5 B;$13.8 B
+Jiangsu Hengrui Medicine;China;$3.6 B;$835.1 M;$4.8 B;$65.8 B
+Impala Platinum Holdings;South Africa;$6.1 B;$2.3 B;$8.2 B;$15.6 B
+Celanese;United States;$5.7 B;$2 B;$10.9 B;$18 B
+China Southern Airlines;China;$13.5 B;$-1.6 B;$49.9 B;$11 B
+ThyssenKrupp Group;Germany;$32.6 B;$-5.9 B;$43.3 B;$8.5 B
+Huadian Power International;China;$12.8 B;$468.9 M;$36.2 B;$3.1 B
+Franklin Resources;United States;$5.8 B;$767.5 M;$21.2 B;$15.2 B
+East Money Information;China;$1.7 B;$692.5 M;$16.9 B;$37.7 B
+SG Holdings;Japan;$11.8 B;$678.6 M;$7.5 B;$14.6 B
+Pan Pacific International Holdings;Japan;$15.7 B;$506.3 M;$13.2 B;$14.6 B
+Signature Bank;United States;$2 B;$526.6 M;$74.1 B;$13.1 B
+Covestro;Germany;$12.2 B;$523.2 M;$16.1 B;$13.5 B
+Coupang;South Korea;$12 B;$-475 M;$5.1 B;$78.8 B
+Zhongliang Holdings;China;$9.6 B;$545.9 M;$41.4 B;$2.5 B
+Fanuc;Japan;$4.7 B;$676.2 M;$15 B;$48 B
+Luzhou Lao Jiao;China;$2.2 B;$873.9 M;$5.4 B;$53.2 B
+Boston Properties;United States;$2.8 B;$876.8 M;$22.9 B;$18.2 B
+Nippon Paint;Japan;$7.3 B;$418.2 M;$15.6 B;$35.3 B
+Segro;United Kingdom;$554 M;$1.8 B;$17.3 B;$16.2 B
+Fastenal;United States;$5.7 B;$867.1 M;$4.1 B;$29 B
+Nitori Holdings;Japan;$6.8 B;$869.3 M;$8.7 B;$21.4 B
+Alcon;Switzerland;$6.8 B;$-544.6 M;$27.6 B;$37 B
+First Financial Holding;Taiwan;$2.9 B;$570.8 M;$126.4 B;$10.3 B
+Punjab National Bank;India;$12 B;$140.4 M;$174.7 B;$4.9 B
+NVR;United States;$7.4 B;$901.2 M;$5.8 B;$18.3 B
+Vistra Energy;United States;$11.1 B;$636 M;$25.2 B;$8.6 B
+China Molybdenum;China;$16.3 B;$338.6 M;$18.7 B;$14.5 B
+Ross Stores;United States;$12.5 B;$85.4 M;$13.7 B;$46.3 B
+Halliburton;United States;$14.4 B;$-2.9 B;$20.7 B;$18.4 B
+Sodexo;France;$18.8 B;$-764 M;$21.9 B;$14.8 B
+Edwards Lifesciences;United States;$4.4 B;$823.4 M;$7.2 B;$55.4 B
+Kerry Group;Ireland;$7.9 B;$631.7 M;$11.6 B;$23.2 B
+Taiwan Cooperative Financial;Taiwan;$3.9 B;$563.2 M;$147.6 B;$10 B
+Meritz Financial Group;South Korea;$9.8 B;$402.5 M;$63.7 B;$2 B
+Investec;United Kingdom;$3.6 B;$1.3 B;$65.5 B;$3.2 B
+Leidos;United States;$12.3 B;$628 M;$12.5 B;$14.4 B
+Bio-Rad Laboratories;United States;$2.5 B;$3.8 B;$13 B;$18.7 B
+JFE Holdings;Japan;$30.5 B;$-2.8 B;$44.4 B;$7.6 B
+Swire Pacific;Hong Kong;$10.3 B;$-1.4 B;$55.9 B;$11.9 B
+Zoom Video Communications;United States;$2.7 B;$671.6 M;$5.3 B;$96.9 B
+Idemitsu Kosan;Japan;$44 B;$-893.3 M;$37.5 B;$7.4 B
+Shimizu;Japan;$14 B;$752.5 M;$18 B;$6.4 B
+Jiangsu Yanghe Brewery;China;$2.7 B;$1.1 B;$8.2 B;$36.7 B
+Midea Real Estate Holding;China;$7.7 B;$627.6 M;$43.4 B;$2.9 B
+SDIC Power Holdings;China;$5.6 B;$804 M;$32.6 B;$10.7 B
+Nongfu Spring;China;$3.3 B;$763.5 M;$4 B;$57.8 B
+Campbell Soup;United States;$9 B;$806 M;$12.5 B;$15 B
+Mediobanca;Italy;$3.5 B;$619.3 M;$102 B;$9.7 B
+Terna;Italy;$2.8 B;$895.5 M;$25.3 B;$14.8 B
+Canara Bank;India;$11.5 B;$-204.4 M;$156.3 B;$3 B
+Assurant;United States;$10.1 B;$441.8 M;$34.8 B;$9.2 B
+ATOS;France;$12.7 B;$627 M;$22.2 B;$8 B
+MTR;Hong Kong;$5.5 B;$-620 M;$37.5 B;$35.1 B
+Hopson Development Holdings;Hong Kong;$4.8 B;$1.8 B;$38.8 B;$7.5 B
+JDE Peet's;Netherlands;$7.6 B;$351.1 M;$25.8 B;$19 B
+Kinnevik;Sweden;$575 M;$4.4 B;$14.1 B;$15.5 B
+Jacobs;United States;$13.5 B;$443.6 M;$12.8 B;$17.4 B
+Paychex;United States;$3.9 B;$1.1 B;$9.7 B;$35.1 B
+Hunan Valin Steel;China;$16.8 B;$926.5 M;$13.9 B;$7.3 B
+J.B. Hunt Transport Services;United States;$10 B;$547.8 M;$6.2 B;$18.2 B
+China Galaxy Securities;China;$3.8 B;$1.1 B;$68.2 B;$6.2 B
+Zimmer Biomet;United States;$7 B;$-138.9 M;$24.4 B;$35.8 B
+Eisai;Japan;$6.6 B;$877.4 M;$10 B;$19.1 B
+Finatis;France;$36.4 B;$-544.9 M;$36.3 B;$253 M
+Bank Of Chengdu;China;$3.6 B;$819.7 M;$93.8 B;$5.8 B
+Wuchan Zhongda Group;China;$56.6 B;$404.5 M;$18 B;$3.8 B
+Zions Bancorp;United States;$2.9 B;$708 M;$81.5 B;$9.2 B
+Evraz Group;United Kingdom;$9.8 B;$851.2 M;$8.7 B;$12.7 B
+Brenntag;Germany;$13.4 B;$531.8 M;$10.2 B;$14.2 B
+Square;United States;$9.5 B;$213.1 M;$9.9 B;$116.4 B
+C.H. Robinson;United States;$16.2 B;$506.4 M;$5.1 B;$13.2 B
+LKQ;United States;$11.6 B;$638.4 M;$12.4 B;$13.5 B
+Dubai Islamic Bank;United Arab Emirates;$3.6 B;$745.7 M;$78.8 B;$8.9 B
+Nippon Yusen;Japan;$14.6 B;$606.5 M;$19 B;$6 B
+Telia;Sweden;$9.7 B;$-2.5 B;$27.6 B;$17.7 B
+Osaka Gas;Japan;$12.7 B;$605.1 M;$21.4 B;$7.8 B
+Bank Of Guiyang;China;$4.3 B;$821.9 M;$84.6 B;$3.9 B
+Tenet Healthcare;United States;$17.6 B;$399 M;$27.1 B;$5.8 B
+China Steel;Taiwan;$10.7 B;$30.1 M;$22.6 B;$19.1 B
+International Holding Company;United Arab Emirates;$1.9 B;$781.1 M;$3.8 B;$44.6 B
+J Sainsbury;United Kingdom;$36.7 B;$-6.4 M;$34.2 B;$7.6 B
+Cooper Companies;United States;$2.5 B;$2.2 B;$8.9 B;$19.6 B
+LG Household & Health Care;South Korea;$6.6 B;$676 M;$6.3 B;$23.4 B
+Skyworks Solutions;United States;$4 B;$1.1 B;$5.4 B;$31.3 B
+Terumo;Japan;$5.7 B;$720.4 M;$12.2 B;$28.2 B
+QBE Insurance Group;Australia;$12.1 B;$-1.5 B;$40.9 B;$11.2 B
+Scor;France;$17.4 B;$266.8 M;$54.4 B;$6.5 B
+Brown-Forman;United States;$3.3 B;$911 M;$6.5 B;$35.5 B
+Partners Group Holding;Switzerland;$1.7 B;$857.4 M;$4.6 B;$37.9 B
+Absa Group;South Africa;$8.2 B;$357.1 M;$104.2 B;$7.4 B
+Bank of Changsha;China;$4.5 B;$739.3 M;$100.5 B;$6 B
+McCormick;United States;$5.9 B;$764.5 M;$12.7 B;$23.7 B
+IHS Markit;United Kingdom;$4.3 B;$535 M;$16.7 B;$41.4 B
+Bangkok Bank;Thailand;$5.2 B;$549 M;$127.6 B;$7.5 B
+Carnival;United States;$831 M;$-11.4 B;$57.2 B;$30.6 B
+CJ Corporation;South Korea;$27.1 B;$73.4 M;$36.8 B;$2.6 B
+Sumitomo Chemical;Japan;$20.8 B;$143.1 M;$37.7 B;$8.7 B
+Hindalco Industries;India;$16.3 B;$300 M;$25 B;$11.2 B
+Beijing Enterprises;Hong Kong;$8.8 B;$681.7 M;$26.4 B;$4.3 B
+Illumina;United States;$3.2 B;$656 M;$7.6 B;$58.2 B
+Bank of Tianjin;China;$5 B;$621.5 M;$105.2 B;$2.6 B
+Alstom;France;$8.5 B;$441 M;$15.2 B;$20 B
+Goodman Group;Australia;$1.3 B;$1.2 B;$11.9 B;$27.1 B
+Wayfair;United States;$14.1 B;$185 M;$4.6 B;$33.4 B
+Union Bank of India;India;$10 B;$-150.9 M;$142.8 B;$3 B
+Kuaishou Technology;China;$8.5 B;$-16.9 B;$8 B;$129.5 B
+Metro;Canada;$13.6 B;$608.4 M;$10.6 B;$11.7 B
+GD Power Development;China;$16 B;$144.3 M;$53.2 B;$6.8 B
+International Airlines;United Kingdom;$8.9 B;$-7.9 B;$37 B;$14.3 B
+Thai Beverage;Thailand;$8.1 B;$729.9 M;$13.7 B;$14 B
+Evergy;United States;$4.9 B;$618.3 M;$27.1 B;$14.4 B
+Mirae Asset Daewoo;South Korea;$2.2 B;$647.7 M;$114.2 B;$5.7 B
+Cenovus Energy;Canada;$9.9 B;$-1.8 B;$26.4 B;$16.1 B
+Dover;United States;$6.7 B;$683.5 M;$9.2 B;$20.2 B
+CEZ Group;Czech Republic;$9.1 B;$234.2 M;$32.7 B;$14.8 B
+Experian;Ireland;$5.2 B;$658 M;$9.1 B;$34.3 B
+Jiangxi Copper;China;$46.1 B;$324.5 M;$21.5 B;$7.9 B
+Wolters Kluwer;Netherlands;$5.2 B;$821.9 M;$10.3 B;$24.2 B
+China Feihe;China;$2.7 B;$1.1 B;$4.3 B;$25.8 B
+Synopsys;United States;$3.8 B;$722.6 M;$8 B;$39.7 B
+Eastman Chemical;United States;$8.5 B;$478 M;$16.1 B;$15.7 B
+Sunny Optical Technology Group;China;$5.5 B;$709.5 M;$5.4 B;$26 B
+Brighthouse Financial;United States;$8.5 B;$-1.1 B;$249.6 B;$4.1 B
+Hexagon;Sweden;$4.3 B;$701 M;$13.1 B;$37.8 B
+Yuexiu Property;Hong Kong;$6.7 B;$616.2 M;$40.2 B;$3.6 B
+Ametek;United States;$4.5 B;$872.4 M;$10.4 B;$30.7 B
+Garmin;Switzerland;$4.2 B;$992.3 M;$7 B;$26.9 B
+Verbund;Austria;$3.7 B;$719.8 M;$14.7 B;$27.5 B
+Pioneer Natural Resources;United States;$7 B;$-128 M;$20.9 B;$32.1 B
+Deutsche Lufthansa;Germany;$15.5 B;$-7.7 B;$49 B;$7.6 B
+Mohawk Industries;United States;$9.6 B;$515.6 M;$14.3 B;$14.3 B
+Randstad N.V.;Netherlands;$23.6 B;$346.6 M;$11.7 B;$14.1 B
+Cerner;United States;$5.5 B;$780.1 M;$7.5 B;$22.8 B
+Helvetia Holding;Switzerland;$10.9 B;$282.1 M;$79.5 B;$6.4 B
+Restaurant Brands International;Canada;$5 B;$486.3 M;$22.8 B;$20.2 B
+Inter Rao;Russia;$13.6 B;$1 B;$12.3 B;$4.8 B
+Flex;Singapore;$23.3 B;$421.1 M;$15.7 B;$9.3 B
+Toray Industries;Japan;$17.8 B;$163.4 M;$26.9 B;$10.2 B
+Berry Global Group;United States;$12 B;$642 M;$17.2 B;$8.4 B
+BDO Unibank;Philippines;$4.3 B;$569.5 M;$70.3 B;$9.5 B
+Smurfit Kappa Group;Ireland;$9.7 B;$621.4 M;$13.1 B;$12.8 B
+Krung Thai Bank;Thailand;$4.9 B;$534.6 M;$111.3 B;$5.1 B
+Bank of Chongqing;China;$1.9 B;$641 M;$85.9 B;$1.1 B
+Shenzhou International Group Holdings;Hong Kong;$3.3 B;$740.2 M;$5.6 B;$34.2 B
+Vipshop Holdings;China;$14.8 B;$863.1 M;$9 B;$3.4 B
+Ferrari;Italy;$3.9 B;$692.9 M;$7.7 B;$37.2 B
+Ferrovial;Spain;$7.2 B;$-467.4 M;$28.3 B;$19.6 B
+Hologic;United States;$4.5 B;$1.4 B;$7.6 B;$19.8 B
+Sharp;Japan;$21.8 B;$92.8 M;$18.8 B;$11.8 B
+East West Bancorp;United States;$1.8 B;$567.8 M;$52.3 B;$10.6 B
+BorgWarner;United States;$10.2 B;$500 M;$16 B;$11.7 B
+Spotify Technology;Luxembourg;$9 B;$-658 M;$7.7 B;$54.7 B
+Korea Investment Holdings;South Korea;$2.3 B;$731.8 M;$64.8 B;$5.5 B
+PennyMac Financial Services;United States;$3.2 B;$1.6 B;$31.6 B;$4 B
+Bunzl;United Kingdom;$13 B;$551.4 M;$9.4 B;$11.6 B
+CIMB Group Holdings;Malaysia;$6.1 B;$284.2 M;$149.7 B;$10.3 B
+Schroders;United States;$3.3 B;$610.8 M;$29.6 B;$13.7 B
+BAIC Motor;China;$25.7 B;$277.9 M;$29.6 B;$2.7 B
+Cemex;Mexico;$12.9 B;$-1.5 B;$27.4 B;$11.4 B
+China National Chemical;China;$15.3 B;$483.8 M;$18.6 B;$5 B
+Flutter Entertainment;Ireland;$5.7 B;$48.6 M;$23.2 B;$38 B
+VICI Properties;United States;$1.2 B;$891.7 M;$17.1 B;$16.1 B
+Knorr-Bremse;Germany;$7 B;$564.9 M;$9.6 B;$19.9 B
+Top Frontier Investment Holdings;Philippines;$15.8 B;$-44.5 M;$41 B;$935 M
+Antofagasta;United Kingdom;$5.1 B;$495.1 M;$16.6 B;$25.5 B
+XPO Logistics;United States;$16.3 B;$91 M;$16.2 B;$15.3 B
+Vienna Insurance Group;Austria;$11.8 B;$263.9 M;$60.5 B;$3.5 B
+Comerica;United States;$3.1 B;$472 M;$88.1 B;$9.8 B
+Unibail-Rodamco;France;$3 B;$-8.2 B;$70.1 B;$19.2 B
+IDEXX Laboratories;United States;$2.7 B;$581.8 M;$2.3 B;$45.8 B
+Mazda Motor;Japan;$26.5 B;$-922.5 M;$28.5 B;$5.2 B
+Sino-Ocean Group Holding;China;$8.6 B;$416.4 M;$39.7 B;$1.7 B
+Westinghouse Air Brake Technologies;United States;$7.6 B;$413.9 M;$18.5 B;$15.2 B
+Royalty Pharma;United States;$2.1 B;$974.9 M;$16 B;$16.3 B
+Sumitomo Metal Mining;Japan;$8.4 B;$510.9 M;$17.2 B;$12 B
+Isuzu Motors;Japan;$17.5 B;$396.3 M;$20.5 B;$7.1 B
+Unicharm;Japan;$6.8 B;$490.2 M;$8.7 B;$24.3 B
+Globe Life;United States;$4.7 B;$731.8 M;$29 B;$10.8 B
+Mahindra & Mahindra;India;$11 B;$-79.9 M;$24.3 B;$13.7 B
+Western Alliance Bancorp.;United States;$1.3 B;$615.1 M;$43.4 B;$10.4 B
+Masco;United States;$7.2 B;$631 M;$5.8 B;$16.4 B
+Lululemon Athletica;Canada;$4.4 B;$588.9 M;$4.2 B;$42.3 B
+LG Display;South Korea;$20.5 B;$-75.7 M;$32.3 B;$7.9 B
+American Equity Investment;United States;$3.7 B;$671.5 M;$68 B;$3 B
+Liberty Broadband;United States;$51 M;$397.6 M;$21.7 B;$29.4 B
+Zhongyuan Bank;China;$5 B;$476.6 M;$115.8 B;$2.8 B
+Voya Financial;United States;$7.6 B;$33 M;$178.2 B;$8.3 B
+Emaar Properties;United Arab Emirates;$6.1 B;$712.5 M;$31.7 B;$7.6 B
+Penske Automotive;United States;$20.4 B;$543.6 M;$14 B;$7 B
+X5 Retail Group;Russia;$27.4 B;$392.8 M;$15.9 B;$8.6 B
+Cadence Design;United States;$2.7 B;$590.6 M;$4 B;$41.1 B
+Eurofins Scientific Societe Europeenne;Luxembourg;$6.2 B;$615 M;$10.5 B;$20.2 B
+TransDigm Group;United States;$4.7 B;$394 M;$18.6 B;$33.8 B
+Renesas Electronics;Japan;$6.7 B;$426.8 M;$15.6 B;$20.4 B
+Daito Trust Construction;Japan;$14.5 B;$780 M;$8.3 B;$7.9 B
+Yamaha Motor;Japan;$13.8 B;$497.1 M;$15.9 B;$9.1 B
+Canadian Tire;Canada;$11.1 B;$560.5 M;$16 B;$9.5 B
+Verisk Analytics;United States;$2.8 B;$712.7 M;$7.6 B;$30.1 B
+Electric Power Development;Japan;$7.9 B;$558.3 M;$27.4 B;$3 B
+Itaúsa;Brazil;$1.1 B;$1.4 B;$14 B;$15.4 B
+Suntory Beverage & Food;Japan;$11 B;$489 M;$15.2 B;$11 B
+Banco de Sabadell;Spain;$7.1 B;$1.6 M;$288.5 B;$3.1 B
+MSCI;United States;$1.7 B;$601.8 M;$4.2 B;$39.2 B
+Coloplast;Denmark;$2.8 B;$648.5 M;$2.5 B;$34.1 B
+Kesko;Finland;$12.2 B;$494.1 M;$8.1 B;$12.2 B
+ResMed;United States;$3.1 B;$698.9 M;$4.6 B;$30.2 B
+Chugoku Electric Power;Japan;$12.1 B;$346.8 M;$32.8 B;$4.2 B
+AGC;Japan;$13.2 B;$306.4 M;$24.5 B;$10.1 B
+Datang International Power;China;$13.7 B;$263.1 M;$42.9 B;$2.8 B
+Copart;United States;$2.3 B;$706.7 M;$3.9 B;$29.2 B
+Newcrest Mining;Australia;$4.3 B;$957.7 M;$14.4 B;$17.5 B
+Ventas;United States;$3.8 B;$439.1 M;$23.9 B;$20.8 B
+Genuine Parts;United States;$17 B;$183.5 M;$13.4 B;$17.3 B
+Korea Gas;South Korea;$17.7 B;$-145.8 M;$33.1 B;$2.6 B
+Iida Group Holdings;Japan;$14.4 B;$640.2 M;$13.8 B;$7.4 B
+Church & Dwight;United States;$4.9 B;$785.9 M;$7.4 B;$21.6 B
+Microchip Technology;United States;$5.3 B;$333.3 M;$16.6 B;$42.6 B
+Falabella;Chile;$11.5 B;$-36.3 M;$24.3 B;$12.4 B
+Genworth Financial;United States;$8.7 B;$178 M;$89.9 B;$1.8 B
+RSA Insurance Group;United Kingdom;$8.5 B;$421.9 M;$25.1 B;$9.8 B
+VeriSign;United States;$1.3 B;$814.9 M;$1.8 B;$23.5 B
+LEG Immobilien AG;Germany;$1 B;$1.6 B;$18.8 B;$10.2 B
+Advanced Info Service;Thailand;$5.5 B;$876.6 M;$11.7 B;$16 B
+Tongwei;China;$6.4 B;$511.8 M;$9.8 B;$21.9 B
+Yunnan Baiyao Group;China;$4.7 B;$799.2 M;$8.4 B;$21.8 B
+Old Dominion Freight Line;United States;$4 B;$672.7 M;$4.4 B;$29.4 B
+Welltower;United States;$4.6 B;$-109.6 M;$32.5 B;$31.6 B
+MGM Resorts;United States;$5.2 B;$-997.2 M;$39.1 B;$19.9 B
+Empire;Canada;$21.2 B;$528.4 M;$11.7 B;$8.4 B
+Grupo Bimbo;Mexico;$15.4 B;$421.9 M;$15.4 B;$9.4 B
+Lens Technology;China;$5.3 B;$706.8 M;$12.1 B;$19.7 B
+Chiba Bank;Japan;$2 B;$445.1 M;$170.7 B;$4.7 B
+Powerlong Real Estate;China;$5.2 B;$887.3 M;$29.8 B;$4.5 B
+Storebrand;Norway;$8.6 B;$249.1 M;$85 B;$4.7 B
+Aroundtown;Luxembourg;$2.2 B;$742.9 M;$38 B;$8.9 B
+VF;United States;$8.8 B;$-165.4 M;$13.7 B;$33.2 B
+Sojitz;Japan;$14.9 B;$375.1 M;$21.3 B;$3.4 B
+Singapore Airlines;Singapore;$11.6 B;$-154.5 M;$23.7 B;$12 B
+Hyundai Marine & Fire;South Korea;$12.3 B;$266.8 M;$44.3 B;$1.7 B
+Maxim Integrated Products;United States;$2.4 B;$721.9 M;$3.9 B;$25.5 B
+KWG Group Holdings;Hong Kong;$4.3 B;$931.7 M;$35.5 B;$5.4 B
+Mondi;United Kingdom;$7.6 B;$661.5 M;$10.2 B;$13.2 B
+Xilinx;United States;$3.1 B;$620.9 M;$5.7 B;$31.6 B
+CenterPoint Energy;United States;$7.4 B;$-773 M;$34.4 B;$13.3 B
+HBIS;China;$15.3 B;$276.8 M;$32.8 B;$4.2 B
+Wingtech Technology;China;$8.3 B;$425.6 M;$9 B;$18.4 B
+Quanta Services;United States;$11.2 B;$445.6 M;$8.4 B;$13.2 B
+Leonardo;Italy;$15.3 B;$274.7 M;$33.1 B;$4.9 B
+Realty Income;United States;$1.7 B;$395.5 M;$20.7 B;$25 B
+Emera;Canada;$4 B;$732.9 M;$24.5 B;$11.4 B
+Avery Dennison;United States;$7 B;$555.9 M;$6.1 B;$16.5 B
+Times Property Holdings;China;$5.7 B;$720.9 M;$29.3 B;$2.9 B
+China Longyuan Power;China;$4.2 B;$680.4 M;$26.8 B;$11.2 B
+Chipotle Mexican Grill;United States;$6 B;$355.8 M;$6.9 B;$43.3 B
+Saudi British Bank;Saudi Arabia;$2.7 B;$-1.1 B;$73.7 B;$15.6 B
+Ajinomoto;Japan;$10 B;$546.3 M;$13.3 B;$11.1 B
+Saputo;Canada;$10.9 B;$455.7 M;$10.5 B;$13 B
+KPN;Netherlands;$6 B;$639.5 M;$14.8 B;$13.8 B
+SGS;Switzerland;$6 B;$511.4 M;$7.8 B;$22 B
+Logitech International;Switzerland;$4.4 B;$924.6 M;$3.8 B;$19.1 B
+Martin Marietta Materials;United States;$4.7 B;$720.4 M;$10.9 B;$21.9 B
+Mizrahi Tefahot Bank;Israel;$3.1 B;$468.2 M;$112.2 B;$6.9 B
+Advance Auto Parts;United States;$10.1 B;$493 M;$11.8 B;$12.6 B
+SS&C Technologies;United States;$4.7 B;$625.2 M;$15.9 B;$18.6 B
+SYNNEX;United States;$24.4 B;$489.3 M;$7.7 B;$6.4 B
+Sichuan Language Development;China;$6.4 B;$480.3 M;$39.3 B;$1.9 B
+NARI Technology Development;China;$5 B;$677.2 M;$9 B;$21.2 B
+Evergreen Marine Corp. (Taiwan);Taiwan;$7 B;$827.5 M;$11.9 B;$11.7 B
+Hyundai Steel;South Korea;$15.3 B;$-364.5 M;$32.1 B;$5.8 B
+FleetCor Technologies;United States;$2.4 B;$704.2 M;$11.2 B;$24.3 B
+Teradyne;United States;$3.1 B;$784.1 M;$3.7 B;$21.6 B
+Melrose Industries;United Kingdom;$11.2 B;$-677.1 M;$22.8 B;$12 B
+Solvay;Belgium;$11.1 B;$-1.3 B;$20.5 B;$13 B
+Wuxi Apptec;China;$2.4 B;$425.2 M;$7.1 B;$63.5 B
+Mettler-Toledo International;United States;$3.1 B;$602.7 M;$2.8 B;$29.9 B
+People's United Bank;United States;$2.2 B;$572.6 M;$63.1 B;$7.6 B
+Vedanta Limited;India;$10.7 B;$-993.6 M;$24.7 B;$11.6 B
+CapitaLand;Singapore;$4.9 B;$-1.1 B;$63.8 B;$14.6 B
+Jeronimo Martins;Portugal;$22 B;$355.8 M;$11.5 B;$10.8 B
+Molson Coors Brewing;United States;$9.7 B;$-949 M;$27.3 B;$11.6 B
+Genmab;Denmark;$1.5 B;$727.6 M;$3.5 B;$23 B
+Aristocrat Leisure;Australia;$2.8 B;$933.1 M;$5.6 B;$18.3 B
+Banque Saudi Fransi;Saudi Arabia;$2.3 B;$412.1 M;$51.7 B;$11.4 B
+SBI Holdings;Japan;$4.1 B;$569.7 M;$62.6 B;$7.2 B
+Air France-KLM;France;$12.6 B;$-8.1 B;$37 B;$2.6 B
+Bank of Guizhou;China;$3.1 B;$531.4 M;$69.8 B;$4.9 B
+Keysight Technologies;United States;$4.3 B;$636 M;$7.5 B;$27.1 B
+Yamato Holdings;Japan;$15.6 B;$447.6 M;$11 B;$10.1 B
+Vietin Bank;Vietnam;$4.2 B;$588.7 M;$58.1 B;$6.8 B
+West Japan Railway;Japan;$9.4 B;$-1.8 B;$34.1 B;$10.3 B
+Chongqing Zhifei Biological Products;China;$2.2 B;$478.2 M;$2.3 B;$43 B
+Bandai Namco Holdings;Japan;$6.9 B;$518.8 M;$7 B;$17 B
+Epiroc;Sweden;$3.9 B;$586.5 M;$5.3 B;$29.6 B
+Umicore;Belgium;$23.6 B;$148.8 M;$10.3 B;$13.7 B
+Compal Electronics;Taiwan;$35.6 B;$318 M;$16.6 B;$4.2 B
+Geberit;Switzerland;$3.2 B;$684.3 M;$4.2 B;$23.8 B
+Old Mutual;South Africa;$8.9 B;$-309.6 M;$63 B;$4.4 B
+Enstar Group;Bermuda;$1.4 B;$1.8 B;$21.6 B;$5.7 B
+Far East Horizon;Hong Kong;$4.4 B;$664.2 M;$45.9 B;$4.7 B
+Williams-Sonoma;United States;$6.8 B;$680.7 M;$4.7 B;$13.3 B
+Greentown China Holdings;China;$9.6 B;$166.7 M;$53.1 B;$3.1 B
+Wuestenrot & Wuerttembergische;Germany;$7.5 B;$239.3 M;$93.2 B;$2.1 B
+B3;Brazil;$1.6 B;$805 M;$9.2 B;$19.9 B
+Shionogi;Japan;$2.9 B;$1.1 B;$9.2 B;$16.1 B
+DexCom;United States;$1.9 B;$493.6 M;$4.4 B;$38.7 B
+Lithia Motors;United States;$13.1 B;$470.3 M;$8.1 B;$10.4 B
+China Overseas Grand Oceans Group;Hong Kong;$6.3 B;$634.7 M;$25.6 B;$2.2 B
+Cellnex Telecom;Spain;$1.8 B;$-151.7 M;$29.5 B;$28.5 B
+Taishin Financial Holdings;Taiwan;$2 B;$492.2 M;$78.2 B;$5.3 B
+Tingyi Holding;China;$9.8 B;$586.8 M;$9.4 B;$10.5 B
+China Grand Automotive Services;China;$22.9 B;$186.7 M;$22.5 B;$3.9 B
+Concordia Financial Group;Japan;$2.7 B;$385.5 M;$200.7 B;$4.7 B
+Shengjing Bank;China;$6.5 B;$162.7 M;$158.8 B;$7.8 B
+Xiamen International Trade Group;China;$40 B;$248.3 M;$18.6 B;$2 B
+AntarChile;Chile;$18 B;$124.8 M;$25.6 B;$5.7 B
+Las Vegas Sands;United States;$3.6 B;$-1.7 B;$20.8 B;$46.6 B
+Magnit;Russia;$21.5 B;$456 M;$13 B;$6.9 B
+China Communications Services;China;$17.8 B;$446.3 M;$14.4 B;$3.2 B
+HNA Technology;China;$45.8 B;$100.6 M;$17.8 B;$929 M
+Jabil Circuit;United States;$28.3 B;$368.9 M;$14.5 B;$8.1 B
+Sasol;South Africa;$11.1 B;$-4.9 B;$27.1 B;$10.1 B
+Seagen;United States;$2.2 B;$614 M;$4 B;$26.4 B
+Iliad;France;$6.7 B;$493.6 M;$19.2 B;$11.1 B
+Jones Lang LaSalle;United States;$16.7 B;$402.5 M;$14.3 B;$9.2 B
+Marfrig Global Foods;Brazil;$13.1 B;$640.1 M;$7.6 B;$2.4 B
+Olympus;Japan;$6.8 B;$363.4 M;$10.7 B;$27.3 B
+Banca Mediolanum;Italy;$2.7 B;$495.3 M;$72.1 B;$6.9 B
+RenaissanceRe Holdings;Bermuda;$5.2 B;$751.8 M;$27.2 B;$8.5 B
+Zalando;Germany;$9.1 B;$257.7 M;$7.9 B;$28.4 B
+3i Group;United Kingdom;$157 M;$903.4 M;$12.8 B;$16.7 B
+Arista Networks;United States;$2.3 B;$634.6 M;$4.7 B;$24.2 B
+Steel Dynamics;United States;$9.6 B;$550.8 M;$9.3 B;$10.9 B
+Inpex;Japan;$7.2 B;$-1 B;$44.9 B;$10.4 B
+Community Health Systems;United States;$11.8 B;$511 M;$16 B;$1.3 B
+SLM;United States;$2.3 B;$880.7 M;$30.8 B;$7 B
+Olam International;Singapore;$26 B;$137.2 M;$20.2 B;$4.1 B
+Textron;United States;$11.7 B;$309 M;$15.4 B;$13.3 B
+Vulcan Materials;United States;$4.9 B;$584.5 M;$11.9 B;$23.3 B
+Popular;United States;$2.6 B;$506.6 M;$65.9 B;$6.1 B
+Transurban Group;Australia;$1.9 B;$-495 M;$26.9 B;$29.4 B
+China Resources Gas Group;Hong Kong;$7.2 B;$664.2 M;$12.1 B;$12 B
+Lotte Shopping;South Korea;$13.7 B;$-663.7 M;$30.2 B;$3.1 B
+Zhejiang Zheneng Electric Power;China;$7.3 B;$838.3 M;$16.3 B;$7.8 B
+ZTO Express (Cayman);China;$3.7 B;$626.8 M;$9.1 B;$24.1 B
+Meiji Holdings;Japan;$11.3 B;$601.9 M;$10.6 B;$9.2 B
+Interpublic Group;United States;$9.1 B;$351.1 M;$18 B;$12 B
+Shiseido;Japan;$8.6 B;$-109.2 M;$11.7 B;$29.4 B
+Quinenco;Chile;$6.6 B;$312.9 M;$74.4 B;$3.8 B
+Shizuoka Bank;Japan;$2 B;$390.7 M;$134.4 B;$4.5 B
+Alinma Bank;Saudi Arabia;$1.8 B;$523.9 M;$41.8 B;$9.4 B
+All Nippon Airways;Japan;$8.6 B;$-3.5 B;$31.9 B;$10.6 B
+Doosan;South Korea;$14.4 B;$-474.1 M;$27.7 B;$790 M
+Bank of Ireland;Ireland;$6.1 B;$-845.9 M;$163.7 B;$5.6 B
+Fastighets Balder;Sweden;$884 M;$721.5 M;$22 B;$10.8 B
+ICA Gruppen;Sweden;$13.7 B;$451.2 M;$12.7 B;$9.7 B
+NEXON;Japan;$2.7 B;$526.6 M;$8.4 B;$29.6 B
+Arab National Bank;Saudi Arabia;$1.8 B;$552.9 M;$48.1 B;$8.5 B
+GAIL India;India;$8 B;$1.1 B;$10.3 B;$8.3 B
+BNK Financial Group;South Korea;$3.8 B;$412.3 M;$105.1 B;$1.9 B
+DXC Technology;United States;$18.2 B;$-2.8 B;$23.6 B;$8.1 B
+Valeo;France;$18.7 B;$-1.2 B;$23.1 B;$8.1 B
+Alliant Energy;United States;$3.4 B;$624.5 M;$18.3 B;$14 B
+Kansas City Southern;United States;$2.6 B;$618.2 M;$10.2 B;$23.4 B
+NetApp;United States;$5.6 B;$592 M;$8.7 B;$17.3 B
+Annaly Capital Management;United States;$1.5 B;$-891.2 M;$88.5 B;$12.4 B
+Sofina;Belgium;$97 M;$1.6 B;$11.1 B;$12.4 B
+Shanghai Commercial & Savings Bank;Taiwan;$1.8 B;$457.2 M;$75.2 B;$6.7 B
+Chongqing Changan Auto;China;$11.2 B;$497.1 M;$16.4 B;$4.5 B
+Fortinet;United States;$2.6 B;$486.2 M;$4 B;$33.6 B
+Hengyi Petrochemical;China;$11.2 B;$577.2 M;$14.4 B;$7.3 B
+Mitsui OSK Lines;Japan;$9.6 B;$454.7 M;$19.9 B;$4.2 B
+Caesars Entertainment;United States;$3.5 B;$-1.8 B;$36.4 B;$19.5 B
+Bank of India;India;$6.6 B;$-216 M;$98.6 B;$3.1 B
+Goertek;China;$8.3 B;$412.6 M;$7.5 B;$15.3 B
+Masraf Al Rayan;Qatar;$1.1 B;$597.5 M;$33.3 B;$9.3 B
+E-mart;South Korea;$18.7 B;$288.8 M;$20.6 B;$4.1 B
+Sanlam;South Africa;$7.8 B;$173.9 M;$63.2 B;$8.2 B
+Hyundai Heavy Industries Holdings;South Korea;$16.3 B;$-516.3 M;$24.4 B;$3.7 B
+Royal Caribbean Group;United States;$2.2 B;$-5.8 B;$32.5 B;$21.7 B
+SKF Group;Sweden;$8.1 B;$466.9 M;$11 B;$13.8 B
+Kobe Steel;Japan;$15.8 B;$-668.8 M;$24.6 B;$2.5 B
+RHB Bank;Malaysia;$2.6 B;$470.6 M;$67.4 B;$5.2 B
+Check Point Software;Israel;$2.1 B;$846.6 M;$5.8 B;$16.3 B
+Shopify;Canada;$2.9 B;$319.5 M;$7.8 B;$149.6 B
+Hong Leong Financial;Malaysia;$2 B;$470.9 M;$65.5 B;$4.6 B
+New York Community Bancorp;United States;$1.8 B;$505.3 M;$56.4 B;$5.8 B
+Shimano;Japan;$3.5 B;$594.5 M;$5.7 B;$23 B
+International Flavors & Fragrances;United States;$5.1 B;$364.1 M;$13.6 B;$35.6 B
+Celltrion;South Korea;$1.6 B;$433.3 M;$4.6 B;$37.7 B
+Navient;United States;$3.7 B;$411 M;$87.4 B;$2.7 B
+Bausch Health Companies;Canada;$8 B;$-560 M;$31.2 B;$10.7 B
+Bank of Zhengzhou;China;$3.9 B;$425.4 M;$78.6 B;$2.9 B
+Acciona;Spain;$7.4 B;$434.3 M;$22.4 B;$9.2 B
+Lixil Group;Japan;$12.5 B;$387.8 M;$17.6 B;$8.4 B
+Teleperformance;France;$6.5 B;$369.4 M;$8.6 B;$23.4 B
+Guangdong Haid Group;China;$8.8 B;$322.9 M;$4.2 B;$19.1 B
+Trip.com Group;China;$2.7 B;$-470 M;$28.6 B;$23.1 B
+NH Investment & Securities;South Korea;$2 B;$489 M;$57.8 B;$3.2 B
+Chewy;United States;$7.1 B;$-92.5 M;$1.7 B;$34.9 B
+Centrica;United Kingdom;$15.7 B;$65.4 M;$23.4 B;$4.5 B
+Credicorp;Peru;$5.2 B;$91.5 M;$65.8 B;$11.2 B
+NRG Energy;United States;$8.9 B;$510 M;$14.9 B;$9.5 B
+Shanxi Xinghuacun Fen Wine Factory;China;$1.6 B;$385.9 M;$2.6 B;$46.6 B
+Zebra Technologies;United States;$4.5 B;$504 M;$5.4 B;$27.5 B
+SinoPac Financial;Taiwan;$1.8 B;$415.7 M;$76.3 B;$5.2 B
+Booz Allen Hamilton Holding;United States;$7.8 B;$546.6 M;$5.4 B;$11.7 B
+Hyundai Glovis;South Korea;$14 B;$513.8 M;$10 B;$6.2 B
+Chow Tai Fook Jewellery;Hong Kong;$6.7 B;$463.1 M;$8.6 B;$16.2 B
+Medipal Holdings;Japan;$30 B;$249.9 M;$16.9 B;$4.2 B
+Wharf Real Estate;Hong Kong;$2 B;$-1.2 B;$35.8 B;$18 B
+First Citizens Bank (NC);United States;$2 B;$491.7 M;$50 B;$8.4 B
+AVIC Capita;China;$3 B;$474.4 M;$58 B;$5.3 B
+KION Group;Germany;$9.5 B;$244.4 M;$18.4 B;$13 B
+China Everbright International;Hong Kong;$5.5 B;$775.6 M;$20.4 B;$4 B
+Bank of East Asia;Hong Kong;$3.5 B;$363.8 M;$114.1 B;$6.3 B
+Bankinter;Spain;$2.5 B;$361.5 M;$117.8 B;$6.2 B
+BCI-Banco Credito;Chile;$3.5 B;$401 M;$80.4 B;$8.3 B
+Adecco;Switzerland;$22.3 B;$-109.1 M;$12 B;$11.4 B
+Zhongtai Securities;China;$1.5 B;$394.2 M;$26.7 B;$14 B
+Teck Resources;Canada;$6.7 B;$-644.2 M;$32.4 B;$11.8 B
+Fortune Brands Home & Security;United States;$6.1 B;$553.1 M;$7.4 B;$14.3 B
+Wistron;Taiwan;$28.7 B;$294.9 M;$15.3 B;$3.3 B
+Ronshine China Holdings;China;$7.1 B;$353.4 M;$35.7 B;$1.2 B
+Ternium;Luxembourg;$8.6 B;$767.8 M;$12.9 B;$7.8 B
+China Eastern Airlines;China;$8.5 B;$-1.7 B;$43.5 B;$7.7 B
+LARGAN Precision;Taiwan;$1.9 B;$833.2 M;$6.1 B;$14.9 B
+Ansys;United States;$1.7 B;$433.9 M;$5.9 B;$32.6 B
+Huntington Ingalls Industries;United States;$9.4 B;$696 M;$8.7 B;$8.4 B
+Quilter;United Kingdom;$6 B;$114.1 M;$92.1 B;$3.9 B
+Top Glove;Malaysia;$3.6 B;$1.6 B;$3.1 B;$10.8 B
+CSN;Brazil;$5.8 B;$735.6 M;$12.1 B;$11.8 B
+Constellation Software;Canada;$4 B;$433.9 M;$4.4 B;$32.2 B
+Veeva Systems;United States;$1.5 B;$380 M;$3 B;$41.6 B
+BioMarin Pharmaceutical;United States;$1.8 B;$859.1 M;$5.8 B;$14.4 B
+Huafa Industrial;China;$5.6 B;$401 M;$43.7 B;$2.1 B
+Korea Shipbuilding & Offshore Engineering;South Korea;$12.7 B;$-706.7 M;$23.2 B;$8.7 B
+Nitto Denko;Japan;$6.9 B;$558.3 M;$8.9 B;$12.2 B
+Banco BPM;Italy;$5.1 B;$151.4 M;$224.7 B;$4.3 B
+Boliden;Sweden;$6.1 B;$738.6 M;$8.8 B;$11 B
+Halyk Bank;Kazakhstan;$2.5 B;$851.6 M;$24.7 B;$4.3 B
+Old Republic International;United States;$7.2 B;$558.6 M;$18.8 B;$7.2 B
+Samsung Electro-Mechanics;South Korea;$7 B;$511.9 M;$8.5 B;$13.1 B
+Ningxia Baofeng Energy Group;China;$2.3 B;$669.8 M;$5.8 B;$17.6 B
+Oji Holdings;Japan;$12.9 B;$346 M;$18.4 B;$6.5 B
+Samsung SDS;South Korea;$9.3 B;$375.8 M;$8.4 B;$13.3 B
+Nine Dragons Paper Holdings;Hong Kong;$7.8 B;$859.3 M;$12.8 B;$6.9 B
+WEG;Brazil;$3.4 B;$453.8 M;$3.8 B;$28.8 B
+Atmos Energy;United States;$2.9 B;$640 M;$16.5 B;$13 B
+Kiwoom Securities;South Korea;$1.5 B;$596.1 M;$34.6 B;$3.3 B
+Macy's;United States;$18.1 B;$-3.9 B;$19.1 B;$5.2 B
+Coinbase;United States;$1.3 B;$322.3 M;$5.9 B;$68.1 B
+Nomura Research Institute;Japan;$5.1 B;$547.6 M;$5.3 B;$17.7 B
+SDIC Capital;China;$2.5 B;$601 M;$33.4 B;$8.4 B
+Equifax;United States;$4.1 B;$507.2 M;$9.6 B;$23.4 B
+StoneX Group;United States;$52.1 B;$169 M;$14 B;$1.3 B
+STRABAG;Austria;$16.6 B;$398.3 M;$13.4 B;$3.8 B
+Industries Qatar;Qatar;$2 B;$542.4 M;$9.9 B;$21.3 B
+Samsung Securities;South Korea;$1.4 B;$430.4 M;$58.8 B;$3.3 B
+Dentsu;Japan;$8.8 B;$-1.5 B;$32.7 B;$8.9 B
+Alleghany;United States;$8.9 B;$101.8 M;$28.1 B;$9.5 B
+Gap;United States;$13.8 B;$-665 M;$13.8 B;$12.3 B
+AutoNation;United States;$20.4 B;$381.6 M;$10.1 B;$8 B
+LG Uplus;South Korea;$11.4 B;$395.6 M;$16.9 B;$5.1 B
+Saudi Arabian Mining;Saudi Arabia;$5 B;$-55.7 M;$25.8 B;$18.7 B
+Essex Property Trust;United States;$1.5 B;$568.9 M;$12.9 B;$18.8 B
+Bank of Jinzhou;China;$5.4 B;$57.5 M;$119 B;$3.8 B
+Expedia Group;United States;$5.2 B;$-2.6 B;$18.7 B;$25 B
+AGCO;United States;$9.2 B;$427.1 M;$8.5 B;$11.4 B
+Persimmon;United Kingdom;$4.3 B;$818.7 M;$6.3 B;$14.1 B
+Adani Ports & Special Economic Zone;India;$1.6 B;$545.2 M;$9.7 B;$20.6 B
+Nedbank;South Africa;$5.9 B;$222.3 M;$83.6 B;$5.1 B
+China Development Bank Financial Leasing;China;$2.7 B;$475.7 M;$46.4 B;$1.9 B
+Lanxess;Germany;$7 B;$1 B;$11.2 B;$6.5 B
+Sonic Healthcare;Australia;$5.4 B;$654.7 M;$9 B;$13.2 B
+CSPC Pharmaceutical Group;Hong Kong;$3.6 B;$749 M;$4.6 B;$14.8 B
+OneMain Holdings;United States;$4.9 B;$730 M;$22.5 B;$7.5 B
+Latour Ab Investment;Sweden;$1.6 B;$578 M;$5.1 B;$18.9 B
+News Corp;United States;$8.7 B;$-862 M;$15.1 B;$15.8 B
+Qingdao Rural Commercial Bank;China;$2.4 B;$419.7 M;$57.6 B;$3.7 B
+BJ's Wholesale Club;United States;$15.4 B;$421 M;$5.4 B;$6.2 B
+PerkinElmer;United States;$3.8 B;$728 M;$8 B;$14.9 B
+Electrolux Group;Sweden;$12.6 B;$456.8 M;$12.1 B;$8.5 B
+Bancolombia;Colombia;$6 B;$74.7 M;$74.7 B;$8.1 B
+Changchun High & New Technology;China;$1.2 B;$441.4 M;$2.6 B;$27 B
+Xiamen Xiangyu;China;$52.1 B;$188.3 M;$13.4 B;$2.2 B
+China Industrial Securities;China;$3 B;$580 M;$27.7 B;$8.9 B
+Colruyt;Belgium;$11 B;$540.2 M;$5.9 B;$7.8 B
+Link REIT;Hong Kong;$1.4 B;$-3.6 B;$26.2 B;$20.1 B
+GS Holdings;South Korea;$13 B;$-205.7 M;$22.5 B;$3.5 B
+Lear;United States;$17 B;$158.5 M;$13.2 B;$11 B
+Xinyi Glass Holdings;Hong Kong;$2.4 B;$828 M;$5.8 B;$13.5 B
+DCC;United States;$17 B;$365 M;$9.9 B;$8.8 B
+Standard Life;United Kingdom;$2.2 B;$1.1 B;$14.3 B;$10.3 B
+Wharf (Holdings);Hong Kong;$2.7 B;$498 M;$32.8 B;$9 B
+Indian Railway Finance;India;$2 B;$524.1 M;$36.5 B;$3.8 B
+Aurubis;Germany;$15.3 B;$413.8 M;$7.3 B;$3.9 B
+Ceconomy;Germany;$24.5 B;$-283.9 M;$15.7 B;$2.1 B
+Lundbergs;Sweden;$2 B;$390.1 M;$21.9 B;$14.5 B
+FinecoBank;Italy;$1.3 B;$368.9 M;$38.9 B;$10.5 B
+Coca-Cola HBC;Switzerland;$7 B;$476.3 M;$9.3 B;$12.6 B
+Cosmo Energy Holdings;Japan;$21.3 B;$-295.1 M;$16.2 B;$1.9 B
+Smoore International Holdings;Hong Kong;$1.5 B;$353.7 M;$2.3 B;$39.4 B
+Kawasaki Heavy Industries;Japan;$14.4 B;$-0.6 M;$19.8 B;$4.1 B
+Yamada Denki;Japan;$15.7 B;$398.2 M;$12.8 B;$4.3 B
+Commercial International Bank;Egypt;$3 B;$647.4 M;$27.2 B;$5.1 B
+ServiceNow;United States;$4.5 B;$118.5 M;$8.7 B;$109.2 B
+Broadridge Financial;United States;$4.8 B;$518.6 M;$4.9 B;$18.2 B
+Mebuki Financial Group;Japan;$2.1 B;$285 M;$221.7 B;$2.6 B
+Suzano Papel e Celulose;Brazil;$5.9 B;$-2.1 B;$19.6 B;$17.1 B
+AirBnB;United States;$3.4 B;$-4.6 B;$10.5 B;$107.1 B
+Kerry Properties;Hong Kong;$2 B;$696.6 M;$25.2 B;$4.7 B
+Qorvo;United States;$3.7 B;$485.3 M;$7 B;$21.8 B
+Hotai Motor;Taiwan;$7.8 B;$470.3 M;$10.3 B;$11.4 B
+Inner Mongolia Baotou Steel;China;$8.4 B;$-50.5 M;$21 B;$11 B
+China Shipbuilding Industry;China;$5.5 B;$-118.9 M;$25.7 B;$14.7 B
+Jointown Pharmaceutical Group;China;$15.2 B;$406.6 M;$11.6 B;$5 B
+Asian Paints;India;$2.7 B;$370.9 M;$2.4 B;$34.4 B
+Hua Nan Financial;Taiwan;$2.3 B;$293.9 M;$110.4 B;$8.7 B
+Chailease Holding;Taiwan;$2 B;$572.5 M;$21.1 B;$10.2 B
+Prosperity Bancshares;United States;$1.3 B;$528.9 M;$34.1 B;$7.1 B
+FAW Jiefang Group;China;$16.4 B;$387.1 M;$9.8 B;$8 B
+Hilton;United States;$4.3 B;$-715 M;$16.8 B;$35.7 B
+Fukuoka Financial Group;Japan;$2.6 B;$5 M;$263.3 B;$3.4 B
+Kohl's;United States;$16 B;$-163 M;$15.3 B;$9.4 B
+Snap;United States;$2.5 B;$-944.8 M;$5 B;$92.4 B
+Shenzhen Transsion Holding;China;$5.5 B;$379.5 M;$4 B;$21.3 B
+UGI;United States;$6.5 B;$623 M;$14.7 B;$9.2 B
+Banque Cantonale Vaudoise;Switzerland;$1.1 B;$352.4 M;$60.2 B;$8.9 B
+Packaging Corp of America;United States;$6.7 B;$457.4 M;$7.7 B;$13.3 B
+BOK Financial;United States;$1.9 B;$432.8 M;$46.7 B;$6.4 B
+Teladoc Health;United States;$1.1 B;$-485.1 M;$18.3 B;$29.3 B
+Indian Bank;India;$5.6 B;$156 M;$79.5 B;$1.6 B
+Country Garden Services Holdings;China;$2.3 B;$389.4 M;$4.8 B;$29.6 B
+Ricoh;Japan;$16 B;$-228.5 M;$17.9 B;$7.9 B
+Attijariwafa Bank;Morocco;$4.2 B;$318 M;$63.8 B;$9.4 B
+Migdal Insurance;Israel;$6.4 B;$102.5 M;$56.3 B;$1.3 B
+Mitsui Chemicals;Japan;$11.2 B;$410.4 M;$14.8 B;$6.4 B
+Take-Two Interactive Software;United States;$3.3 B;$492.8 M;$6 B;$20.6 B
+Beijing Oriental Yuhong Waterproof Technology;China;$3.1 B;$491.9 M;$4.3 B;$20.5 B
+Henry Schein;United States;$10.1 B;$402.2 M;$7.8 B;$10.1 B
+Meritz Securities;South Korea;$1.8 B;$463.8 M;$40.5 B;$2.6 B
+Alfresa Holdings;Japan;$24.6 B;$293.7 M;$13.8 B;$4 B
+Minebea;Japan;$9 B;$409.7 M;$9.2 B;$10.8 B
+MercadoLibre;Argentina;$4 B;$-0.7 M;$6.5 B;$79.4 B
+Wm Morrison Supermarkets;United Kingdom;$22.6 B;$123.5 M;$15.2 B;$6 B
+Akamai Technologies;United States;$3.2 B;$557.1 M;$7.8 B;$17.3 B
+Safaricom;Kenya;$2.5 B;$682.8 M;$2.1 B;$14.3 B
+Waters;United States;$2.4 B;$521.6 M;$2.8 B;$18.6 B
+Waste Connections;Canada;$5.4 B;$192.8 M;$14.1 B;$30.6 B
+Healthpeak Properties;United States;$2.2 B;$411 M;$15.9 B;$17.9 B
+Power Assets Holdings;Hong Kong;$164 M;$790.6 M;$12.1 B;$12.9 B
+Banca MPS;Italy;$4.6 B;$-1.9 B;$184.1 B;$1.4 B
+EMS-Chemie Holding;Switzerland;$1.9 B;$462.7 M;$2.4 B;$21.4 B
+Wheaton Precious Metals;Canada;$1.1 B;$506.1 M;$6 B;$19.1 B
+Nippon Express;Japan;$18.8 B;$283.2 M;$15.7 B;$7 B
+Adyen;Netherlands;$4.2 B;$275.3 M;$5.1 B;$73.5 B
+Commercial Bank For Investment & Development Of Vietnam;Vietnam;$5.2 B;$304.7 M;$65.7 B;$7.3 B
+Mercuries & Associates;Taiwan;$6.6 B;$47.5 M;$48.6 B;$661 M
+Technipfmc;United Kingdom;$13.1 B;$-3.3 B;$19.7 B;$3.3 B
+M3;Japan;$1.5 B;$297.5 M;$2.4 B;$52.4 B
+Mitsubishi Materials;Japan;$13.8 B;$-673.4 M;$18.9 B;$3 B
+PGE Polska Grupa Energetyczna;Poland;$11.7 B;$28.2 M;$21.9 B;$4.2 B
+First Quantum Minerals;Canada;$5.2 B;$-185.8 M;$24.2 B;$15.7 B
+Twitter;United States;$3.7 B;$-1.1 B;$13.4 B;$56 B
+Flagstar Bancorp;United States;$2 B;$538 M;$31.1 B;$2.3 B
+Sparebanken Nord-Norge;Norway;$481 M;$2 B;$13.7 B;$1 B
+Steel Authority of India;India;$8.4 B;$448.7 M;$16.6 B;$5.1 B
+Aena;Spain;$2.5 B;$-144.5 M;$19.2 B;$24.9 B
+Beijing Shougang;China;$11.5 B;$209.1 M;$22.1 B;$4.2 B
+Starwood Property Trust;United States;$1.1 B;$325.8 M;$80.9 B;$7.3 B
+Moderna;United States;$803 M;$-747.1 M;$7.3 B;$68.4 B
+Moscow Exchange;Russia;$699 M;$347.7 M;$66.7 B;$5.2 B
+Dick's Sporting Goods;United States;$9.6 B;$530.3 M;$7.8 B;$7.5 B
+Snowflake;United States;$592 M;$-539.1 M;$5.9 B;$67.2 B
+Ubiquiti;United States;$1.6 B;$512.5 M;$781 M;$18 B
+China SCE Group Holdings;China;$4.8 B;$550 M;$26.1 B;$1.9 B
+Synovus Financial;United States;$2.3 B;$373.7 M;$54.6 B;$7 B
+Hokuhoku Financial Group;Japan;$1.6 B;$193.2 M;$156.5 B;$1.2 B
+Amerco;United States;$4.3 B;$659.4 M;$14.4 B;$12 B
+Twilio;United States;$1.8 B;$-491 M;$9.5 B;$65.7 B
+AB Sagax;Sweden;$320 M;$403.2 M;$5.7 B;$24.5 B
+Commerce Bank;United States;$1.4 B;$430.4 M;$33.3 B;$9 B
+Gerdau (Cosigua);Brazil;$8.5 B;$458.6 M;$12.2 B;$9.8 B
+AGNC Investment;United States;$341 M;$-266 M;$81.8 B;$9.3 B
+Grupo Inbursa;Mexico;$3.2 B;$588.9 M;$26.2 B;$6.3 B
+Magnitogorsk Iron & Steel;Russia;$6.4 B;$611.8 M;$7.6 B;$10.1 B
+Shinsun Holdings (Group);China;$6.8 B;$383 M;$24.4 B;$2.5 B
+Galp Energia;Portugal;$13 B;$-628.1 M;$15.3 B;$9.7 B
+Mitsubishi Motors;Japan;$14.6 B;$-2.4 B;$17.3 B;$4.3 B
+Workday;United States;$4.3 B;$-282.4 M;$8.7 B;$62.3 B
+Woodside Petroleum;Australia;$3.6 B;$-4.2 B;$24.6 B;$17.9 B
+Advantest;Japan;$2.7 B;$480.8 M;$3.5 B;$19 B
+AIB Group;Ireland;$3.2 B;$-914.3 M;$135.1 B;$7.6 B
+Atlassian;Australia;$1.8 B;$-1.2 B;$3.6 B;$58.7 B
+MOL Hungarian Oil;Hungary;$13 B;$-51.8 M;$18.6 B;$4.4 B
+Xinyi Solar Holdings;China;$1.6 B;$588 M;$5.6 B;$15 B
+Extra Space Storage;United States;$1.3 B;$472.9 M;$9.4 B;$19.1 B
+Hansoh Pharmaceutical Group;China;$1.3 B;$372.6 M;$3.2 B;$27.3 B
+ENN Natural Gas;China;$12.7 B;$305.3 M;$16.7 B;$7.5 B
+Bank of Suzhou;China;$2.6 B;$359.3 M;$56.8 B;$3.7 B
+Bajaj Auto;India;$3.5 B;$628.7 M;$4 B;$14.2 B
+Kinross Gold;Canada;$4.2 B;$1.3 B;$10.9 B;$9.5 B
+XCMG Construction Machinery;China;$9.6 B;$433.1 M;$12.9 B;$9 B
+First American Financial;United States;$7.1 B;$696.4 M;$12.8 B;$6.8 B
+Wuxi Biologics;China;$818 M;$245.3 M;$4.4 B;$56.4 B
+Bombardier;Canada;$10.2 B;$-867.2 M;$23.1 B;$1.7 B
+Rajesh Exports;India;$32.6 B;$111 M;$4.1 B;$2 B
+Polymetal International;Cyprus;$2.9 B;$1.1 B;$4.4 B;$10.2 B
+Bank of Qingdao;China;$2.8 B;$333.8 M;$65.5 B;$2.9 B
+Ahli United Bank;Bahrain;$1.7 B;$418.6 M;$40.1 B;$7.2 B
+Zhenro Properties Group;China;$5.3 B;$386.5 M;$33.9 B;$3 B
+Admiral Group;United Kingdom;$1.7 B;$678.1 M;$7.9 B;$13.1 B
+ONO Pharmaceutical;Japan;$2.8 B;$696.5 M;$7 B;$12.9 B
+Citrix Systems;United States;$3.2 B;$504.4 M;$4.9 B;$17.3 B
+New Oriental Education & Technology Group;China;$3.6 B;$379.6 M;$9.5 B;$25.2 B
+Evolution Gaming Group AB;Sweden;$638 M;$323.6 M;$3.9 B;$35.5 B
+OMRON;Japan;$6.1 B;$363.4 M;$7.4 B;$16.5 B
+Taiwan Cement;Taiwan;$3.9 B;$852.4 M;$13.9 B;$10.2 B
+China Merchants Port Holdings;Hong Kong;$1.2 B;$664.1 M;$21.9 B;$6 B
+Nishi-nippon Financial Holdings;Japan;$1.3 B;$208.5 M;$121.9 B;$967 M
+RMB Holdings;South Africa;$2 M;$2 B;$330 M;$191 M
+BPER Banca;Italy;$3.6 B;$280 M;$113.9 B;$3.2 B
+Tech Mahindra;India;$5.1 B;$560 M;$5.2 B;$13.2 B
+Schaeffler;Germany;$14.4 B;$-483.3 M;$16.9 B;$6.6 B
+Tokyu Fudosan;Japan;$8.9 B;$267.2 M;$26 B;$4.1 B
+Grupo Elektra;Mexico;$5.8 B;$-89 M;$18.6 B;$15.7 B
+Radiance Holdings (Group);China;$5.1 B;$453.1 M;$28.4 B;$2.4 B
+Virgin Money UK;United Kingdom;$3 B;$-280.3 M;$116.7 B;$3.9 B
+Kyushu Financial Group;Japan;$1.7 B;$158.5 M;$116.5 B;$1.8 B
+Xinjiang Goldwind Science & Technology;China;$8.2 B;$413.2 M;$16.7 B;$7.5 B
+Vingroup;Vietnam;$4.7 B;$212.9 M;$18.3 B;$21 B
+Hachijuni Bank;Japan;$1.3 B;$172.6 M;$112.3 B;$1.7 B
+NCSOFT;South Korea;$2 B;$497.8 M;$3.8 B;$16.8 B
+Jiangxi Zhengbang Technology;China;$5.6 B;$1 B;$7.5 B;$6.4 B
+North Pacific Bank;Japan;$1.3 B;$87.8 M;$111.8 B;$1 B
+Pembina Pipeline;Canada;$4.6 B;$-235.6 M;$24.7 B;$16.2 B
+Pinnacle West;United States;$3.6 B;$550.6 M;$20 B;$9.6 B
+Sinotrans Ltd.;China;$12.2 B;$398.5 M;$9.6 B;$3.2 B
+Jyske Bank;Denmark;$1.9 B;$220.4 M;$110.6 B;$3.5 B
+Bawag Group;Austria;$1.7 B;$324 M;$65 B;$4.7 B
+FMC;United States;$4.6 B;$550.1 M;$10.2 B;$14.7 B
+Kingspan Group PLC;Ireland;$5.2 B;$425.9 M;$6.5 B;$16.2 B
+Pinterest;United States;$1.7 B;$-128.3 M;$2.6 B;$48.9 B
+Orient Securities;China;$2.6 B;$381.4 M;$44.5 B;$4.5 B
+Yamaguchi Financial;Japan;$1.5 B;$211.4 M;$109.1 B;$1.6 B
+Bank of Kyoto;Japan;$1 B;$184.4 M;$107.9 B;$4.4 B
+Hyundai Engineering;South Korea;$14.4 B;$103.7 M;$16.5 B;$4.7 B
+US Foods;United States;$22.9 B;$-226 M;$12.4 B;$8.6 B
+Bank of Xi'an;China;$2 B;$378.9 M;$44.5 B;$3.4 B
+Roku;United States;$1.8 B;$-17.5 M;$2.3 B;$48.4 B
+Red Eléctrica;Spain;$2.3 B;$708.1 M;$15.8 B;$9.7 B
+CrowdStrike;United States;$874 M;$-92.6 M;$2.7 B;$48.2 B
+Tokyu;Japan;$9.2 B;$-282.5 M;$24.4 B;$7.9 B
+United Natural Foods;United States;$27 B;$198.4 M;$7.5 B;$2 B
+DoorDash;United States;$2.9 B;$-461 M;$6.4 B;$48.1 B
+Ooredoo Q.P.S.C;Qatar;$7.9 B;$309.4 M;$24.1 B;$6.3 B
+Banco Comercial Portugues;Portugal;$3.3 B;$166.4 M;$105.6 B;$2.1 B
+China Nuclear Engineering Corporation;China;$10.3 B;$180.7 M;$21.2 B;$3.4 B
+Cannae Holdings;United States;$586 M;$1.8 B;$4.6 B;$3.8 B
+Etsy;United States;$1.7 B;$349.2 M;$2.4 B;$27.7 B
+Hess;United States;$4.2 B;$-3.1 B;$18.8 B;$21.3 B
+Performance Food Group;United States;$26.7 B;$-174.5 M;$7.7 B;$7.7 B
+Hirogin Holdings;Japan;$1.1 B;$223.2 M;$103.5 B;$1.8 B
+Shanghai Yuyuan Tourist Mart;China;$6.1 B;$523.1 M;$17.2 B;$7.3 B
+Valley Natl Bancorp;United States;$1.6 B;$390.6 M;$40.8 B;$5.7 B
+Oriental Land;Japan;$2 B;$-351.3 M;$10.4 B;$47 B
+Shinsei Bank;Japan;$2.7 B;$249.6 M;$101.9 B;$3.3 B
+Covivio;France;$1.2 B;$410.1 M;$33.6 B;$8.6 B
+Voestalpine;Austria;$12.7 B;$-232 M;$17.5 B;$8 B
+Israel Discount Bank;Israel;$3.6 B;$283.5 M;$91.6 B;$5 B
+Makita;Japan;$5.3 B;$525 M;$7.3 B;$12.7 B
+TP ICAP;United Kingdom;$2.3 B;$123.1 M;$99.4 B;$2.6 B
+YPF;Argentina;$9.5 B;$-981.6 M;$22.9 B;$2.5 B
+Japan Securities;Japan;$280 M;$35.6 M;$98.4 B;$675 M
+Kakao;South Korea;$3.5 B;$131.9 M;$11 B;$46 B
+Agnico Eagle Mines;Canada;$3.1 B;$511.6 M;$9.6 B;$15.7 B
+RTL Group;Luxembourg;$6.9 B;$560.9 M;$11.4 B;$9.2 B
+Uniqa;Austria;$6.9 B;$22.1 M;$34.2 B;$2.5 B
+DocuSign;United States;$1.5 B;$-243.3 M;$2.3 B;$45.1 B
+Western Union;United States;$4.8 B;$744.3 M;$9.5 B;$10.6 B
+C&D International Investment Group;Hong Kong;$6.3 B;$339.9 M;$28 B;$2.3 B
+PSG Group;South Africa;$1 B;$1.7 B;$1.1 B;$1 B
+Arca Continental;Mexico;$7.9 B;$477.9 M;$12.3 B;$9.2 B
+Interactive Brokers Group;United States;$2.5 B;$195 M;$95.7 B;$7 B
+TMB Bank;Thailand;$2.9 B;$323.1 M;$60.4 B;$3.6 B
+Gunma Bank;Japan;$1.3 B;$176.2 M;$95.2 B;$1.4 B
+National Bank of Greece;Greece;$3.3 B;$43.3 M;$94.8 B;$3 B
+Westlake Chemical;United States;$7.5 B;$329 M;$13.8 B;$12.3 B
+Bank Muscat;Oman;$1.6 B;$446.4 M;$32.4 B;$3.6 B
+Iluka Resources;Australia;$715 M;$1.7 B;$2 B;$2.4 B
+Arkema;France;$9 B;$378.5 M;$13.1 B;$9.6 B
+IndusInd Bank;India;$4.8 B;$312.9 M;$45 B;$8.8 B
+China Resources Cement Holdings;Hong Kong;$5.2 B;$1.2 B;$8.8 B;$8 B
+Harbin Bank;China;$4.6 B;$100.2 M;$91.5 B;$1.4 B
+Rite Aid;United States;$24 B;$-90.9 M;$9.3 B;$974 M
+Stifel Financial;United States;$3.8 B;$503.5 M;$26.9 B;$7.4 B
+Daishi Hokuetsu Financial Group;Japan;$1.4 B;$89.5 M;$92.7 B;$1 B
+Snap-on;United States;$3.9 B;$627 M;$6.6 B;$12.8 B
+77 Bank;Japan;$942 M;$165.3 M;$91.2 B;$966 M
+Beijing Capital Development;China;$5.6 B;$250.7 M;$48.5 B;$2.3 B
+Aramark;United States;$11.3 B;$-688.5 M;$14.5 B;$10.1 B
+Newell Brands;United States;$9.4 B;$-770 M;$14.7 B;$11.4 B
+Will Semiconductor;China;$2.6 B;$293.6 M;$3.1 B;$36.4 B
+Zain;Kuwait;$5.3 B;$603.6 M;$16.1 B;$8.7 B
+Maroc Telecom;Morocco;$3.9 B;$571.3 M;$7.1 B;$13.7 B
+Chugoku Bank;Japan;$1.1 B;$118.6 M;$88.6 B;$1.6 B
+Horizon Therapeutics Public Limited Company;Ireland;$2.2 B;$389.8 M;$6.1 B;$20.9 B
+LPL Financial Holdings;United States;$5.9 B;$472.6 M;$6.5 B;$11.8 B
+Magazine Luiza;Brazil;$5.7 B;$75.9 M;$4.7 B;$25.2 B
+Zenith Bank;Nigeria;$1.7 B;$603.7 M;$21.5 B;$1.6 B
+Piraeus Bank;Greece;$2.7 B;$-753.5 M;$87.6 B;$289 M
+Lotte Chemical;South Korea;$10.4 B;$134.3 M;$17.8 B;$8.8 B
+Roblox;United States;$924 M;$-253.3 M;$1.8 B;$41.8 B
+American National Group;United States;$3.8 B;$468 M;$29.2 B;$3 B
+Shaw Communications;Canada;$4.1 B;$553.9 M;$12.6 B;$14 B
+Air Lease;United States;$2 B;$516.3 M;$25.2 B;$5.5 B
+Alpha Bank;Greece;$3.6 B;$118.3 M;$85.7 B;$2.1 B
+Novozymes;Denmark;$2.1 B;$432 M;$3.5 B;$18.1 B
+EQT AB;Sweden;$805 M;$299.9 M;$2 B;$33.9 B
+Huaibei Mining Holdings;China;$8.6 B;$493.9 M;$10.2 B;$3.8 B
+Medical Properties Trust;United States;$1.2 B;$429.3 M;$16.8 B;$12.8 B
+Smith & Nephew;United Kingdom;$4.6 B;$443.6 M;$11 B;$17.5 B
+Bank Negara Indonesia;Indonesia;$5 B;$225.6 M;$63.4 B;$7.6 B
+Trimble;United States;$3.1 B;$389.9 M;$6.9 B;$20.6 B
+Amadeus IT Group;Spain;$2.5 B;$-575.9 M;$14.3 B;$31.5 B
+Sino Biopharmaceutical;Hong Kong;$3.4 B;$404.2 M;$7.2 B;$19.5 B
+RPM International;United States;$5.8 B;$452.2 M;$5.8 B;$12.1 B
+Ingersoll Rand;United States;$4.9 B;$-33.3 M;$16.1 B;$21.1 B
+Palantir Technologies;United States;$1.1 B;$-1.2 B;$2.7 B;$40.9 B
+Eurobank Ergasias;Greece;$3.4 B;$-1.4 B;$82.9 B;$3.4 B
+Companhia Brasileira de Distribuicao;Brazil;$9.9 B;$422.4 M;$11.5 B;$1.7 B
+Steris;Ireland;$3.1 B;$431.9 M;$6.6 B;$17.8 B
+Chang Hwa Bank;Taiwan;$1.3 B;$239.1 M;$82.3 B;$6.5 B
+Evergrande Property Services Group;China;$1.5 B;$384.6 M;$2.6 B;$20.7 B
+Iyo Bank;Japan;$1.1 B;$212.6 M;$81.5 B;$1.8 B
+China Railway Signal & Communication;China;$5.8 B;$554.2 M;$16.1 B;$4.6 B
+Domino's Pizza;United States;$4.1 B;$491.3 M;$1.6 B;$15.3 B
+Focus Media Information Technology;China;$1.6 B;$387.8 M;$3 B;$20.3 B
+Unicaja Banco;Spain;$1.4 B;$87.7 M;$80.2 B;$1.5 B
+Dai Nippon Printing;Japan;$12.6 B;$61.2 M;$16.5 B;$5.9 B
+Bilibili;China;$1.7 B;$-437.9 M;$3.6 B;$39.3 B
+Gudang Garam;Indonesia;$7.9 B;$525.9 M;$5.6 B;$4.8 B
+Murphy USA;United States;$11.3 B;$386.1 M;$2.7 B;$3.9 B
+WPG Holdings;Taiwan;$20.7 B;$275.9 M;$8.3 B;$2.8 B
+Commercial Bank of Qatar;Qatar;$2 B;$357.4 M;$42.2 B;$6 B
+Match Group;United States;$2.4 B;$128.6 M;$3 B;$39.1 B
+AECOM Technology;United States;$13.3 B;$-200.8 M;$12.5 B;$9.9 B
+Ford Otosan;Turkey;$7 B;$596.8 M;$3.3 B;$8.1 B
+Reliance Steel;United States;$8.8 B;$369.1 M;$8.1 B;$9.9 B
+Galaxy Entertainment;Hong Kong;$1.1 B;$-512.3 M;$12 B;$38.6 B
+Johnson Matthey;United Kingdom;$18.8 B;$131.2 M;$10.8 B;$8.5 B
+Sartorius;Germany;$2.7 B;$258.5 M;$5.8 B;$38.5 B
+Almarai;Saudi Arabia;$4.1 B;$529.7 M;$8.7 B;$13.8 B
+Delivery Hero;Germany;$1.9 B;$-1 B;$5.3 B;$38.3 B
+Samhallsbyggnadsbolaget I Norden;Sweden;$556 M;$957.3 M;$14.6 B;$8.2 B
+Showa Denko;Japan;$9.1 B;$-714.7 M;$21.3 B;$4.6 B
+AngloGold Ashanti;South Africa;$4.4 B;$951.8 M;$7.7 B;$9.3 B
+Goodyear;United States;$12.3 B;$-1.3 B;$16.5 B;$4.1 B
+KT&G;South Korea;$4.5 B;$993.1 M;$10.6 B;$9.2 B
+Credit Bank of Moscow;Russia;$2.5 B;$370.1 M;$38.1 B;$2.8 B
+PTT Global Chemical;Thailand;$10.5 B;$6.4 M;$16.3 B;$9 B
+Aier Eye Hospital Group;China;$1.5 B;$241.8 M;$2.4 B;$37.5 B
+World Fuel Services;United States;$20.1 B;$109.5 M;$4.5 B;$2.2 B
+Suzuken;Japan;$20 B;$131.2 M;$11.8 B;$3.4 B
+Yonghui Superstores;China;$13.4 B;$293.1 M;$7.7 B;$9.2 B
+China CSSC Holdings;China;$6.3 B;$67.3 M;$19.9 B;$11.5 B
+DGB Financial Group;South Korea;$3 B;$273.5 M;$73.7 B;$1.2 B
+Nippon Steel Trading;Japan;$19.6 B;$122 M;$8.3 B;$1.2 B
+BayWa;Germany;$19.6 B;$41.7 M;$11.1 B;$1.7 B
+Burlington Stores;United States;$5.8 B;$-216.5 M;$6.8 B;$21.6 B
+Shiga Bank;Japan;$777 M;$117.3 M;$73 B;$1.1 B
+bioMerieux;France;$3.6 B;$461 M;$4.8 B;$15.7 B
+CPFL Energia;Brazil;$6 B;$706.3 M;$9.5 B;$6.4 B
+West Pharmaceutical Services;United States;$2.1 B;$346.2 M;$2.8 B;$23.2 B
+Avantor;United States;$6.4 B;$116.6 M;$9.9 B;$18.7 B
+Yandex NV;Netherlands;$3 B;$352.5 M;$7 B;$22 B
+Franco-Nevada;Canada;$1 B;$323 M;$5.6 B;$26.2 B
+Deutsche Pfandbriefbank;Germany;$1.7 B;$114 M;$72 B;$1.6 B
+Sekisui Chemical;Japan;$10 B;$370 M;$11.1 B;$8.8 B
+Lindt & Sprungli;Switzerland;$4.3 B;$342.7 M;$9.2 B;$23.4 B
+Darden Restaurants;United States;$6.2 B;$-219.2 M;$10.1 B;$19.1 B
+Ayala Corp;Philippines;$3.9 B;$345.6 M;$29.3 B;$9.8 B
+Algonquin Power & Utilities;Canada;$1.6 B;$777 M;$13.2 B;$9.7 B
+Kirkland Lake Gold;Canada;$2.5 B;$785.3 M;$7.1 B;$10.1 B
+China Conch Venture Holdings;China;$960 M;$1.1 B;$8.3 B;$8.7 B
+EPAM Systems;United States;$2.7 B;$327.2 M;$2.7 B;$25 B
+Jiangxi Bank;China;$3.1 B;$267.7 M;$70.1 B;$2.5 B
+Sichuan Road & Bridge;China;$8.3 B;$368.1 M;$16 B;$5 B
+CoStar Group;United States;$1.7 B;$227.1 M;$6.9 B;$35.7 B
+S-Oil;South Korea;$14.3 B;$-674.7 M;$14.4 B;$8.3 B
+Fuyo General Lease;Japan;$6.9 B;$249.7 M;$29.1 B;$2 B
+Juroku Bank;Japan;$1 B;$150.8 M;$69.8 B;$715 M
+Palo Alto Networks;United States;$3.8 B;$-368.2 M;$9.5 B;$35.7 B
+Swedish Match;Sweden;$1.8 B;$524.2 M;$1.8 B;$13.5 B
+Hyakugo Bank;Japan;$819 M;$110.3 M;$69.7 B;$740 M
+Okta;United States;$835 M;$-266.3 M;$3.3 B;$35.4 B
+Hulic;Japan;$3.2 B;$595.9 M;$19.6 B;$8.1 B
+Credito Emiliano;Italy;$2.2 B;$229.8 M;$69.3 B;$2 B
+Sistema;Russia;$9.6 B;$98 M;$19.2 B;$4.7 B
+Angang Steel;China;$14.5 B;$288.9 M;$13.5 B;$6.2 B
+Barry Callebaut;Switzerland;$7.1 B;$327 M;$8 B;$12.9 B
+Sumitomo Forestry Co.,;Japan;$10.5 B;$379.6 M;$10.6 B;$4.2 B
+JD Sports Fashion;United Kingdom;$7.9 B;$288.5 M;$7.1 B;$13.3 B
+A2A;Italy;$7.6 B;$415 M;$15 B;$5.8 B
+IHI;Japan;$11.5 B;$28.2 M;$16.6 B;$3 B
+Hokkaido Electric Power;Japan;$6.9 B;$361 M;$19.3 B;$872 M
+First Pacific;Hong Kong;$7.1 B;$201.6 M;$26.9 B;$1.5 B
+President Chain Store;Taiwan;$8.8 B;$347.7 M;$7.5 B;$10.1 B
+Proximus;Belgium;$6.2 B;$644.1 M;$10.7 B;$7.2 B
+W.P. Carey;United States;$1.2 B;$455.4 M;$14.7 B;$12.7 B
+Tele2;Sweden;$2.9 B;$797.7 M;$9.2 B;$9.7 B
+Haidilao International Holding;China;$4.2 B;$50.7 M;$4.2 B;$34.4 B
+LT Group;Philippines;$1.9 B;$423.8 M;$28.2 B;$3 B
+Peloton Interactive;United States;$3 B;$166.4 M;$3.9 B;$34.2 B
+Ulta Beauty;United States;$6.2 B;$175.8 M;$5.7 B;$18.6 B
+Invitation Homes;United States;$1.7 B;$154.3 M;$17.5 B;$18.9 B
+Manpower;United States;$18 B;$23.8 M;$9.3 B;$6 B
+Trade Desk;United States;$836 M;$242.3 M;$2.8 B;$34.1 B
+Carvana;United States;$5.6 B;$-171.1 M;$3 B;$21.5 B
+Daou Data;South Korea;$5.8 B;$81.5 M;$35.9 B;$485 M
+PIK Group;Russia;$2.7 B;$1.2 B;$8.9 B;$8.3 B
+Avnet;United States;$17.9 B;$-76.2 M;$8.3 B;$4.4 B
+Braskem;Brazil;$11.4 B;$-1.3 B;$16.6 B;$7.1 B
+Swatch Group;Switzerland;$6 B;$-54.3 M;$14.6 B;$15.8 B
+Just Group;United Kingdom;$6 B;$212.2 M;$34.2 B;$1.6 B
+Bank Pekao;Poland;$2.7 B;$282.6 M;$62.3 B;$5.3 B
+Hubei Biocause Pharmaceutical;China;$6 B;$190.6 M;$33.3 B;$3.1 B
+KGHM Polska Miedz;Poland;$6 B;$461 M;$10.8 B;$10.5 B
+Big Lots;United States;$6.2 B;$629.2 M;$4 B;$2.4 B
+Taiwan Business Bank;Taiwan;$1.1 B;$159.7 M;$63.8 B;$2.6 B
+Generac Holdings Inc.;United States;$2.5 B;$348.3 M;$3.2 B;$20.9 B
+Toho Bank;Japan;$543 M;$21.1 M;$63.7 B;$530 M
+Ogaki Kyoritsu Bank;Japan;$693 M;$63.9 M;$63.6 B;$796 M
+Bank of Jiujiang;China;$2.9 B;$241.5 M;$63.6 B;$3.3 B
+TrygVesta;Denmark;$3.4 B;$424.1 M;$9.8 B;$15.8 B
+Gjensidige Forsikring;Norway;$3.1 B;$526.2 M;$13.7 B;$11.7 B
+Zillow Group;United States;$3.3 B;$-162.1 M;$7.5 B;$32.4 B
+Fareast Islami Life Insurance Company;Bangladesh;$1.3 B;$1.2 B;$510 M;$34 M
+Inventec;Taiwan;$17.3 B;$256.3 M;$7.6 B;$3.4 B
+Marvell Technology Group;United States;$3 B;$-277.3 M;$10.8 B;$32.4 B
+Ryanair Holdings;Ireland;$3.1 B;$-1.5 B;$15.5 B;$21.6 B
+Cullen/Frost Bankers;United States;$1.5 B;$328.1 M;$42.4 B;$7.3 B
+Guangzhou Baiyunshan Pharmaceutical Holdings;China;$8.9 B;$419.7 M;$9.1 B;$4 B
+Cencosud;Chile;$14 B;$162.2 M;$14 B;$6.9 B
+Abu Dhabi Islamic Bank;United Arab Emirates;$1.7 B;$359.6 M;$34.8 B;$4.9 B
+China Resources Beer (Holdings);Hong Kong;$4.5 B;$298 M;$6.7 B;$26.8 B
+Bendigo & Adelaide Bank;Australia;$1.6 B;$200.3 M;$62.3 B;$4.3 B
+Core-Mark Holding;United States;$17 B;$63.2 M;$2.1 B;$2 B
+Kimco Realty;United States;$1.7 B;$995.7 M;$11.6 B;$8.5 B
+Basler Kantonalbank;Switzerland;$704 M;$115.4 M;$61.6 B;$381 M
+Banca Popolare di Sondrio;Italy;$1.1 B;$121.5 M;$60.9 B;$1.6 B
+SBA Communications;United States;$2.1 B;$24.1 M;$9.2 B;$31.5 B
+San-In Godo Bank;Japan;$800 M;$84.2 M;$60.8 B;$765 M
+Nanto Bank;Japan;$679 M;$52.3 M;$60.8 B;$554 M
+Scentre Group;Australia;$1.5 B;$-2.6 B;$29.4 B;$11.6 B
+Xinyu Iron & Steel;China;$9.7 B;$378.8 M;$7.5 B;$3.1 B
+Shanghai Fosun Pharmaceutical;China;$4.4 B;$531.4 M;$12.8 B;$12 B
+Hanwa;Japan;$16.2 B;$-106.1 M;$8 B;$1.3 B
+Albemarle;United States;$3.1 B;$375.8 M;$10.5 B;$17.7 B
+Brown & Brown;United States;$2.6 B;$465.4 M;$9.1 B;$14 B
+Ruchi Soya Industries;India;$1.9 B;$1.1 B;$1 B;$2.6 B
+Offcn Education Technology;China;$1.5 B;$309.2 M;$2.3 B;$23.8 B
+Brilliance China Automotive Holdings;Hong Kong;$485 M;$1.1 B;$7.6 B;$4.7 B
+Senshu Ikeda Holdings;Japan;$656 M;$63.2 M;$58.6 B;$448 M
+Airports of Thailand;Thailand;$551 M;$-206.3 M;$6.9 B;$30 B
+HelloFresh;Germany;$4.3 B;$420.3 M;$1.9 B;$15.3 B
+First Heartland Jusan Bank;Kazakhstan;$533 M;$1.1 B;$3.8 B;$323 M
+Liberbank;Spain;$940 M;$46.7 M;$58.1 B;$1 B
+Ultrapar Participacoes;Brazil;$15.8 B;$173.2 M;$7.1 B;$4.1 B
+CIT Group;United States;$3.1 B;$-615.3 M;$58.1 B;$5.2 B
+Dassault Aviation;France;$6.3 B;$345.1 M;$16.8 B;$9.6 B
+RingCentral;United States;$1.2 B;$-83 M;$2.2 B;$29.4 B
+Zheshang Development Group;China;$15.7 B;$79.1 M;$2.9 B;$920 M
+Fluor;United States;$15.7 B;$-435 M;$7.3 B;$3.2 B
+Thor Industries;United States;$9.3 B;$389.5 M;$6.4 B;$7.8 B
+Scotts Miracle-Gro;United States;$4.5 B;$483.3 M;$4 B;$13.3 B
+Tokyo Kiraboshi Financial Group;Japan;$867 M;$68.2 M;$56.9 B;$353 M
+Ramsay Health Care;Australia;$8.1 B;$173.2 M;$13.4 B;$11.9 B
+Toll Brothers;United States;$7.3 B;$486.2 M;$10.9 B;$7.5 B
+Teledyne Technologies;United States;$3.1 B;$401.9 M;$5.1 B;$15.9 B
+JB Financial Group;South Korea;$1.9 B;$292.2 M;$49.1 B;$1.1 B
+Taiheiyo Cement;Japan;$8.2 B;$428.7 M;$10.3 B;$3.1 B
+Tenneco;United States;$15.4 B;$-1.5 B;$11.9 B;$939 M
+Harel Insurance Investments & Financial Services;Israel;$5.4 B;$210.8 M;$35.9 B;$2.3 B
+Aareal Bank;Germany;$1.2 B;$-102.6 M;$55.6 B;$1.7 B
+Intco Medical Technology;China;$2 B;$1 B;$2 B;$7.9 B
+XPeng;China;$860 M;$-398.6 M;$6.8 B;$28.7 B
+Teleflex;United States;$2.5 B;$335.3 M;$7.2 B;$20.2 B
+Amdocs;United States;$4.2 B;$676.1 M;$6.9 B;$10 B
+Builders FirstSource;United States;$8.6 B;$313.5 M;$4.2 B;$10.3 B
+Zhangzhou Pientzehuang Pharmaceutical;China;$936 M;$238 M;$1.6 B;$28.6 B
+Afterpay;Australia;$444 M;$-46.4 M;$1.7 B;$28.5 B
+Aozora Bank;Japan;$1.4 B;$191 M;$54.2 B;$2.6 B
+PBF Energy;United States;$15.1 B;$-1.4 B;$10.5 B;$1.7 B
+Vietnam Technological & Commercial Joint Stock Bank;Vietnam;$1.7 B;$530.4 M;$19 B;$6.1 B
+BeiGene;China;$309 M;$-1.6 B;$5.6 B;$28.4 B
+IDEX;United States;$2.4 B;$377.8 M;$4.4 B;$16.7 B
+Keiyo Bank;Japan;$585 M;$65.7 M;$53.8 B;$520 M
+Royal Mail;United Kingdom;$14.5 B;$28 M;$12.8 B;$7.1 B
+Sun Pharma Industries;India;$4.5 B;$325.1 M;$9.2 B;$20.8 B
+Orient;Japan;$2.2 B;$169.2 M;$53.5 B;$2.3 B
+Tronox;United States;$2.8 B;$969 M;$6.6 B;$3.1 B
+Luzerner Kantonalbank;Switzerland;$682 M;$237 M;$53.1 B;$4.1 B
+Zhejiang NHU;China;$1.5 B;$516.7 M;$4.7 B;$12 B
+LIC Housing Finance;India;$2.7 B;$372.2 M;$29.7 B;$2.7 B
+Unity Software;United States;$772 M;$-282.3 M;$2.7 B;$28 B
+Datadog;United States;$603 M;$-24.5 M;$1.9 B;$27.7 B
+Bank Of Gansu;China;$2.3 B;$80.4 M;$52.4 B;$2.6 B
+Zhejiang Chint Electrics;China;$4.4 B;$563.1 M;$9.7 B;$11.1 B
+FIBI Holdings;Israel;$1.5 B;$104.4 M;$52.3 B;$1.2 B
+Metropolitan Bank & Trust;Philippines;$2.9 B;$278.8 M;$51.2 B;$4.2 B
+Wintrust Financial;United States;$1.9 B;$293 M;$45.1 B;$4.5 B
+Cattolica Assicurazioni;Italy;$5.8 B;$41 M;$31.8 B;$975 M
+Bank of Greece;Greece;$1.3 B;$942.8 M;;$366 M
+Dollarama;Canada;$3 B;$421.5 M;$3.6 B;$14.3 B
+Hokkoku Bank;Japan;$688 M;$83.9 M;$51.4 B;$649 M
+Rexel;France;$14.4 B;$-297.8 M;$12.2 B;$6.3 B
+Hyakujushi Bank;Japan;$612 M;$37.9 M;$51.3 B;$427 M
+Bohai Leasing;China;$5.1 B;$-482.7 M;$40.2 B;$2.2 B
+Haseko;Japan;$7.4 B;$456 M;$8.6 B;$4.2 B
+Turkish Airlines;Turkey;$6.6 B;$-795.1 M;$25.2 B;$2 B
+Puma;Germany;$6 B;$89.9 M;$5.7 B;$16.4 B
+Youngor Group;China;$1.9 B;$924.7 M;$11.1 B;$5.6 B
+Howmet Aerospace;United States;$6.8 B;$261 M;$11.4 B;$14.2 B
+Kiyo Bank;Japan;$704 M;$84.5 M;$50.8 B;$949 M
+Otsuka;Japan;$7.8 B;$368.2 M;$4.6 B;$9.2 B
+Vodafone Idea;India;$5.9 B;$-6.6 B;$28.8 B;$3.4 B
+Musashino Bank;Japan;$552 M;$60.6 M;$50.2 B;$533 M
+Sonova Holding;Switzerland;$2.7 B;$345.7 M;$5.9 B;$18.3 B
+TransUnion;United States;$2.7 B;$343.2 M;$7.3 B;$18.4 B
+Zhejiang Dahua Technology;China;$3.8 B;$565.4 M;$5.6 B;$10.8 B
+ALFA;Mexico;$13.5 B;$182.7 M;$12.9 B;$3 B
+Brambles;Australia;$4.9 B;$458 M;$7.5 B;$11.9 B
+Banque Centrale Populaire;Morocco;$2.7 B;$129.5 M;$49.9 B;$5.8 B
+Nuernberger Beteiligungs;Germany;$4.9 B;$88.2 M;$41.1 B;$1.1 B
+Nexstar Media Group;United States;$4.5 B;$811.4 M;$13.4 B;$6.7 B
+Alfa Laval;Sweden;$4.5 B;$423.2 M;$7.4 B;$14 B
+Indorama Ventures;Thailand;$10.6 B;$53.2 M;$15.1 B;$8.3 B
+Central Bank of India;India;$3.6 B;$-167.1 M;$49.6 B;$1.4 B
+Petronas Chemicals;Malaysia;$3.4 B;$387.7 M;$10.3 B;$15.4 B
+Zscaler;United States;$536 M;$-191.4 M;$2 B;$26.2 B
+Symrise;Germany;$4 B;$349.8 M;$7.4 B;$17.7 B
+Barratt Developments;United Kingdom;$4.7 B;$520.4 M;$9.6 B;$11 B
+Autohome;China;$1.3 B;$495.8 M;$3.6 B;$12 B
+Dangote Cement;Nigeria;$2.7 B;$720.7 M;$5.1 B;$9.1 B
+RusHydro;Russia;$5.3 B;$640.6 M;$12.9 B;$4.8 B
+China Petroleum Engineering;China;$10.6 B;$145.4 M;$14.9 B;$2.5 B
+Avenue Supermarts;India;$3.1 B;$129.1 M;$1.7 B;$25.4 B
+Open House;Japan;$5.7 B;$604.5 M;$5.6 B;$5.8 B
+West Fraser Timber Co.;Canada;$4.4 B;$578.5 M;$4.2 B;$10.5 B
+TCF Financial;United States;$2.3 B;$222.8 M;$47.8 B;$7.3 B
+ALSO Holding;Switzerland;$13.6 B;$148.6 M;$3.5 B;$4 B
+Bank of Nagoya;Japan;$596 M;$34.4 M;$47.7 B;$482 M
+Heimstaden AB Pref. Shs;Sweden;$766 M;$481.4 M;$19.6 B;$648 M
+Sysmex;Japan;$2.8 B;$296.6 M;$3.8 B;$21.6 B
+Clal Insurance Enterprises;Israel;$5.5 B;$-156.3 M;$32 B;$1.2 B
+Charles River Labs;United States;$2.9 B;$364.3 M;$5.5 B;$16.2 B
+Far Eastern New Century;Taiwan;$7 B;$273.8 M;$22 B;$6 B
+Kingboard Holdings;Hong Kong;$5.6 B;$606.4 M;$12 B;$6.7 B
+CenTra;Hong Kong;$6.4 B;$262 M;$25.1 B;$1.4 B
+Shenzhen Investment;Hong Kong;$2.4 B;$480 M;$19.6 B;$3.4 B
+Tongling Nonferrous Metals;China;$13.5 B;$124.1 M;$7.4 B;$4.7 B
+Cathay Pacific Airways;Hong Kong;$6.1 B;$-2.8 B;$26.4 B;$5.9 B
+Slack Technologies;United States;$903 M;$-300.4 M;$2.4 B;$24.6 B
+Aeroports de Paris;France;$2.4 B;$-1.3 B;$22.7 B;$12.1 B
+Digital China Group;China;$13.3 B;$90.4 M;$4.7 B;$1.8 B
+Penn National Gaming;United States;$3.6 B;$-669.5 M;$17.1 B;$15.6 B
+EFG International;Switzerland;$1.6 B;$122.8 M;$46 B;$2.5 B
+SEB SA;France;$7.9 B;$342.6 M;$11.3 B;$9.4 B
+Dixons Carphone;United Kingdom;$13.2 B;$-94.5 M;$9.8 B;$2.3 B
+Guangdong Investment;Hong Kong;$3 B;$581.5 M;$11.6 B;$10.2 B
+Pinnacle Bank;United States;$1.3 B;$312.3 M;$35 B;$7 B
+Nanjing Iron & Steel;China;$7.7 B;$412.3 M;$7.3 B;$4 B
+Rede D'Oro Luiz;Brazil;$2.7 B;$83 M;$8.8 B;$24.2 B
+Origin Energy;Australia;$8.6 B;$-346.3 M;$17.1 B;$5.8 B
+HubSpot;United States;$883 M;$-85 M;$2 B;$24.1 B
+JTEKT;Japan;$13.1 B;$-34.9 M;$12 B;$3.5 B
+Insurance Australia Group;Australia;$5.4 B;$-212 M;$25 B;$9.3 B
+Sumec Corporation;China;$13 B;$79.2 M;$7.1 B;$1.3 B
+Gold Fields;South Africa;$3.9 B;$718.1 M;$7.5 B;$8.9 B
+Paycom;United States;$841 M;$143.4 M;$2.6 B;$24 B
+Taiheiyo Cement;Japan;$8.2 B;$428.7 M;$10.3 B;$3.1 B
+Tenneco;United States;$15.4 B;$-1.5 B;$11.9 B;$939 M
+Harel Insurance Investments & Financial Services;Israel;$5.4 B;$210.8 M;$35.9 B;$2.3 B
+Aareal Bank;Germany;$1.2 B;$-102.6 M;$55.6 B;$1.7 B
+Intco Medical Technology;China;$2 B;$1 B;$2 B;$7.9 B
+XPeng;China;$860 M;$-398.6 M;$6.8 B;$28.7 B
+Teleflex;United States;$2.5 B;$335.3 M;$7.2 B;$20.2 B
+Amdocs;United States;$4.2 B;$676.1 M;$6.9 B;$10 B
+Builders FirstSource;United States;$8.6 B;$313.5 M;$4.2 B;$10.3 B
+Zhangzhou Pientzehuang Pharmaceutical;China;$936 M;$238 M;$1.6 B;$28.6 B
+Afterpay;Australia;$444 M;$-46.4 M;$1.7 B;$28.5 B
+Aozora Bank;Japan;$1.4 B;$191 M;$54.2 B;$2.6 B
+PBF Energy;United States;$15.1 B;$-1.4 B;$10.5 B;$1.7 B
+Vietnam Technological & Commercial Joint Stock Bank;Vietnam;$1.7 B;$530.4 M;$19 B;$6.1 B
+BeiGene;China;$309 M;$-1.6 B;$5.6 B;$28.4 B
+IDEX;United States;$2.4 B;$377.8 M;$4.4 B;$16.7 B
+Keiyo Bank;Japan;$585 M;$65.7 M;$53.8 B;$520 M
+Royal Mail;United Kingdom;$14.5 B;$28 M;$12.8 B;$7.1 B
+Sun Pharma Industries;India;$4.5 B;$325.1 M;$9.2 B;$20.8 B
+Orient;Japan;$2.2 B;$169.2 M;$53.5 B;$2.3 B
+Tronox;United States;$2.8 B;$969 M;$6.6 B;$3.1 B
+Luzerner Kantonalbank;Switzerland;$682 M;$237 M;$53.1 B;$4.1 B
+Zhejiang NHU;China;$1.5 B;$516.7 M;$4.7 B;$12 B
+LIC Housing Finance;India;$2.7 B;$372.2 M;$29.7 B;$2.7 B
+Unity Software;United States;$772 M;$-282.3 M;$2.7 B;$28 B
+Datadog;United States;$603 M;$-24.5 M;$1.9 B;$27.7 B
+Bank Of Gansu;China;$2.3 B;$80.4 M;$52.4 B;$2.6 B
+Zhejiang Chint Electrics;China;$4.4 B;$563.1 M;$9.7 B;$11.1 B
+FIBI Holdings;Israel;$1.5 B;$104.4 M;$52.3 B;$1.2 B
+Metropolitan Bank & Trust;Philippines;$2.9 B;$278.8 M;$51.2 B;$4.2 B
+Wintrust Financial;United States;$1.9 B;$293 M;$45.1 B;$4.5 B
+Cattolica Assicurazioni;Italy;$5.8 B;$41 M;$31.8 B;$975 M
+Bank of Greece;Greece;$1.3 B;$942.8 M;;$366 M
+Dollarama;Canada;$3 B;$421.5 M;$3.6 B;$14.3 B
+Hokkoku Bank;Japan;$688 M;$83.9 M;$51.4 B;$649 M
+Rexel;France;$14.4 B;$-297.8 M;$12.2 B;$6.3 B
+Hyakujushi Bank;Japan;$612 M;$37.9 M;$51.3 B;$427 M
+Bohai Leasing;China;$5.1 B;$-482.7 M;$40.2 B;$2.2 B
+Haseko;Japan;$7.4 B;$456 M;$8.6 B;$4.2 B
+Turkish Airlines;Turkey;$6.6 B;$-795.1 M;$25.2 B;$2 B
+Puma;Germany;$6 B;$89.9 M;$5.7 B;$16.4 B
+Youngor Group;China;$1.9 B;$924.7 M;$11.1 B;$5.6 B
+Howmet Aerospace;United States;$6.8 B;$261 M;$11.4 B;$14.2 B
+Kiyo Bank;Japan;$704 M;$84.5 M;$50.8 B;$949 M
+Otsuka;Japan;$7.8 B;$368.2 M;$4.6 B;$9.2 B
+Vodafone Idea;India;$5.9 B;$-6.6 B;$28.8 B;$3.4 B
+Musashino Bank;Japan;$552 M;$60.6 M;$50.2 B;$533 M
+Sonova Holding;Switzerland;$2.7 B;$345.7 M;$5.9 B;$18.3 B
+TransUnion;United States;$2.7 B;$343.2 M;$7.3 B;$18.4 B
+Zhejiang Dahua Technology;China;$3.8 B;$565.4 M;$5.6 B;$10.8 B
+ALFA;Mexico;$13.5 B;$182.7 M;$12.9 B;$3 B
+Brambles;Australia;$4.9 B;$458 M;$7.5 B;$11.9 B
+Banque Centrale Populaire;Morocco;$2.7 B;$129.5 M;$49.9 B;$5.8 B
+Nuernberger Beteiligungs;Germany;$4.9 B;$88.2 M;$41.1 B;$1.1 B
+Nexstar Media Group;United States;$4.5 B;$811.4 M;$13.4 B;$6.7 B
+Alfa Laval;Sweden;$4.5 B;$423.2 M;$7.4 B;$14 B
+Indorama Ventures;Thailand;$10.6 B;$53.2 M;$15.1 B;$8.3 B
+Central Bank of India;India;$3.6 B;$-167.1 M;$49.6 B;$1.4 B
+Petronas Chemicals;Malaysia;$3.4 B;$387.7 M;$10.3 B;$15.4 B
+Zscaler;United States;$536 M;$-191.4 M;$2 B;$26.2 B
+Symrise;Germany;$4 B;$349.8 M;$7.4 B;$17.7 B
+Barratt Developments;United Kingdom;$4.7 B;$520.4 M;$9.6 B;$11 B
+Autohome;China;$1.3 B;$495.8 M;$3.6 B;$12 B
+Dangote Cement;Nigeria;$2.7 B;$720.7 M;$5.1 B;$9.1 B
+RusHydro;Russia;$5.3 B;$640.6 M;$12.9 B;$4.8 B
+China Petroleum Engineering;China;$10.6 B;$145.4 M;$14.9 B;$2.5 B
+Avenue Supermarts;India;$3.1 B;$129.1 M;$1.7 B;$25.4 B
+Open House;Japan;$5.7 B;$604.5 M;$5.6 B;$5.8 B
+West Fraser Timber Co.;Canada;$4.4 B;$578.5 M;$4.2 B;$10.5 B
+TCF Financial;United States;$2.3 B;$222.8 M;$47.8 B;$7.3 B
+ALSO Holding;Switzerland;$13.6 B;$148.6 M;$3.5 B;$4 B
+Bank of Nagoya;Japan;$596 M;$34.4 M;$47.7 B;$482 M
+Heimstaden AB Pref. Shs;Sweden;$766 M;$481.4 M;$19.6 B;$648 M
+Sysmex;Japan;$2.8 B;$296.6 M;$3.8 B;$21.6 B
+Clal Insurance Enterprises;Israel;$5.5 B;$-156.3 M;$32 B;$1.2 B
+Charles River Labs;United States;$2.9 B;$364.3 M;$5.5 B;$16.2 B
+Far Eastern New Century;Taiwan;$7 B;$273.8 M;$22 B;$6 B
+Kingboard Holdings;Hong Kong;$5.6 B;$606.4 M;$12 B;$6.7 B
+CenTra;Hong Kong;$6.4 B;$262 M;$25.1 B;$1.4 B
+Shenzhen Investment;Hong Kong;$2.4 B;$480 M;$19.6 B;$3.4 B
+Tongling Nonferrous Metals;China;$13.5 B;$124.1 M;$7.4 B;$4.7 B
+Cathay Pacific Airways;Hong Kong;$6.1 B;$-2.8 B;$26.4 B;$5.9 B
+Slack Technologies;United States;$903 M;$-300.4 M;$2.4 B;$24.6 B
+Aeroports de Paris;France;$2.4 B;$-1.3 B;$22.7 B;$12.1 B
+Digital China Group;China;$13.3 B;$90.4 M;$4.7 B;$1.8 B
+Penn National Gaming;United States;$3.6 B;$-669.5 M;$17.1 B;$15.6 B
+EFG International;Switzerland;$1.6 B;$122.8 M;$46 B;$2.5 B
+SEB SA;France;$7.9 B;$342.6 M;$11.3 B;$9.4 B
+Dixons Carphone;United Kingdom;$13.2 B;$-94.5 M;$9.8 B;$2.3 B
+Guangdong Investment;Hong Kong;$3 B;$581.5 M;$11.6 B;$10.2 B
+Pinnacle Bank;United States;$1.3 B;$312.3 M;$35 B;$7 B
+Nanjing Iron & Steel;China;$7.7 B;$412.3 M;$7.3 B;$4 B
+Rede D'Oro Luiz;Brazil;$2.7 B;$83 M;$8.8 B;$24.2 B
+Origin Energy;Australia;$8.6 B;$-346.3 M;$17.1 B;$5.8 B
+HubSpot;United States;$883 M;$-85 M;$2 B;$24.1 B
+JTEKT;Japan;$13.1 B;$-34.9 M;$12 B;$3.5 B
+Insurance Australia Group;Australia;$5.4 B;$-212 M;$25 B;$9.3 B
+Sumec Corporation;China;$13 B;$79.2 M;$7.1 B;$1.3 B
+Gold Fields;South Africa;$3.9 B;$718.1 M;$7.5 B;$8.9 B
+Paycom;United States;$841 M;$143.4 M;$2.6 B;$24 B
