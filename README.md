@@ -1,4 +1,4 @@
-<h1 align="center">Software solution to analyse and predict companies' actions</h1>
+<h1 align="center">Software solution to analyse companies' actions</h1>
 <h3 align="center">Second Course Work. Analysis Group</h3>
 <!-- <hr width="50%" align="center"> -->
 <h6 align="center">Made by: Daria Anonymousova, Aleksandra Arhipova, Ilya Suchkov</h6>
