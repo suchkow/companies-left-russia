@@ -1,9 +1,8 @@
 <h1 align="center">Second Course Work</h1>
 <h3 align="center">Software solution to analyse and predict companies' actions</h3>
-<hr width="50%" align="center">
+<!-- <hr width="50%" align="center"> -->
 <h6 align="center">Made by: Daria Anonymousova, Aleksandra Arhipova, Ilya Suchkov</h6>
 <h6 align="center">Supervised by: Anna Anonymousova</h6>
-<hr align="center">
 <div align="center">
 
 ![STATUS](https://img.shields.io/badge/status-active-brightgreen?style=for-the-badge)
