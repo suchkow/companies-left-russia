@@ -15,12 +15,17 @@
 ## Table of Contents
 * [Abstract](#abstract)
 * [...](#)
-* [...](#)
+* [Structure](#struct)
 * [References](#references)
   * [Languages & libraries](#lanslibs)
   * [Works & articles](#worksarts)
 
 ## Abstract <a name="abstract"></a>
+
+## Structure <a name="struct"></a>
+
+- /docs -
+- /src
 
 ## References <a name="references"></a>
 
