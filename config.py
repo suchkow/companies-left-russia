@@ -15,6 +15,10 @@ REGIONS_CLMNS = pd.read_csv('data/regions-clmns.csv')
 REGIONS_ROWS = pd.read_csv('data/regions-rows.csv')
 COUNTRY_RU_ENG = pd.read_csv('data/country_ru_eng.tsv', delimiter='\t')
 
+# --------------- CONTAINERS --------------- #
+LIST_DF = []
+DICT_DF = {}
+
 
 # --------------- GETTERS FOR CONSTS --------------- #
 def get_v1() -> object:
@@ -51,3 +55,26 @@ def get_regs_rows() -> object:
 
 def get_country_ru_eng() -> object:
     return COUNTRY_RU_ENG.copy(deep=True)
+
+
+# --------------- FUNCS-HELPERS --------------- #
+def save_new_df(df_name: str, data_frame: object) -> int:
+    # LIST_DF.append(data_frame.copy(deep=True))
+    DICT_DF[df_name] = data_frame.copy(deep=True)
+    return len(DICT_DF)
+
+
+def call_df(df_name: str) -> object:
+    return DICT_DF[df_name]
+
+
+
+
+
+
+
+
+
+
+
+
