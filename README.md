@@ -1,7 +1,7 @@
 <h1 align="center">Software solution to analyse companies' actions</h1>
 <h3 align="center">Second Course Work. Analysis Group</h3>
 <!-- <hr width="50%" align="center"> -->
-<h6 align="center">Made by: Daria Anonymousova, Aleksandra Arhipova, Ilya Suchkov</h6>
+<h6 align="center">Made by: Daria Anonymousova, Aleksandra Arkhipova, Ilya Suchkov</h6>
 <h6 align="center">Supervised by: Anna Anonymousova</h6>
 <br>
 <div align="center">
@@ -24,8 +24,17 @@
 
 ## Structure <a name="struct"></a>
 
-- /docs -
-- /src
+### Folders
+- `/data` - all the csv/tsv files
+  - `/pickles` - folder to storage created merged DataFrames and access them anywhere
+- `/docs` - all the pdf/docx files related to project's defence and submissions in the university
+- `/src` - main folder for jupyter files with data analysis
+
+### Files
+- `config.py` - consists of csv/tsv files transferred to DataFrames to reduce `.copy()` and similar actions.
+Local links such as: `/Users/name/Downloads/major_version_act.csv` are not taken into account! 
+- `configlib.py` - includes custom "getter" functions to get DataFrames from `config.py`
+- `README.md` - you are reading it right now
 
 ## References <a name="references"></a>
 
