@@ -1,8 +1,8 @@
 <h1 align="center">Software solution to analyse companies' actions</h1>
-<h3 align="center">Second Course Work. Analysis Group</h3>
+<h3 align="center">Second Course Work. Analytical Team</h3>
 <!-- <hr width="50%" align="center"> -->
-<h6 align="center">Made by: Daria Anonymousova, Aleksandra Arkhipova, Ilya Suchkov</h6>
-<h6 align="center">Supervised by: Anna Anonymousova</h6>
+<h6 align="center">Made by: Ilya Suchkov, Aleksandra Arkhipova, Daria Lyakhova</h6>
+<h6 align="center">Supervised by: Anna Fedyunina</h6>
 <br>
 <div align="center">
 
@@ -10,17 +10,6 @@
 ![BUILD](https://img.shields.io/badge/BUILD-PASSING-brightgreen?style=for-the-badge)
 ![LICENSE](https://img.shields.io/badge/LICENSE-MIT-brightgreen?style=for-the-badge)
 </div>
-
-
-## Table of Contents
-* [Abstract](#abstract)
-* [...](#)
-* [Structure](#struct)
-* [References](#references)
-  * [Languages & libraries](#lanslibs)
-  * [Works & articles](#worksarts)
-
-## Abstract <a name="abstract"></a>
 
 ## Structure <a name="struct"></a>
 
